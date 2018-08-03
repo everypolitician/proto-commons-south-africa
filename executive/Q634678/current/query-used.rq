@@ -1,0 +1,336 @@
+SELECT ?statement
+       ?item ?name_af ?name_en ?name_nso ?name_ss ?name_st ?name_tn ?name_ts ?name_ve ?name_xh ?name_zu
+       ?party ?party_name_af ?party_name_en ?party_name_nso ?party_name_ss ?party_name_st ?party_name_tn ?party_name_ts ?party_name_ve ?party_name_xh ?party_name_zu
+       ?district ?district_name_af ?district_name_en ?district_name_nso ?district_name_ss ?district_name_st ?district_name_tn ?district_name_ts ?district_name_ve ?district_name_xh ?district_name_zu
+       ?role ?role_af ?role_en ?role_nso ?role_ss ?role_st ?role_tn ?role_ts ?role_ve ?role_xh ?role_zu
+       ?start ?end ?facebook
+       ?role_superclass ?role_superclass_af ?role_superclass_en ?role_superclass_nso ?role_superclass_ss ?role_superclass_st ?role_superclass_tn ?role_superclass_ts ?role_superclass_ve ?role_superclass_xh ?role_superclass_zu
+       ?org ?org_af ?org_en ?org_nso ?org_ss ?org_st ?org_tn ?org_ts ?org_ve ?org_xh ?org_zu ?org_jurisdiction
+WHERE {
+  VALUES ?role_superclass { wd:Q273884 }
+  BIND(wd:Q634678 AS ?org)
+  OPTIONAL {
+  ?org rdfs:label ?org_af
+  FILTER(LANG(?org_af) = "af")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_en
+  FILTER(LANG(?org_en) = "en")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_nso
+  FILTER(LANG(?org_nso) = "nso")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_ss
+  FILTER(LANG(?org_ss) = "ss")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_st
+  FILTER(LANG(?org_st) = "st")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_tn
+  FILTER(LANG(?org_tn) = "tn")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_ts
+  FILTER(LANG(?org_ts) = "ts")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_ve
+  FILTER(LANG(?org_ve) = "ve")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_xh
+  FILTER(LANG(?org_xh) = "xh")
+}
+
+OPTIONAL {
+  ?org rdfs:label ?org_zu
+  FILTER(LANG(?org_zu) = "zu")
+}
+
+  OPTIONAL {
+    ?org wdt:P1001 ?org_jurisdiction
+  }
+  ?item wdt:P31 wd:Q5 ;
+        p:P39 ?statement .
+  OPTIONAL {
+  ?item rdfs:label ?name_af
+  FILTER(LANG(?name_af) = "af")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_en
+  FILTER(LANG(?name_en) = "en")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_nso
+  FILTER(LANG(?name_nso) = "nso")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_ss
+  FILTER(LANG(?name_ss) = "ss")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_st
+  FILTER(LANG(?name_st) = "st")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_tn
+  FILTER(LANG(?name_tn) = "tn")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_ts
+  FILTER(LANG(?name_ts) = "ts")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_ve
+  FILTER(LANG(?name_ve) = "ve")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_xh
+  FILTER(LANG(?name_xh) = "xh")
+}
+
+OPTIONAL {
+  ?item rdfs:label ?name_zu
+  FILTER(LANG(?name_zu) = "zu")
+}
+
+  ?statement ps:P39 ?role .
+  OPTIONAL {
+  ?role rdfs:label ?role_af
+  FILTER(LANG(?role_af) = "af")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_en
+  FILTER(LANG(?role_en) = "en")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_nso
+  FILTER(LANG(?role_nso) = "nso")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_ss
+  FILTER(LANG(?role_ss) = "ss")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_st
+  FILTER(LANG(?role_st) = "st")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_tn
+  FILTER(LANG(?role_tn) = "tn")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_ts
+  FILTER(LANG(?role_ts) = "ts")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_ve
+  FILTER(LANG(?role_ve) = "ve")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_xh
+  FILTER(LANG(?role_xh) = "xh")
+}
+
+OPTIONAL {
+  ?role rdfs:label ?role_zu
+  FILTER(LANG(?role_zu) = "zu")
+}
+
+  ?role wdt:P279* ?role_superclass .
+  OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_af
+  FILTER(LANG(?role_superclass_af) = "af")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_en
+  FILTER(LANG(?role_superclass_en) = "en")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_nso
+  FILTER(LANG(?role_superclass_nso) = "nso")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_ss
+  FILTER(LANG(?role_superclass_ss) = "ss")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_st
+  FILTER(LANG(?role_superclass_st) = "st")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_tn
+  FILTER(LANG(?role_superclass_tn) = "tn")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_ts
+  FILTER(LANG(?role_superclass_ts) = "ts")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_ve
+  FILTER(LANG(?role_superclass_ve) = "ve")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_xh
+  FILTER(LANG(?role_superclass_xh) = "xh")
+}
+
+OPTIONAL {
+  ?role_superclass rdfs:label ?role_superclass_zu
+  FILTER(LANG(?role_superclass_zu) = "zu")
+}
+
+  ?role wdt:P361 ?org .
+  OPTIONAL {
+    ?role p:P1001/ps:P1001 ?district .
+    OPTIONAL {
+  ?district rdfs:label ?district_name_af
+  FILTER(LANG(?district_name_af) = "af")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_en
+  FILTER(LANG(?district_name_en) = "en")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_nso
+  FILTER(LANG(?district_name_nso) = "nso")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_ss
+  FILTER(LANG(?district_name_ss) = "ss")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_st
+  FILTER(LANG(?district_name_st) = "st")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_tn
+  FILTER(LANG(?district_name_tn) = "tn")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_ts
+  FILTER(LANG(?district_name_ts) = "ts")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_ve
+  FILTER(LANG(?district_name_ve) = "ve")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_xh
+  FILTER(LANG(?district_name_xh) = "xh")
+}
+
+OPTIONAL {
+  ?district rdfs:label ?district_name_zu
+  FILTER(LANG(?district_name_zu) = "zu")
+}
+
+  }
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
+  FILTER(?end_or_sentinel >= NOW())
+  # Find any current party membership:
+  OPTIONAL {
+    ?item p:P102 ?party_statement .
+    ?party_statement ps:P102 ?party .
+    OPTIONAL {
+  ?party rdfs:label ?party_name_af
+  FILTER(LANG(?party_name_af) = "af")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_en
+  FILTER(LANG(?party_name_en) = "en")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_nso
+  FILTER(LANG(?party_name_nso) = "nso")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_ss
+  FILTER(LANG(?party_name_ss) = "ss")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_st
+  FILTER(LANG(?party_name_st) = "st")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_tn
+  FILTER(LANG(?party_name_tn) = "tn")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_ts
+  FILTER(LANG(?party_name_ts) = "ts")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_ve
+  FILTER(LANG(?party_name_ve) = "ve")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_xh
+  FILTER(LANG(?party_name_xh) = "xh")
+}
+
+OPTIONAL {
+  ?party rdfs:label ?party_name_zu
+  FILTER(LANG(?party_name_zu) = "zu")
+}
+
+    OPTIONAL { ?party_statement pq:P582 ?end_party }
+    BIND(COALESCE(?end_party, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?party_end_or_sentinel)
+    FILTER(?party_end_or_sentinel >= NOW())
+  }
+  OPTIONAL { ?item wdt:P2013 ?facebook }
+} ORDER BY ?item ?role ?district ?start ?end
