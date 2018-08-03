@@ -1,0 +1,32 @@
+SELECT DISTINCT
+  ?house ?houseLabel
+  ?legislature ?legislatureLabel
+  ?term ?termLabel
+  ?termStart ?termEnd
+  ?termSpecificPosition
+WHERE {
+  VALUES (?house ?position) {
+    (wd:Q2119484 wd:Q20079916)
+    (wd:Q240823 wd:Q16744266)
+    (wd:Q5035091 rdf:nil)
+  }
+  ?house (p:P361/ps:P361)* ?legislature .
+      ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .
+      OPTIONAL { ?subTerm wdt:P31 ?baseTerm }
+
+  BIND(COALESCE(?subTerm, ?baseTerm) AS ?term)
+
+  OPTIONAL { ?term (wdt:P580|wdt:P571) ?termStart. }
+  OPTIONAL { ?term (wdt:P582|wdt:P576) ?termEnd. }
+  OPTIONAL { ?term (wdt:P155|wdt:P1365) ?termReplaces }
+  OPTIONAL { ?term (wdt:P156|wdt:P1366) ?termReplacedBy }
+  OPTIONAL {
+    ?termSpecificPosition wdt:P31/wdt:P279* wd:Q4164871 ;
+                          p:P279 [ ps:P279 ?position ;
+                                   pq:P2937 ?term ] .
+  }
+
+  FILTER (!BOUND(?termEnd) || ?termEnd > NOW())
+  FILTER (!BOUND(?termReplacedBy))
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,af,nso,ss,st,tn,ts,ve,xh,zu". }
+} ORDER BY ?termStart ?term

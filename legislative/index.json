@@ -1,3 +1,35 @@
 [
-
+  {
+    "comment": "National Council of Provinces",
+    "house_item_id": "Q2119484",
+    "position_item_id": "Q20079916",
+    "terms": [
+      {
+        "comment": "26th South African Parliament",
+        "term_item_id": "Q18109299"
+      }
+    ]
+  },
+  {
+    "comment": "National Assembly of South Africa",
+    "house_item_id": "Q240823",
+    "position_item_id": "Q16744266",
+    "terms": [
+      {
+        "comment": "26th South African Parliament",
+        "term_item_id": "Q18109299"
+      }
+    ]
+  },
+  {
+    "comment": "Cape Town City Council",
+    "house_item_id": "Q5035091",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  }
 ]
