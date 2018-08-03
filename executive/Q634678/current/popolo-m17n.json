@@ -1,0 +1,137 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:af": "Cyril Ramaphosa",
+        "lang:en": "Cyril Ramaphosa",
+        "lang:nso": "Cyril Ramaphosa",
+        "lang:ss": "Cyril Ramaphosa",
+        "lang:st": "Cyril Ramaphosa",
+        "lang:ve": "Cyril Ramaphosa",
+        "lang:zu": "Cyril Ramaphosa"
+      },
+      "id": "Q1148669",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1148669"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Jan de Klerk",
+        "lang:en": "Johannes de Klerk"
+      },
+      "id": "Q726202",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q726202"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Kabinet van Jacob Zuma",
+        "lang:en": "Cabinet of South Africa"
+      },
+      "id": "Q634678",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q634678"
+        }
+      ],
+      "area_id": "Q258"
+    },
+    {
+      "name": {
+        "lang:af": "Nasionale Party",
+        "lang:en": "National Party"
+      },
+      "id": "Q740718",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q740718"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1148669-e63cc2bc-46f4-4408-6274-046f677fdce4",
+      "person_id": "Q1148669",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q634678",
+      "area_id": "Q258",
+      "start_date": "2018-02-15",
+      "role_superclass_code": "Q273884",
+      "role_superclass": {
+        "lang:af": "President van Suid-Afrika",
+        "lang:en": "President of South Africa",
+        "lang:ts": "Murhangeri wa tiko ra Afrika Dzonga",
+        "lang:zu": "Umongameli waseNingizimu Afrika"
+      },
+      "role_code": "Q273884",
+      "role": {
+        "lang:af": "President van Suid-Afrika",
+        "lang:en": "President of South Africa",
+        "lang:ts": "Murhangeri wa tiko ra Afrika Dzonga",
+        "lang:zu": "Umongameli waseNingizimu Afrika"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q726202-18E8BB55-2695-4D57-A251-7C4FA28D28EF",
+      "person_id": "Q726202",
+      "on_behalf_of_id": "Q740718",
+      "organization_id": "Q634678",
+      "area_id": "Q258",
+      "role_superclass_code": "Q273884",
+      "role_superclass": {
+        "lang:af": "President van Suid-Afrika",
+        "lang:en": "President of South Africa",
+        "lang:ts": "Murhangeri wa tiko ra Afrika Dzonga",
+        "lang:zu": "Umongameli waseNingizimu Afrika"
+      },
+      "role_code": "Q273884",
+      "role": {
+        "lang:af": "President van Suid-Afrika",
+        "lang:en": "President of South Africa",
+        "lang:ts": "Murhangeri wa tiko ra Afrika Dzonga",
+        "lang:zu": "Umongameli waseNingizimu Afrika"
+      }
+    }
+  ]
+}
