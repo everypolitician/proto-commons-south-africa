@@ -11,5 +11,194 @@
     "name_columns": {
       "lang:en": "NAME"
     }
+  },
+  {
+    "directory": "provinces",
+    "area_type_wikidata_item_id": "Q191093",
+    "associations": [
+      {
+        "comment": "premier of the eastern cape",
+        "position_item_id": "Q7240363"
+      },
+      {
+        "comment": "member of the National Assembly of South Africa",
+        "position_item_id": "Q16744266"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "PROVINCE"
+    },
+    "filter": {
+      "match": "country:za/province:ec",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "area_type_wikidata_item_id": "Q191093",
+    "associations": [
+      {
+        "comment": "premier of the free state",
+        "position_item_id": "Q7240365"
+      },
+      {
+        "comment": "member of the National Assembly of South Africa",
+        "position_item_id": "Q16744266"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "PROVINCE"
+    },
+    "filter": {
+      "match": "country:za/province:fs",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "area_type_wikidata_item_id": "Q191093",
+    "associations": [
+      {
+        "comment": "premier of gauteng",
+        "position_item_id": "Q7240351"
+      },
+      {
+        "comment": "member of the National Assembly of South Africa",
+        "position_item_id": "Q16744266"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "PROVINCE"
+    },
+    "filter": {
+      "match": "country:za/province:gt",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "area_type_wikidata_item_id": "Q191093",
+    "associations": [
+      {
+        "comment": "premier of kwazulu-natal",
+        "position_item_id": "Q7240352"
+      },
+      {
+        "comment": "member of the National Assembly of South Africa",
+        "position_item_id": "Q16744266"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "PROVINCE"
+    },
+    "filter": {
+      "match": "country:za/province:nl",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "area_type_wikidata_item_id": "Q191093",
+    "associations": [
+      {
+        "comment": "premier of limpopo",
+        "position_item_id": "Q7240353"
+      },
+      {
+        "comment": "member of the National Assembly of South Africa",
+        "position_item_id": "Q16744266"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "PROVINCE"
+    },
+    "filter": {
+      "match": "country:za/province:lp",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "area_type_wikidata_item_id": "Q191093",
+    "associations": [
+      {
+        "comment": "premier of mpumalanga",
+        "position_item_id": "Q7240354"
+      },
+      {
+        "comment": "member of the National Assembly of South Africa",
+        "position_item_id": "Q16744266"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "PROVINCE"
+    },
+    "filter": {
+      "match": "country:za/province:mp",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "area_type_wikidata_item_id": "Q191093",
+    "associations": [
+      {
+        "comment": "premier of north west",
+        "position_item_id": "Q7240358"
+      },
+      {
+        "comment": "member of the National Assembly of South Africa",
+        "position_item_id": "Q16744266"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "PROVINCE"
+    },
+    "filter": {
+      "match": "country:za/province:nw",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "area_type_wikidata_item_id": "Q191093",
+    "associations": [
+      {
+        "comment": "premier of the northern cape",
+        "position_item_id": "Q7240366"
+      },
+      {
+        "comment": "member of the National Assembly of South Africa",
+        "position_item_id": "Q16744266"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "PROVINCE"
+    },
+    "filter": {
+      "match": "country:za/province:nc",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provinces",
+    "area_type_wikidata_item_id": "Q191093",
+    "associations": [
+      {
+        "comment": "premier of the western cape",
+        "position_item_id": "Q4997324"
+      },
+      {
+        "comment": "member of the National Assembly of South Africa",
+        "position_item_id": "Q16744266"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "PROVINCE"
+    },
+    "filter": {
+      "match": "country:za/province:wc",
+      "column": "MS_FB"
+    }
   }
 ]
