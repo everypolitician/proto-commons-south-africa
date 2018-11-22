@@ -455,5 +455,260 @@
       "match": "country:za/province:mp/local-municipality:emalahleni",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573517",
+    "associations": [
+      {
+        "comment": "councillor of the buffalo city municipal council",
+        "position_item_id": "Q57417738"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573549",
+    "associations": [
+      {
+        "comment": "councillor of the nelson mandela bay municipal council",
+        "position_item_id": "Q57417753"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573550",
+    "associations": [
+      {
+        "comment": "councillor of the matjhabeng municipal council",
+        "position_item_id": "Q57417765"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:fs/local-municipality:matjhabeng",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573391",
+    "associations": [
+      {
+        "comment": "councillor of the city of cape town municipal council",
+        "position_item_id": "Q57417740"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573552",
+    "associations": [
+      {
+        "comment": "councillor of the city of johannesburg municipal council",
+        "position_item_id": "Q57417743"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573553",
+    "associations": [
+      {
+        "comment": "councillor of the city of tshwane municipal council",
+        "position_item_id": "Q57417745"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573554",
+    "associations": [
+      {
+        "comment": "councillor of the ethekwini municipal council",
+        "position_item_id": "Q57417748"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573556",
+    "associations": [
+      {
+        "comment": "councillor of the msunduzi municipal council",
+        "position_item_id": "Q57417761"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:nl/local-municipality:the-msunduzi",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573557",
+    "associations": [
+      {
+        "comment": "councillor of the newcastle municipal council",
+        "position_item_id": "Q57417768"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:nl/local-municipality:newcastle",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573558",
+    "associations": [
+      {
+        "comment": "councillor of the umhlathuze municipal council",
+        "position_item_id": "Q57417779"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:nl/local-municipality:umhlathuze",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573559",
+    "associations": [
+      {
+        "comment": "councillor of the emalahleni municipal council",
+        "position_item_id": "Q57417773"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:mp/local-municipality:emalahleni",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573563",
+    "associations": [
+      {
+        "comment": "councillor of the mogale city municipal council",
+        "position_item_id": "Q57417770"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:gt/local-municipality:mogale-city",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573564",
+    "associations": [
+      {
+        "comment": "councillor of the emfuleni municipal council",
+        "position_item_id": "Q57417763"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:gt/local-municipality:emfuleni",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573565",
+    "associations": [
+      {
+        "comment": "councillor of the city of ekurhuleni municipal council",
+        "position_item_id": "Q57417656"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "wards",
+    "area_type_wikidata_item_id": "Q57573567",
+    "associations": [
+      {
+        "comment": "councillor of the mangaung municipal council",
+        "position_item_id": "Q57417751"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "WardName"
+    },
+    "filter": {
+      "match": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung",
+      "column": "MS_FB_PARE"
+    }
   }
 ]
