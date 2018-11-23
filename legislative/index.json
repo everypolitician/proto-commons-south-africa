@@ -22,13 +22,266 @@
     ]
   },
   {
+    "comment": "Northern Cape Provincial Legislature",
+    "house_item_id": "Q15262569",
+    "position_item_id": "Q57313177",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the Northern Cape",
+        "term_item_id": "Q57313178"
+      }
+    ]
+  },
+  {
+    "comment": "Free State Legislature",
+    "house_item_id": "Q17053115",
+    "position_item_id": "Q57313163",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the Free State",
+        "term_item_id": "Q57313164"
+      }
+    ]
+  },
+  {
+    "comment": "Mpumalanga Provincial Legislature",
+    "house_item_id": "Q17068721",
+    "position_item_id": "Q57313172",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the Province of Mpumalanga",
+        "term_item_id": "Q57313174"
+      }
+    ]
+  },
+  {
+    "comment": "North West Provincial Legislature",
+    "house_item_id": "Q17080170",
+    "position_item_id": "Q57313175",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the North West",
+        "term_item_id": "Q57313176"
+      }
+    ]
+  },
+  {
+    "comment": "Western Cape Provincial Parliament",
+    "house_item_id": "Q17081929",
+    "position_item_id": "Q6814209",
+    "terms": [
+      {
+        "comment": "Fifth Parliament of the Western Cape",
+        "term_item_id": "Q57313211"
+      }
+    ]
+  },
+  {
+    "comment": "Eastern Cape Provincial Legislature",
+    "house_item_id": "Q5330037",
+    "position_item_id": "Q57312980",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the Eastern Cape Province",
+        "term_item_id": "Q57312981"
+      }
+    ]
+  },
+  {
+    "comment": "Gauteng Provincial Legislature",
+    "house_item_id": "Q5527909",
+    "position_item_id": "Q57313165",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of Gauteng Province",
+        "term_item_id": "Q57313166"
+      }
+    ]
+  },
+  {
+    "comment": "KwaZulu-Natal Legislature",
+    "house_item_id": "Q6449892",
+    "position_item_id": "Q57313167",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of KwaZulu-Natal",
+        "term_item_id": "Q57313169"
+      }
+    ]
+  },
+  {
+    "comment": "Limpopo Legislature",
+    "house_item_id": "Q6549944",
+    "position_item_id": "Q57313170",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the Limpopo Province",
+        "term_item_id": "Q57313171"
+      }
+    ]
+  },
+  {
     "comment": "Cape Town City Council",
     "house_item_id": "Q5035091",
-    "position_item_id": null,
+    "position_item_id": "Q57417740",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the City of Cape Town Municipal Council",
+        "term_item_id": "Q57417741"
+      }
+    ]
+  },
+  {
+    "comment": "Buffalo City Municipal Council",
+    "house_item_id": "Q57397571",
+    "position_item_id": "Q57417738",
     "terms": [
       {
         "start_date": "2018-01-01",
         "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "City of Johannesburg Municipal Council",
+    "house_item_id": "Q57412189",
+    "position_item_id": "Q57417743",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "City of Ekurhuleni Municipal Council",
+    "house_item_id": "Q57413797",
+    "position_item_id": "Q57417656",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the City of Ekurhuleni Municipal Council",
+        "term_item_id": "Q57417657"
+      }
+    ]
+  },
+  {
+    "comment": "Matjhabeng Municipal Council",
+    "house_item_id": "Q57414216",
+    "position_item_id": "Q57417765",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Newcastle Municipal Council",
+    "house_item_id": "Q57414218",
+    "position_item_id": "Q57417768",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "uMhlathuze Municipal Council",
+    "house_item_id": "Q57414511",
+    "position_item_id": "Q57417779",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the uMhlathuze Municipal Council",
+        "term_item_id": "Q57417780"
+      }
+    ]
+  },
+  {
+    "comment": "eThekwini Municipal Council",
+    "house_item_id": "Q57416874",
+    "position_item_id": "Q57417748",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the eThekwini Municipal Council",
+        "term_item_id": "Q57417750"
+      }
+    ]
+  },
+  {
+    "comment": "City of Tshwane Municipal Council",
+    "house_item_id": "Q57416971",
+    "position_item_id": "Q57417745",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Mangaung Municipal Council",
+    "house_item_id": "Q57416973",
+    "position_item_id": "Q57417751",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the Mangaung Municipal Council",
+        "term_item_id": "Q57417752"
+      }
+    ]
+  },
+  {
+    "comment": "Nelson Mandela Bay Municipal Council",
+    "house_item_id": "Q57416974",
+    "position_item_id": "Q57417753",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Msunduzi Municipal Council",
+    "house_item_id": "Q57416975",
+    "position_item_id": "Q57417761",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Emfuleni Municipal Council",
+    "house_item_id": "Q57416977",
+    "position_item_id": "Q57417763",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Mogale City Municipal Council",
+    "house_item_id": "Q57416978",
+    "position_item_id": "Q57417770",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the Mogale City Municipal Council",
+        "term_item_id": "Q57417772"
+      }
+    ]
+  },
+  {
+    "comment": "Emalahleni Municipal Council",
+    "house_item_id": "Q57416979",
+    "position_item_id": "Q57417773",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the Emalahleni Municipal Council",
+        "term_item_id": "Q57417778"
       }
     ]
   }
