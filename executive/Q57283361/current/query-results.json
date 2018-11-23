@@ -35,324 +35,249 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1148669"
+        "value" : "http://www.wikidata.org/entity/Q1280058"
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q258"
+        "value" : "http://www.wikidata.org/entity/Q127167"
       },
       "district_name_zu" : {
         "xml:lang" : "zu",
         "type" : "literal",
-        "value" : "IRiphabliki yaseNingizimu Afrika"
+        "value" : "IKipi laseNtshonalanga"
       },
       "district_name_xh" : {
         "xml:lang" : "xh",
         "type" : "literal",
-        "value" : "UMzantsi Afrika"
+        "value" : "IPhondo yaNtshona-Koloni"
       },
       "district_name_ve" : {
         "xml:lang" : "ve",
         "type" : "literal",
-        "value" : "Afurika Tshipembe"
-      },
-      "district_name_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Afrika-Dzonga"
+        "value" : "Kapa Vhukovhela"
       },
       "district_name_tn" : {
         "xml:lang" : "tn",
         "type" : "literal",
-        "value" : "Aferika Borwa"
+        "value" : "Western Cape"
       },
       "district_name_st" : {
         "xml:lang" : "st",
         "type" : "literal",
-        "value" : "Afrika Borwa"
+        "value" : "Kapa Bophirimela"
       },
       "district_name_ss" : {
         "xml:lang" : "ss",
         "type" : "literal",
-        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+        "value" : "Western Cape"
       },
       "district_name_nso" : {
         "xml:lang" : "nso",
         "type" : "literal",
-        "value" : "Afrika Borwa"
+        "value" : "Kapa Bodikela"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Africa"
+        "value" : "Western Cape"
       },
       "district_name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "Suid-Afrika"
+        "value" : "Wes-Kaap"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q273884"
+        "value" : "http://www.wikidata.org/entity/Q4997324"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q273884"
-      },
-      "role_superclass_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Umongameli waseNingizimu Afrika"
-      },
-      "role_superclass_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
+        "value" : "http://www.wikidata.org/entity/Q4997324"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of South Africa"
+        "value" : "Premier of the Western Cape"
       },
       "role_superclass_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "President van Suid-Afrika"
-      },
-      "role_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Umongameli waseNingizimu Afrika"
-      },
-      "role_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
+        "value" : "Premier van die Provinsie Wes-Kaap"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of South Africa"
+        "value" : "Premier of the Western Cape"
       },
       "role_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "President van Suid-Afrika"
+        "value" : "Premier van die Provinsie Wes-Kaap"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Matamela Cyril Ramaphosa"
-      },
-      "name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Cyril Ramaphosa"
+        "value" : "Ebrahim Rasool"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q634678"
+        "value" : "http://www.wikidata.org/entity/Q57283361"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cabinet of South Africa"
+        "value" : "Western Cape Executive Council"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "Kabinet van Jacob Zuma"
+        "value" : "Wes-Kaap Uitvoerende Raad"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1148669-e63cc2bc-46f4-4408-6274-046f677fdce4"
+        "value" : "http://www.wikidata.org/entity/statement/Q1280058-AEFECEBB-E0A9-45A8-87F4-46649538D5CB"
       },
       "org_jurisdiction" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q258"
-      },
-      "name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Cyril Ramaphosa"
-      },
-      "name_nso" : {
-        "xml:lang" : "nso",
-        "type" : "literal",
-        "value" : "Cyril Ramaphosa"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-02-15T00:00:00Z"
-      },
-      "name_ss" : {
-        "xml:lang" : "ss",
-        "type" : "literal",
-        "value" : "Cyril Ramaphosa"
-      },
-      "name_ve" : {
-        "xml:lang" : "ve",
-        "type" : "literal",
-        "value" : "Cyril Ramaphosa"
-      },
-      "name_st" : {
-        "xml:lang" : "st",
-        "type" : "literal",
-        "value" : "Cyril Ramaphosa"
+        "value" : "http://www.wikidata.org/entity/Q127167"
       }
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q740718"
+        "value" : "http://www.wikidata.org/entity/Q761877"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "National Party"
+        "value" : "Democratic Alliance"
       },
       "party_name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "Nasionale Party"
+        "value" : "Demokratiese Alliansie"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q726202"
+        "value" : "http://www.wikidata.org/entity/Q260693"
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q258"
+        "value" : "http://www.wikidata.org/entity/Q127167"
       },
       "district_name_zu" : {
         "xml:lang" : "zu",
         "type" : "literal",
-        "value" : "IRiphabliki yaseNingizimu Afrika"
+        "value" : "IKipi laseNtshonalanga"
       },
       "district_name_xh" : {
         "xml:lang" : "xh",
         "type" : "literal",
-        "value" : "UMzantsi Afrika"
+        "value" : "IPhondo yaNtshona-Koloni"
       },
       "district_name_ve" : {
         "xml:lang" : "ve",
         "type" : "literal",
-        "value" : "Afurika Tshipembe"
-      },
-      "district_name_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Afrika-Dzonga"
+        "value" : "Kapa Vhukovhela"
       },
       "district_name_tn" : {
         "xml:lang" : "tn",
         "type" : "literal",
-        "value" : "Aferika Borwa"
+        "value" : "Western Cape"
       },
       "district_name_st" : {
         "xml:lang" : "st",
         "type" : "literal",
-        "value" : "Afrika Borwa"
+        "value" : "Kapa Bophirimela"
       },
       "district_name_ss" : {
         "xml:lang" : "ss",
         "type" : "literal",
-        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+        "value" : "Western Cape"
       },
       "district_name_nso" : {
         "xml:lang" : "nso",
         "type" : "literal",
-        "value" : "Afrika Borwa"
+        "value" : "Kapa Bodikela"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "South Africa"
+        "value" : "Western Cape"
       },
       "district_name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "Suid-Afrika"
+        "value" : "Wes-Kaap"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q273884"
+        "value" : "http://www.wikidata.org/entity/Q4997324"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q273884"
-      },
-      "role_superclass_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Umongameli waseNingizimu Afrika"
-      },
-      "role_superclass_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
+        "value" : "http://www.wikidata.org/entity/Q4997324"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of South Africa"
+        "value" : "Premier of the Western Cape"
       },
       "role_superclass_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "President van Suid-Afrika"
-      },
-      "role_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Umongameli waseNingizimu Afrika"
-      },
-      "role_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
+        "value" : "Premier van die Provinsie Wes-Kaap"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of South Africa"
+        "value" : "Premier of the Western Cape"
       },
       "role_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "President van Suid-Afrika"
+        "value" : "Premier van die Provinsie Wes-Kaap"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Johannes de Klerk"
-      },
-      "name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Jan de Klerk"
+        "value" : "Helen Zille"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q634678"
+        "value" : "http://www.wikidata.org/entity/Q57283361"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cabinet of South Africa"
+        "value" : "Western Cape Executive Council"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "Kabinet van Jacob Zuma"
+        "value" : "Wes-Kaap Uitvoerende Raad"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q726202-18E8BB55-2695-4D57-A251-7C4FA28D28EF"
+        "value" : "http://www.wikidata.org/entity/statement/q260693-B6987570-C3EA-49AC-BC68-A76B55D0EFFA"
       },
       "org_jurisdiction" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q258"
+        "value" : "http://www.wikidata.org/entity/Q127167"
+      },
+      "name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Helen Zille"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-05-06T00:00:00Z"
+      },
+      "name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "U-Helen Zille"
       }
     } ]
   }

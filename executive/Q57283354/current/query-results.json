@@ -1,0 +1,160 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_af", "name_en", "name_nso", "name_ss", "name_st", "name_tn", "name_ts", "name_ve", "name_xh", "name_zu", "party", "party_name_af", "party_name_en", "party_name_nso", "party_name_ss", "party_name_st", "party_name_tn", "party_name_ts", "party_name_ve", "party_name_xh", "party_name_zu", "district", "district_name_af", "district_name_en", "district_name_nso", "district_name_ss", "district_name_st", "district_name_tn", "district_name_ts", "district_name_ve", "district_name_xh", "district_name_zu", "role", "role_af", "role_en", "role_nso", "role_ss", "role_st", "role_tn", "role_ts", "role_ve", "role_xh", "role_zu", "start", "end", "facebook", "role_superclass", "role_superclass_af", "role_superclass_en", "role_superclass_nso", "role_superclass_ss", "role_superclass_st", "role_superclass_tn", "role_superclass_ts", "role_superclass_ve", "role_superclass_xh", "role_superclass_zu", "org", "org_af", "org_en", "org_nso", "org_ss", "org_st", "org_tn", "org_ts", "org_ve", "org_xh", "org_zu", "org_jurisdiction" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q83162"
+      },
+      "party_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "I-African National Congress"
+      },
+      "party_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q52707425"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132410"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "district_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaMpumalanga"
+      },
+      "district_name_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "district_name_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "district_name_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "district_name_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "district_name_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "district_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "district_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240354"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240354"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of Mpumalanga"
+      },
+      "role_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Permier van Mpumalanga"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of Mpumalanga"
+      },
+      "role_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Permier van Mpumalanga"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Refilwe Mtsweni"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57283354"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mpumalanga Executive Council"
+      },
+      "org_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mpumalanga Uitvoerende Raad"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q52707425-e737bdea-4e68-ffb1-4f0f-a98ad6d46fcc"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132410"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-03-20T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Mpumalanga-Premier-Refilwe-Mtshweni-391979051210764"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_af", "name_en", "name_nso", "name_ss", "name_st", "name_tn", "name_ts", "name_ve", "name_xh", "name_zu", "party", "party_name_af", "party_name_en", "party_name_nso", "party_name_ss", "party_name_st", "party_name_tn", "party_name_ts", "party_name_ve", "party_name_xh", "party_name_zu", "district", "district_name_af", "district_name_en", "district_name_nso", "district_name_ss", "district_name_st", "district_name_tn", "district_name_ts", "district_name_ve", "district_name_xh", "district_name_zu", "role", "role_af", "role_en", "role_nso", "role_ss", "role_st", "role_tn", "role_ts", "role_ve", "role_xh", "role_zu", "role_superclass", "role_superclass_af", "role_superclass_en", "role_superclass_nso", "role_superclass_ss", "role_superclass_st", "role_superclass_tn", "role_superclass_ts", "role_superclass_ve", "role_superclass_xh", "role_superclass_zu", "start", "end", "facebook", "org", "org_af", "org_en", "org_nso", "org_ss", "org_st", "org_tn", "org_ts", "org_ve", "org_xh", "org_zu", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q83162"
+      },
+      "party_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "I-African National Congress"
+      },
+      "party_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q57548022-8D65324A-E23E-4DC6-88E8-A9EC66DDCD49"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417765"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the Matjhabeng Municipal Council"
+      },
+      "role_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Matjhabeng Munisipale Raad"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57548022"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nkosinjani Speelman"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57414216"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Matjhabeng Municipal Council"
+      },
+      "org_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Matjhabeng Munisipale Raad"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1873451"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "72"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-08-16T00:00:00Z"
+      }
+    } ]
+  }
+}
