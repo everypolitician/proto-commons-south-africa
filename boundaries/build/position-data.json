@@ -1,0 +1,802 @@
+[
+  {
+    "role_id": "Q16744266",
+    "role_name": {
+      "lang:en": "member of the National Assembly of South Africa",
+      "lang:ts": "Xirho xa Huvo ya rixaka"
+    },
+    "generic_role_id": "Q6814221",
+    "generic_role_name": {
+      "lang:en": "Member of the Parliament of South Africa"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q240823",
+    "organization_name": {
+      "lang:af": "Nasionale Vergadering van Suid-Afrika",
+      "lang:en": "National Assembly of South Africa"
+    }
+  },
+  {
+    "role_id": "Q20079916",
+    "role_name": {
+      "lang:en": "member of the National Council of Provinces"
+    },
+    "generic_role_id": "Q6814221",
+    "generic_role_name": {
+      "lang:en": "Member of the Parliament of South Africa"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q2119484",
+    "organization_name": {
+      "lang:af": "Nasionale Raad van Provinsies",
+      "lang:en": "National Council of Provinces"
+    }
+  },
+  {
+    "role_id": "Q273884",
+    "role_name": {
+      "lang:af": "President van Suid-Afrika",
+      "lang:en": "President of South Africa",
+      "lang:ts": "Murhangeri wa tiko ra Afrika Dzonga",
+      "lang:zu": "Umongameli waseNingizimu Afrika"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:en": "head of government"
+    },
+    "role_level": "Q6256",
+    "role_type": null,
+    "organization_id": "Q634678",
+    "organization_name": {
+      "lang:af": "Kabinet van Jacob Zuma",
+      "lang:en": "Cabinet of South Africa"
+    }
+  },
+  {
+    "role_id": "Q3278456",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Stad Kaapstad Metropolitaanse Munisipaliteit",
+      "lang:en": "mayor of Cape Town",
+      "lang:xh": "UsoDolophu wase Kapa"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q6797862",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van die Stad Kaapstad",
+      "lang:en": "Mayoral Committee of the City of Cape Town"
+    }
+  },
+  {
+    "role_id": "Q4997324",
+    "role_name": {
+      "lang:af": "Premier van die Provinsie Wes-Kaap",
+      "lang:en": "Premier of the Western Cape"
+    },
+    "generic_role_id": "Q57388461",
+    "generic_role_name": {
+      "lang:en": "Premier of a South African province"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q57283361",
+    "organization_name": {
+      "lang:af": "Wes-Kaap Uitvoerende Raad",
+      "lang:en": "Western Cape Executive Council"
+    }
+  },
+  {
+    "role_id": "Q57312980",
+    "role_name": {
+      "lang:af": "Lid van die Oos-Kaap Provinsiale Wetgewer",
+      "lang:en": "Member of the Eastern Cape Provincial Legislature"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5330037",
+    "organization_name": {
+      "lang:af": "Oos-Kaap Provinsiale Wetgewer",
+      "lang:en": "Eastern Cape Provincial Legislature"
+    }
+  },
+  {
+    "role_id": "Q57313163",
+    "role_name": {
+      "lang:af": "Lid van die Vrystaat Provinsiale Wetgewer",
+      "lang:en": "Member of the Free State Legislature"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q17053115",
+    "organization_name": {
+      "lang:af": "Wetgewer van die Provinsie Vrystaat",
+      "lang:en": "Free State Legislature"
+    }
+  },
+  {
+    "role_id": "Q57313165",
+    "role_name": {
+      "lang:af": "Lid van die Gauteng Provinsiale Wetgewer",
+      "lang:en": "Member of the Gauteng Provincial Legislature"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5527909",
+    "organization_name": {
+      "lang:af": "Gauteng Provinsiale Wetgewer",
+      "lang:en": "Gauteng Provincial Legislature"
+    }
+  },
+  {
+    "role_id": "Q57313167",
+    "role_name": {
+      "lang:af": "Lid van die KwaZulu-Natal Provinsiale Wetgewer",
+      "lang:en": "Member of the KwaZulu-Natal Provincial Legislature"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6449892",
+    "organization_name": {
+      "lang:af": "KwaZulu-Natal Provinsiale Wetgewer",
+      "lang:en": "KwaZulu-Natal Legislature"
+    }
+  },
+  {
+    "role_id": "Q57313170",
+    "role_name": {
+      "lang:af": "Lid van die Limpopo Provinsiale Wetgewer",
+      "lang:en": "Member of the Limpopo Provincial Legislature"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6549944",
+    "organization_name": {
+      "lang:af": "Limpopo Provinsiale Wetgewer",
+      "lang:en": "Limpopo Legislature"
+    }
+  },
+  {
+    "role_id": "Q57313172",
+    "role_name": {
+      "lang:af": "Lid van die Mpumalanga Provinsiale Wetgewer",
+      "lang:en": "Member of the Mpumalanga Provincial Legislature"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q17068721",
+    "organization_name": {
+      "lang:af": "Mpumalanga Provinsiale Wetgewer",
+      "lang:en": "Mpumalanga Provincial Legislature"
+    }
+  },
+  {
+    "role_id": "Q57313175",
+    "role_name": {
+      "lang:af": "Lid van die Noord-Wes Provinsiale Wetgewer",
+      "lang:en": "Member of the North West Provincial Legislature"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q17080170",
+    "organization_name": {
+      "lang:af": "Noord-Wes Provinsiale Wetgewer",
+      "lang:en": "North West Provincial Legislature"
+    }
+  },
+  {
+    "role_id": "Q57313177",
+    "role_name": {
+      "lang:af": "Lid van die Nood-Kaap Provinsiale Wetgewer",
+      "lang:en": "Member of the Northern Cape Provincial Legislature"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q15262569",
+    "organization_name": {
+      "lang:af": "Nood-Kaap Provinsiale Wetgewer",
+      "lang:en": "Northern Cape Provincial Legislature"
+    }
+  },
+  {
+    "role_id": "Q57413798",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Ekurhuleni Metropolitaanse Munisipaliteit",
+      "lang:en": "Executive Mayor of City of Ekurhuleni Metropolitan Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57413799",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van Ekurhuleni",
+      "lang:en": "Mayoral Committee of the City of Ekurhuleni"
+    }
+  },
+  {
+    "role_id": "Q57413801",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van eThekwini Metropolitaanse Munisipaliteit",
+      "lang:en": "Executive Mayor of eThekwini Metropolitan Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57416690",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van eThekwini",
+      "lang:en": "Mayoral Committee of eThekwini"
+    }
+  },
+  {
+    "role_id": "Q57414217",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Matjhabeng Plaaslike Munisipaliteit",
+      "lang:en": "Executive Mayor of Matjhabeng Local Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57414215",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van Matjhabeng",
+      "lang:en": "Mayoral Committee of Matjhabeng"
+    }
+  },
+  {
+    "role_id": "Q57414515",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Msunduzi Munisipaliteit",
+      "lang:en": "Executive Mayor of Msunduzi Local Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57397575",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van Msunduzi",
+      "lang:en": "Mayoral Committee of Msunduzi"
+    }
+  },
+  {
+    "role_id": "Q57414669",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Mangaung Metropolitaanse Munisipaliteit",
+      "lang:en": "Executive Mayor of Mangaung Metropolitan Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57416691",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van Mangaung",
+      "lang:en": "Mayoral Committee of Mangaung"
+    }
+  },
+  {
+    "role_id": "Q57417656",
+    "role_name": {
+      "lang:af": "Raadslid van die Ekurhuleni Munisipale Raad",
+      "lang:en": "Councillor of the City of Ekurhuleni Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57413797",
+    "organization_name": {
+      "lang:af": "Ekurhuleni Munisipale Raad",
+      "lang:en": "City of Ekurhuleni Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417738",
+    "role_name": {
+      "lang:af": "Raadslid van die Buffalo City Munisipale Raad",
+      "lang:en": "Councillor of the Buffalo City Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57397571",
+    "organization_name": {
+      "lang:af": "Buffalo City Munisipale Raad",
+      "lang:en": "Buffalo City Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417740",
+    "role_name": {
+      "lang:af": "Raadslid van die Stad Kaapstad Munisipale Raad",
+      "lang:en": "Councillor of the City of Cape Town Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q5035091",
+    "organization_name": {
+      "lang:af": "Stad Kaapstad Munisipale Raad",
+      "lang:en": "Cape Town City Council"
+    }
+  },
+  {
+    "role_id": "Q57417743",
+    "role_name": {
+      "lang:af": "Raadslid van die Stad Johannesburg Munisipale Raad",
+      "lang:en": "Councillor of the City of Johannesburg Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57412189",
+    "organization_name": {
+      "lang:af": "Stad Johannesburg Munisipale Raad",
+      "lang:en": "City of Johannesburg Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417745",
+    "role_name": {
+      "lang:af": "Raadslid van die Stad Tshwane Munisipale Raad",
+      "lang:en": "Councillor of the City of Tshwane Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57416971",
+    "organization_name": {
+      "lang:af": "Stad Tshwane Munisipale Raad",
+      "lang:en": "City of Tshwane Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417748",
+    "role_name": {
+      "lang:af": "Raadslid van die eThekwini Munisipale Raad",
+      "lang:en": "Councillor of the eThekwini Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57416874",
+    "organization_name": {
+      "lang:af": "eThekwini Munisipale Raad",
+      "lang:en": "eThekwini Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417751",
+    "role_name": {
+      "lang:af": "Raadslid van die Mangaung Munisipale Raad",
+      "lang:en": "Councillor of the Mangaung Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57416973",
+    "organization_name": {
+      "lang:af": "Mangaung Munisipale Raad",
+      "lang:en": "Mangaung Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417753",
+    "role_name": {
+      "lang:af": "Raadslid van die Nerlson Mandelabaai Munisipale Raad",
+      "lang:en": "Councillor of the Nelson Mandela Bay Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57416974",
+    "organization_name": {
+      "lang:af": "Nerlson Mandelabaai Munisipale Raad",
+      "lang:en": "Nelson Mandela Bay Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417761",
+    "role_name": {
+      "lang:af": "Raadslid van die Msunduzi Munisipale Raad",
+      "lang:en": "Councillor of the Msunduzi Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57416975",
+    "organization_name": {
+      "lang:af": "Msunduzi Munisipale Raad",
+      "lang:en": "Msunduzi Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417763",
+    "role_name": {
+      "lang:af": "Raadslid van die Emfuleni Munisipale Raad",
+      "lang:en": "Councillor of the Emfuleni Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57416977",
+    "organization_name": {
+      "lang:af": "Emfuleni Munisipale Raad",
+      "lang:en": "Emfuleni Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417765",
+    "role_name": {
+      "lang:af": "Raadslid van die Matjhabeng Munisipale Raad",
+      "lang:en": "Councillor of the Matjhabeng Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57414216",
+    "organization_name": {
+      "lang:af": "Matjhabeng Munisipale Raad",
+      "lang:en": "Matjhabeng Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417768",
+    "role_name": {
+      "lang:af": "Raadslid van die Newcastle Munisipale Raad",
+      "lang:en": "Councillor of the Newcastle Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57414218",
+    "organization_name": {
+      "lang:af": "Newcastle Munisipale Raad",
+      "lang:en": "Newcastle Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417770",
+    "role_name": {
+      "lang:af": "Raadslid van die Mogale City Munisipale Raad",
+      "lang:en": "Councillor of the Mogale City Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57416978",
+    "organization_name": {
+      "lang:af": "Mogale City Munisipale Raad",
+      "lang:en": "Mogale City Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417773",
+    "role_name": {
+      "lang:af": "Raadslid van die Emalahleni Munisipale Raad",
+      "lang:en": "Councillor of the Emalahleni Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57416979",
+    "organization_name": {
+      "lang:af": "Emalahleni Munisipale Raad",
+      "lang:en": "Emalahleni Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q57417779",
+    "role_name": {
+      "lang:af": "Raadslid van die uMhlatuze Munisipale Raad",
+      "lang:en": "Councillor of the uMhlathuze Municipal Council"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:en": "councillor"
+    },
+    "role_level": "Q15284",
+    "role_type": "Q4175034",
+    "organization_id": "Q57414511",
+    "organization_name": {
+      "lang:af": "uMhlatuze Munisipale Raad",
+      "lang:en": "uMhlathuze Municipal Council"
+    }
+  },
+  {
+    "role_id": "Q6797727",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit",
+      "lang:en": "Mayor of Johannesburg"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57412188",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van die Stad Johannesburg",
+      "lang:en": "Mayoral Committee of the City of Johannesburg"
+    }
+  },
+  {
+    "role_id": "Q6814209",
+    "role_name": {
+      "lang:af": "Lid van die Provinsiale Parlement van die Wes-Kaap",
+      "lang:en": "Member of Provincial Parliament of Western Cape"
+    },
+    "generic_role_id": "Q5230427",
+    "generic_role_name": {
+      "lang:en": "member of a legislative assembly"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q17081929",
+    "organization_name": {
+      "lang:af": "Provinsiale Parlement van die Wes-Kaap",
+      "lang:en": "Western Cape Provincial Parliament"
+    }
+  },
+  {
+    "role_id": "Q6814221",
+    "role_name": {
+      "lang:en": "Member of the Parliament of South Africa"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q2185780",
+    "organization_name": {
+      "lang:af": "Parlement van Suid-Afrika",
+      "lang:en": "Parliament of South Africa"
+    }
+  },
+  {
+    "role_id": "Q7240351",
+    "role_name": {
+      "lang:af": "Premier van Gauteng",
+      "lang:en": "Premier of Gauteng"
+    },
+    "generic_role_id": "Q57388461",
+    "generic_role_name": {
+      "lang:en": "Premier of a South African province"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q57283347",
+    "organization_name": {
+      "lang:af": "Gauteng Uitvoerende Raad",
+      "lang:en": "Gauteng Executive Council"
+    }
+  },
+  {
+    "role_id": "Q7240352",
+    "role_name": {
+      "lang:af": "Premier van die Provinsie van KwaZulu-Natal",
+      "lang:en": "Premier of KwaZulu-Natal"
+    },
+    "generic_role_id": "Q57388461",
+    "generic_role_name": {
+      "lang:en": "Premier of a South African province"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q57283349",
+    "organization_name": {
+      "lang:af": "KwaZulu-Natal Uitvoerende Raad",
+      "lang:en": "KwaZulu-Natal Executive Council"
+    }
+  },
+  {
+    "role_id": "Q7240353",
+    "role_name": {
+      "lang:af": "Permier van die Provinsie Limpopo",
+      "lang:en": "Premier of Limpopo"
+    },
+    "generic_role_id": "Q57388461",
+    "generic_role_name": {
+      "lang:en": "Premier of a South African province"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q57283351",
+    "organization_name": {
+      "lang:af": "Limpopo Uitvoerende Raad",
+      "lang:en": "Limpopo Executive Council"
+    }
+  },
+  {
+    "role_id": "Q7240354",
+    "role_name": {
+      "lang:af": "Permier van Mpumalanga",
+      "lang:en": "Premier of Mpumalanga"
+    },
+    "generic_role_id": "Q57388461",
+    "generic_role_name": {
+      "lang:en": "Premier of a South African province"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q57283354",
+    "organization_name": {
+      "lang:af": "Mpumalanga Uitvoerende Raad",
+      "lang:en": "Mpumalanga Executive Council"
+    }
+  },
+  {
+    "role_id": "Q7240358",
+    "role_name": {
+      "lang:af": "Permier van die Noordwes Provinsie",
+      "lang:en": "Premier of North West"
+    },
+    "generic_role_id": "Q57388461",
+    "generic_role_name": {
+      "lang:en": "Premier of a South African province"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q57283356",
+    "organization_name": {
+      "lang:af": "Noordwes Uitvoerende Raad",
+      "lang:en": "North West Executive Council"
+    }
+  },
+  {
+    "role_id": "Q7240363",
+    "role_name": {
+      "lang:af": "Premier van die Provinsie Oos-Kaap",
+      "lang:en": "Premier of the Eastern Cape"
+    },
+    "generic_role_id": "Q57388461",
+    "generic_role_name": {
+      "lang:en": "Premier of a South African province"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q57268876",
+    "organization_name": {
+      "lang:af": "Oos-Kaap Uitvoerende Raad",
+      "lang:en": "Eastern Cape Executive Council"
+    }
+  },
+  {
+    "role_id": "Q7240365",
+    "role_name": {
+      "lang:af": "Premier van die Vrystaat Provinsie",
+      "lang:en": "Premier of the Free State"
+    },
+    "generic_role_id": "Q57388461",
+    "generic_role_name": {
+      "lang:en": "Premier of a South African province"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q57283345",
+    "organization_name": {
+      "lang:af": "Uitvoerende Raad",
+      "lang:en": "Free State Executive Council"
+    }
+  },
+  {
+    "role_id": "Q7240366",
+    "role_name": {
+      "lang:af": "Premier van die Noord-Kaap",
+      "lang:en": "Premier of the Northern Cape"
+    },
+    "generic_role_id": "Q57388461",
+    "generic_role_name": {
+      "lang:en": "Premier of a South African province"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q57283358",
+    "organization_name": {
+      "lang:af": "Noord-Kaap Uitvoerende Raad",
+      "lang:en": "Northern Cape Executive Council"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Limpopo Provinsiale Wetgewer",
+        "lang:en": "Limpopo Legislature"
+      },
+      "id": "Q6549944",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6549944"
+        }
+      ],
+      "area_id": "Q134907",
+      "seat_counts": {
+        "Q57313170": "49"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

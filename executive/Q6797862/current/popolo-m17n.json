@@ -1,0 +1,75 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:af": "Dan Plato",
+        "lang:en": "Dan Plato"
+      },
+      "id": "Q379122",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q379122"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Burgermeesterskommittee van die Stad Kaapstad",
+        "lang:en": "Mayoral Committee of the City of Cape Town"
+      },
+      "id": "Q6797862",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6797862"
+        }
+      ],
+      "area_id": "Q1185115"
+    },
+    {
+      "name": {
+        "lang:af": "Demokratiese Alliansie",
+        "lang:en": "Democratic Alliance"
+      },
+      "id": "Q761877",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q761877"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q379122-f91c1538-4a52-a087-7062-56c2f3795823",
+      "person_id": "Q379122",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "Q6797862",
+      "area_id": "Q1185115",
+      "start_date": "2018-11-01",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:af": "burgemeester",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q3278456",
+      "role": {
+        "lang:af": "Uitvoerende Burgermeester van Stad Kaapstad Metropolitaanse Munisipaliteit",
+        "lang:en": "mayor of Cape Town",
+        "lang:xh": "UsoDolophu wase Kapa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Violet Siwela"
+      },
+      "id": "Q57548018",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57548018"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Mpumalanga Provinsiale Wetgewer",
+        "lang:en": "Mpumalanga Provincial Legislature"
+      },
+      "id": "Q17068721",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17068721"
+        }
+      ],
+      "area_id": "Q132410",
+      "seat_counts": {
+        "Q57313172": "30"
+      }
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57548018-D6AE8FAB-7C36-43B2-BC3A-6892034E648D",
+      "person_id": "Q57548018",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q17068721",
+      "area_id": "Q59136541",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q57313172",
+      "role": {
+        "lang:af": "Lid van die Mpumalanga Provinsiale Wetgewer",
+        "lang:en": "Member of the Mpumalanga Provincial Legislature"
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:af": "Kgotso Morapela",
+        "lang:en": "Kgotso Zachariah Morapela"
+      },
+      "id": "Q47890655",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47890655"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sisi Ntombela"
+      },
+      "id": "Q52151613",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52151613"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Sisi-Ntombela-603752559688901"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Wetgewer van die Provinsie Vrystaat",
+        "lang:en": "Free State Legislature"
+      },
+      "id": "Q17053115",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17053115"
+        }
+      ],
+      "area_id": "Q160284",
+      "seat_counts": {
+        "Q57313163": "30"
+      }
+    },
+    {
+      "name": {
+        "lang:af": "Ekonomiese Vryheidsvegters",
+        "lang:en": "Economic Freedom Fighters"
+      },
+      "id": "Q15613585",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15613585"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47890655-0ABA7F1E-962A-46A1-9250-4EF276FBCF45",
+      "person_id": "Q47890655",
+      "on_behalf_of_id": "Q15613585",
+      "organization_id": "Q17053115",
+      "area_id": "Q59136545",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q57313163",
+      "role": {
+        "lang:af": "Lid van die Vrystaat Provinsiale Wetgewer",
+        "lang:en": "Member of the Free State Legislature"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52151613-7553791c-4232-67a3-d31c-654f3bf2d4c2",
+      "person_id": "Q52151613",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q17053115",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q57313163",
+      "role": {
+        "lang:af": "Lid van die Vrystaat Provinsiale Wetgewer",
+        "lang:en": "Member of the Free State Legislature"
+      }
+    }
+  ]
+}

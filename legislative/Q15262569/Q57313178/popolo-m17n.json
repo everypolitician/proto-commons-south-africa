@@ -1,0 +1,31 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Nood-Kaap Provinsiale Wetgewer",
+        "lang:en": "Northern Cape Provincial Legislature"
+      },
+      "id": "Q15262569",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15262569"
+        }
+      ],
+      "area_id": "Q132418",
+      "seat_counts": {
+        "Q57313177": "30"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

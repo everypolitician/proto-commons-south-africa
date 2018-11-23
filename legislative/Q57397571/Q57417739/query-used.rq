@@ -7,9 +7,9 @@ SELECT ?statement
        ?start ?end ?facebook
        ?org ?org_af ?org_en ?org_nso ?org_ss ?org_st ?org_tn ?org_ts ?org_ve ?org_xh ?org_zu ?org_jurisdiction ?org_seat_count
 WHERE {
-  BIND(wd: as ?role) .
-  BIND(wd: as ?specific_role) .
-  BIND(wd:Q5035091 as ?org) .
+  BIND(wd:Q57417738 as ?role) .
+  BIND(wd:Q57417738 as ?specific_role) .
+  BIND(wd:Q57397571 as ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_af
   FILTER(LANG(?org_af) = "af")
@@ -68,6 +68,25 @@ OPTIONAL {
   }
   ?item wdt:P31 wd:Q5 ;
         p:P39 ?statement .
+  ?statement ps:P39/wdt:P279* ?specific_role .
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  OPTIONAL { wd:Q57417739 wdt:P571|wdt:P580 ?termStart }
+  OPTIONAL { wd:Q57417739 wdt:P576|wdt:P582 ?termEnd }
+  # A P39 is relevant if it's directly related to the term with a "parliamentary term" qualifier (1), or
+  # it overlaps it. In the latter case, the P39 and term must each have a start date (2), and either
+  #  * starts before it and either doesn't end, or ends after the term start (3), or
+  #  * starts after the term, and if the term ends, starts before it ends (4)
+  FILTER (
+    (EXISTS { ?statement pq:P2937 wd:Q57417739 })               # (1)
+    ||
+    (BOUND(?start) && BOUND(?termStart) && (                             # (2)
+      (?start <= ?termStart && (!BOUND(?end) || ?end > ?termStart))      # (4)
+      ||
+      (?start > ?termStart && (!BOUND(?termEnd) || ?start < ?termEnd))   # (5)
+    ))
+  )
+
   OPTIONAL {
   ?item rdfs:label ?name_af
   FILTER(LANG(?name_af) = "af")
@@ -118,7 +137,6 @@ OPTIONAL {
   FILTER(LANG(?name_zu) = "zu")
 }
 
-  ?statement ps:P39 ?specific_role .
   OPTIONAL {
   ?role rdfs:label ?role_af
   FILTER(LANG(?role_af) = "af")
@@ -223,9 +241,6 @@ OPTIONAL {
 }
 
   }
-  
-  OPTIONAL { ?statement pq:P580 ?start }
-  OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
     ?statement pq:P768 ?district.
     OPTIONAL {
@@ -333,9 +348,5 @@ OPTIONAL {
 
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
-  BIND(COALESCE(?start, "1000-01-01T00:00:00Z"^^xsd:dateTime) AS ?start_or_sentinel)
-BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
-FILTER (?end_or_sentinel >= "2018-01-01"^^xsd:dateTime)
-FILTER (?start_or_sentinel <= "2018-12-31"^^xsd:dateTime)
-
-} ORDER BY ?item ?role ?start ?end
+  
+} ORDER BY ?item ?role ?term ?start ?end ?role_superclass ?party ?org ?district

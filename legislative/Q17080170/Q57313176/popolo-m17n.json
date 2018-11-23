@@ -1,0 +1,31 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Noord-Wes Provinsiale Wetgewer",
+        "lang:en": "North West Provincial Legislature"
+      },
+      "id": "Q17080170",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17080170"
+        }
+      ],
+      "area_id": "Q165956",
+      "seat_counts": {
+        "Q57313175": "33"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

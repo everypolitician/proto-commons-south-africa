@@ -1,0 +1,75 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Willies Mchunu"
+      },
+      "id": "Q8021940",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8021940"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "KwaZulu-Natal Uitvoerende Raad",
+        "lang:en": "KwaZulu-Natal Executive Council"
+      },
+      "id": "Q57283349",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57283349"
+        }
+      ],
+      "area_id": "Q81725"
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8021940-25E75BBF-CB22-4161-AF12-EAF638B19EF2",
+      "person_id": "Q8021940",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q57283349",
+      "area_id": "Q81725",
+      "start_date": "2016-05-25",
+      "role_superclass_code": "Q57388461",
+      "role_superclass": {
+        "lang:en": "Premier of a South African province"
+      },
+      "role_code": "Q7240352",
+      "role": {
+        "lang:af": "Premier van die Provinsie van KwaZulu-Natal",
+        "lang:en": "Premier of KwaZulu-Natal"
+      }
+    }
+  ]
+}

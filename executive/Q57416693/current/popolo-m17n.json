@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Burgermeesterskommittee van Emalahleni",
+        "lang:en": "Mayoral Committee of Emalahleni"
+      },
+      "id": "Q57416693",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57416693"
+        }
+      ],
+      "area_id": "Q2347801"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

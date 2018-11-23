@@ -1,0 +1,31 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Stad Tshwane Munisipale Raad",
+        "lang:en": "City of Tshwane Municipal Council"
+      },
+      "id": "Q57416971",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57416971"
+        }
+      ],
+      "area_id": "Q1094207",
+      "seat_counts": {
+        "Q57417745": "214"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

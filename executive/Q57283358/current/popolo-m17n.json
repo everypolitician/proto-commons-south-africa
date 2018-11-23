@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Noord-Kaap Uitvoerende Raad",
+        "lang:en": "Northern Cape Executive Council"
+      },
+      "id": "Q57283358",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57283358"
+        }
+      ],
+      "area_id": "Q132418"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

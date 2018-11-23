@@ -1,0 +1,31 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Newcastle Munisipale Raad",
+        "lang:en": "Newcastle Municipal Council"
+      },
+      "id": "Q57414218",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57414218"
+        }
+      ],
+      "area_id": "Q1983450",
+      "seat_counts": {
+        "Q57417768": "67"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

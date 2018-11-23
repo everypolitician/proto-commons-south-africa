@@ -1,0 +1,78 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Refilwe Mtsweni"
+      },
+      "id": "Q52707425",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52707425"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Mpumalanga-Premier-Refilwe-Mtshweni-391979051210764"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Mpumalanga Uitvoerende Raad",
+        "lang:en": "Mpumalanga Executive Council"
+      },
+      "id": "Q57283354",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57283354"
+        }
+      ],
+      "area_id": "Q132410"
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52707425-e737bdea-4e68-ffb1-4f0f-a98ad6d46fcc",
+      "person_id": "Q52707425",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q57283354",
+      "area_id": "Q132410",
+      "start_date": "2018-03-20",
+      "role_superclass_code": "Q57388461",
+      "role_superclass": {
+        "lang:en": "Premier of a South African province"
+      },
+      "role_code": "Q7240354",
+      "role": {
+        "lang:af": "Permier van Mpumalanga",
+        "lang:en": "Premier of Mpumalanga"
+      }
+    }
+  ]
+}

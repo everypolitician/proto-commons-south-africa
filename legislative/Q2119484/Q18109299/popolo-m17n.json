@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:af": "Nasionale Raad van Provinsies",
+        "lang:en": "National Council of Provinces"
+      },
+      "id": "Q2119484",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2119484"
+        }
+      ],
+      "area_id": "Q258",
+      "seat_counts": {
+        "Q20079916": "90"
+      }
+    }
   ],
   "areas": [
 

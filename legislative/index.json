@@ -1,34 +1,374 @@
 [
   {
+    "comment": "Northern Cape Provincial Legislature",
+    "house_item_id": "Q15262569",
+    "seat_count": "30",
+    "area_id": "Q132418",
+    "position_item_id": "Q57313177",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the Northern Cape",
+        "term_item_id": "Q57313178",
+        "start_date": "2014-05-21"
+      }
+    ]
+  },
+  {
+    "comment": "Free State Legislature",
+    "house_item_id": "Q17053115",
+    "seat_count": "30",
+    "area_id": "Q160284",
+    "position_item_id": "Q57313163",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the Free State",
+        "term_item_id": "Q57313164",
+        "start_date": "2014-05-21"
+      }
+    ]
+  },
+  {
+    "comment": "Mpumalanga Provincial Legislature",
+    "house_item_id": "Q17068721",
+    "seat_count": "30",
+    "area_id": "Q132410",
+    "position_item_id": "Q57313172",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the Province of Mpumalanga",
+        "term_item_id": "Q57313174",
+        "start_date": "2014-05-21"
+      }
+    ]
+  },
+  {
+    "comment": "North West Provincial Legislature",
+    "house_item_id": "Q17080170",
+    "seat_count": "33",
+    "area_id": "Q165956",
+    "position_item_id": "Q57313175",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the North West",
+        "term_item_id": "Q57313176",
+        "start_date": "2014-05-21"
+      }
+    ]
+  },
+  {
+    "comment": "Western Cape Provincial Parliament",
+    "house_item_id": "Q17081929",
+    "seat_count": "42",
+    "area_id": "Q127167",
+    "position_item_id": "Q6814209",
+    "terms": [
+      {
+        "comment": "Fifth Parliament of the Western Cape",
+        "term_item_id": "Q57313211",
+        "start_date": "2014-05-21"
+      }
+    ]
+  },
+  {
     "comment": "National Council of Provinces",
     "house_item_id": "Q2119484",
+    "seat_count": "90",
+    "area_id": "Q258",
     "position_item_id": "Q20079916",
     "terms": [
       {
         "comment": "26th South African Parliament",
-        "term_item_id": "Q18109299"
+        "term_item_id": "Q18109299",
+        "start_date": "2014-05-21"
       }
     ]
   },
   {
     "comment": "National Assembly of South Africa",
     "house_item_id": "Q240823",
+    "seat_count": "400",
+    "area_id": "Q258",
     "position_item_id": "Q16744266",
     "terms": [
       {
         "comment": "26th South African Parliament",
-        "term_item_id": "Q18109299"
+        "term_item_id": "Q18109299",
+        "start_date": "2014-05-21"
       }
     ]
   },
   {
     "comment": "Cape Town City Council",
     "house_item_id": "Q5035091",
-    "position_item_id": null,
+    "seat_count": "231",
+    "area_id": "Q1185115",
+    "position_item_id": "Q57417740",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the City of Cape Town Municipal Council",
+        "term_item_id": "Q57417741",
+        "start_date": "2016-08-11",
+        "end_date": "2021-08-11"
+      }
+    ]
+  },
+  {
+    "comment": "Eastern Cape Provincial Legislature",
+    "house_item_id": "Q5330037",
+    "seat_count": "63",
+    "area_id": "Q130840",
+    "position_item_id": "Q57312980",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the Eastern Cape Province",
+        "term_item_id": "Q57312981",
+        "start_date": "2014-05-21"
+      }
+    ]
+  },
+  {
+    "comment": "Gauteng Provincial Legislature",
+    "house_item_id": "Q5527909",
+    "seat_count": "73",
+    "area_id": "Q133083",
+    "position_item_id": "Q57313165",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of Gauteng Province",
+        "term_item_id": "Q57313166",
+        "start_date": "2014-05-21"
+      }
+    ]
+  },
+  {
+    "comment": "Buffalo City Municipal Council",
+    "house_item_id": "Q57397571",
+    "seat_count": "100",
+    "area_id": "Q1002006",
+    "position_item_id": "Q57417738",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the Buffalo City Municipal Council",
+        "term_item_id": "Q57417739",
+        "start_date": "2016-08-18",
+        "end_date": "2021-08-18"
+      }
+    ]
+  },
+  {
+    "comment": "City of Johannesburg Municipal Council",
+    "house_item_id": "Q57412189",
+    "seat_count": "270",
+    "area_id": "Q2346838",
+    "position_item_id": "Q57417743",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the City of Johannesburg Municipal Council",
+        "term_item_id": "Q57417744",
+        "start_date": "2016-08-22",
+        "end_date": "2021-08-22"
+      }
+    ]
+  },
+  {
+    "comment": "City of Ekurhuleni Municipal Council",
+    "house_item_id": "Q57413797",
+    "seat_count": "224",
+    "area_id": "Q326891",
+    "position_item_id": "Q57417656",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the City of Ekurhuleni Municipal Council",
+        "term_item_id": "Q57417657",
+        "start_date": "2016-08-23",
+        "end_date": "2021-08-23"
+      }
+    ]
+  },
+  {
+    "comment": "Matjhabeng Municipal Council",
+    "house_item_id": "Q57414216",
+    "seat_count": "72",
+    "area_id": "Q1873451",
+    "position_item_id": "Q57417765",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the Matjhabeng Municipal Council",
+        "term_item_id": "Q57417766",
+        "start_date": "2016-08-16",
+        "end_date": "2021-08-16"
+      }
+    ]
+  },
+  {
+    "comment": "Newcastle Municipal Council",
+    "house_item_id": "Q57414218",
+    "seat_count": "67",
+    "area_id": "Q1983450",
+    "position_item_id": "Q57417768",
     "terms": [
       {
         "start_date": "2018-01-01",
         "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "uMhlathuze Municipal Council",
+    "house_item_id": "Q57414511",
+    "seat_count": "67",
+    "area_id": "Q311800",
+    "position_item_id": "Q57417779",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the uMhlathuze Municipal Council",
+        "term_item_id": "Q57417780",
+        "start_date": "2016-08-19",
+        "end_date": "2021-08-19"
+      }
+    ]
+  },
+  {
+    "comment": "eThekwini Municipal Council",
+    "house_item_id": "Q57416874",
+    "seat_count": "219",
+    "area_id": "Q311544",
+    "position_item_id": "Q57417748",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the eThekwini Municipal Council",
+        "term_item_id": "Q57417750",
+        "start_date": "2016-08-24",
+        "end_date": "2021-08-24"
+      }
+    ]
+  },
+  {
+    "comment": "City of Tshwane Municipal Council",
+    "house_item_id": "Q57416971",
+    "seat_count": "214",
+    "area_id": "Q1094207",
+    "position_item_id": "Q57417745",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Mangaung Municipal Council",
+    "house_item_id": "Q57416973",
+    "seat_count": "100",
+    "area_id": "Q1159185",
+    "position_item_id": "Q57417751",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the Mangaung Municipal Council",
+        "term_item_id": "Q57417752",
+        "start_date": "2016-08-18",
+        "end_date": "2021-08-18"
+      }
+    ]
+  },
+  {
+    "comment": "Nelson Mandela Bay Municipal Council",
+    "house_item_id": "Q57416974",
+    "seat_count": "120",
+    "area_id": "Q1856565",
+    "position_item_id": "Q57417753",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the Nelson Mandela Bay Municipal Council",
+        "term_item_id": "Q57417760",
+        "start_date": "2016-08-18",
+        "end_date": "2021-08-18"
+      }
+    ]
+  },
+  {
+    "comment": "Msunduzi Municipal Council",
+    "house_item_id": "Q57416975",
+    "seat_count": "78",
+    "area_id": "Q1815510",
+    "position_item_id": "Q57417761",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the Msunduzi Municipal Council",
+        "term_item_id": "Q57417762",
+        "start_date": "2016-08-19",
+        "end_date": "2021-08-19"
+      }
+    ]
+  },
+  {
+    "comment": "Emfuleni Municipal Council",
+    "house_item_id": "Q57416977",
+    "seat_count": "90",
+    "area_id": "Q1335678",
+    "position_item_id": "Q57417763",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Mogale City Municipal Council",
+    "house_item_id": "Q57416978",
+    "seat_count": "77",
+    "area_id": "Q127787",
+    "position_item_id": "Q57417770",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the Mogale City Municipal Council",
+        "term_item_id": "Q57417772",
+        "start_date": "2016-08-18",
+        "end_date": "2021-08-18"
+      }
+    ]
+  },
+  {
+    "comment": "Emalahleni Municipal Council",
+    "house_item_id": "Q57416979",
+    "seat_count": null,
+    "area_id": "Q2347801",
+    "position_item_id": "Q57417773",
+    "terms": [
+      {
+        "comment": "2016-2021 Term of the Emalahleni Municipal Council",
+        "term_item_id": "Q57417778",
+        "start_date": "2016-08-18",
+        "end_date": "2021-08-18"
+      }
+    ]
+  },
+  {
+    "comment": "KwaZulu-Natal Legislature",
+    "house_item_id": "Q6449892",
+    "seat_count": "80",
+    "area_id": "Q81725",
+    "position_item_id": "Q57313167",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of KwaZulu-Natal",
+        "term_item_id": "Q57313169",
+        "start_date": "2014-05-21"
+      }
+    ]
+  },
+  {
+    "comment": "Limpopo Legislature",
+    "house_item_id": "Q6549944",
+    "seat_count": "49",
+    "area_id": "Q134907",
+    "position_item_id": "Q57313170",
+    "terms": [
+      {
+        "comment": "Fifth Legislature of the Limpopo Province",
+        "term_item_id": "Q57313171",
+        "start_date": "2014-05-21"
       }
     ]
   }

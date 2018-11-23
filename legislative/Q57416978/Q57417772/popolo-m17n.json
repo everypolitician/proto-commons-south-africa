@@ -1,0 +1,78 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Gilbert Kgosi Gaselebelwe"
+      },
+      "id": "Q57548027",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57548027"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Mogale City Munisipale Raad",
+        "lang:en": "Mogale City Municipal Council"
+      },
+      "id": "Q57416978",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57416978"
+        }
+      ],
+      "area_id": "Q127787",
+      "seat_counts": {
+        "Q57417770": "77"
+      }
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57548027-23A49326-96FD-46F2-8FFA-AA82A00C3CEB",
+      "person_id": "Q57548027",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q57416978",
+      "area_id": "Q57577124",
+      "start_date": "2016-08-18",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q57417770",
+      "role": {
+        "lang:af": "Raadslid van die Mogale City Munisipale Raad",
+        "lang:en": "Councillor of the Mogale City Municipal Council"
+      }
+    }
+  ]
+}

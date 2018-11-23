@@ -1,0 +1,75 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Phumulo Masualle"
+      },
+      "id": "Q22279094",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22279094"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Oos-Kaap Uitvoerende Raad",
+        "lang:en": "Eastern Cape Executive Council"
+      },
+      "id": "Q57268876",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57268876"
+        }
+      ],
+      "area_id": "Q130840"
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22279094-0804E888-DD1C-4DA1-8EA3-978D15C6C2D2",
+      "person_id": "Q22279094",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q57268876",
+      "area_id": "Q130840",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q57388461",
+      "role_superclass": {
+        "lang:en": "Premier of a South African province"
+      },
+      "role_code": "Q7240363",
+      "role": {
+        "lang:af": "Premier van die Provinsie Oos-Kaap",
+        "lang:en": "Premier of the Eastern Cape"
+      }
+    }
+  ]
+}

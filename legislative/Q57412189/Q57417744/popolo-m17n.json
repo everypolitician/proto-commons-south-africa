@@ -1,0 +1,78 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Freddie Banda"
+      },
+      "id": "Q57548025",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57548025"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Stad Johannesburg Munisipale Raad",
+        "lang:en": "City of Johannesburg Municipal Council"
+      },
+      "id": "Q57412189",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57412189"
+        }
+      ],
+      "area_id": "Q2346838",
+      "seat_counts": {
+        "Q57417743": "270"
+      }
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57548025-6E59A939-44B2-4D03-8F12-759846995F98",
+      "person_id": "Q57548025",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q57412189",
+      "area_id": "Q57576175",
+      "start_date": "2016-08-22",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q57417743",
+      "role": {
+        "lang:af": "Raadslid van die Stad Johannesburg Munisipale Raad",
+        "lang:en": "Councillor of the City of Johannesburg Municipal Council"
+      }
+    }
+  ]
+}

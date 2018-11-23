@@ -1,0 +1,122 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Ebrahim Rasool"
+      },
+      "id": "Q1280058",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1280058"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Helen Zille",
+        "lang:en": "Helen Zille",
+        "lang:xh": "U-Helen Zille"
+      },
+      "id": "Q260693",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q260693"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Wes-Kaap Uitvoerende Raad",
+        "lang:en": "Western Cape Executive Council"
+      },
+      "id": "Q57283361",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57283361"
+        }
+      ],
+      "area_id": "Q127167"
+    },
+    {
+      "name": {
+        "lang:af": "Demokratiese Alliansie",
+        "lang:en": "Democratic Alliance"
+      },
+      "id": "Q761877",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q761877"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1280058-AEFECEBB-E0A9-45A8-87F4-46649538D5CB",
+      "person_id": "Q1280058",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q57283361",
+      "area_id": "Q127167",
+      "role_superclass_code": "Q57388461",
+      "role_superclass": {
+        "lang:en": "Premier of a South African province"
+      },
+      "role_code": "Q4997324",
+      "role": {
+        "lang:af": "Premier van die Provinsie Wes-Kaap",
+        "lang:en": "Premier of the Western Cape"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/q260693-B6987570-C3EA-49AC-BC68-A76B55D0EFFA",
+      "person_id": "Q260693",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "Q57283361",
+      "area_id": "Q127167",
+      "start_date": "2009-05-06",
+      "role_superclass_code": "Q57388461",
+      "role_superclass": {
+        "lang:en": "Premier of a South African province"
+      },
+      "role_code": "Q4997324",
+      "role": {
+        "lang:af": "Premier van die Provinsie Wes-Kaap",
+        "lang:en": "Premier of the Western Cape"
+      }
+    }
+  ]
+}

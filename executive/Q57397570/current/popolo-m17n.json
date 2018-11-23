@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Burgermeesterskommittee van Buffalo City",
+        "lang:en": "Mayoral Committee of Buffalo City"
+      },
+      "id": "Q57397570",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57397570"
+        }
+      ],
+      "area_id": "Q1002006"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

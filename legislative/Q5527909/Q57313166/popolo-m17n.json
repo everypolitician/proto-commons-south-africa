@@ -1,0 +1,31 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Gauteng Provinsiale Wetgewer",
+        "lang:en": "Gauteng Provincial Legislature"
+      },
+      "id": "Q5527909",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5527909"
+        }
+      ],
+      "area_id": "Q133083",
+      "seat_counts": {
+        "Q57313165": "73"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

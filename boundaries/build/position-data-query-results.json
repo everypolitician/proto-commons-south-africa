@@ -1,0 +1,3871 @@
+{
+  "head" : {
+    "vars" : [ "position", "position_name_af", "position_name_en", "position_name_nso", "position_name_ss", "position_name_st", "position_name_tn", "position_name_ts", "position_name_ve", "position_name_xh", "position_name_zu", "positionType", "adminAreaTypes", "adminArea", "admin_area_af", "admin_area_en", "admin_area_nso", "admin_area_ss", "admin_area_st", "admin_area_tn", "admin_area_ts", "admin_area_ve", "admin_area_xh", "admin_area_zu", "positionSuperclass", "position_superclass_af", "position_superclass_en", "position_superclass_nso", "position_superclass_ss", "position_superclass_st", "position_superclass_tn", "position_superclass_ts", "position_superclass_ve", "position_superclass_xh", "position_superclass_zu", "body", "body_af", "body_en", "body_nso", "body_ss", "body_st", "body_tn", "body_ts", "body_ve", "body_xh", "body_zu" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16744266"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the National Assembly of South Africa"
+      },
+      "position_name_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Xirho xa Huvo ya rixaka"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Suid-Afrika"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Aferika Borwa"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Afrika-Dzonga"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Afurika Tshipembe"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UMzantsi Afrika"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IRiphabliki yaseNingizimu Afrika"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6814221"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Africa"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q240823"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Nasionale Vergadering van Suid-Afrika"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly of South Africa"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16744266"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the National Assembly of South Africa"
+      },
+      "position_name_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Xirho xa Huvo ya rixaka"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Suid-Afrika"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Aferika Borwa"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Afrika-Dzonga"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Afurika Tshipembe"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UMzantsi Afrika"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IRiphabliki yaseNingizimu Afrika"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6814221"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Africa"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2185780"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Parlement van Suid-Afrika"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Parliament of South Africa"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20079916"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the National Council of Provinces"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Suid-Afrika"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Aferika Borwa"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Afrika-Dzonga"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Afurika Tshipembe"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UMzantsi Afrika"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IRiphabliki yaseNingizimu Afrika"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6814221"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Africa"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2119484"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Nasionale Raad van Provinsies"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Council of Provinces"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q20079916"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the National Council of Provinces"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Suid-Afrika"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Aferika Borwa"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Afrika-Dzonga"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Afurika Tshipembe"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UMzantsi Afrika"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IRiphabliki yaseNingizimu Afrika"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6814221"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Africa"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2185780"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Parlement van Suid-Afrika"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Parliament of South Africa"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q273884"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of South Africa"
+      },
+      "position_name_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Suid-Afrika"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Aferika Borwa"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Afrika-Dzonga"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Afurika Tshipembe"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UMzantsi Afrika"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IRiphabliki yaseNingizimu Afrika"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q634678"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Kabinet van Jacob Zuma"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of South Africa"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "President van Suid-Afrika"
+      },
+      "position_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Umongameli waseNingizimu Afrika"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q273884"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of South Africa"
+      },
+      "position_name_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Suid-Afrika"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Aferika Borwa"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Afrika-Dzonga"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Afurika Tshipembe"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UMzantsi Afrika"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IRiphabliki yaseNingizimu Afrika"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30461"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q634678"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Kabinet van Jacob Zuma"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of South Africa"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "President van Suid-Afrika"
+      },
+      "position_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Umongameli waseNingizimu Afrika"
+      },
+      "position_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "president"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3278456"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Cape Town"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185115"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Stad Kaapstad Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Cape Town"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IsiXeko SaseKapa"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6797862"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Burgermeesterskommittee van die Stad Kaapstad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of the City of Cape Town"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van Stad Kaapstad Metropolitaanse Munisipaliteit"
+      },
+      "position_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      },
+      "position_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UsoDolophu wase Kapa"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4997324"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of the Western Cape"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127167"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Wes-Kaap"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Cape"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Kapa Bodikela"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Western Cape"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Kapa Bophirimela"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Western Cape"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Kapa Vhukovhela"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaNtshona-Koloni"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IKipi laseNtshonalanga"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of a South African province"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57283361"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Wes-Kaap Uitvoerende Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Cape Executive Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Premier van die Provinsie Wes-Kaap"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57312980"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Eastern Cape Provincial Legislature"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130840"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Oos-Kaap"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern Cape"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Kapa Bohlabela"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Eastern Cape"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Kapa Botjhabela"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Eastern Cape"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Kapa Vhubvaḓuvha"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaMpuma-Koloni"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "KwaXhosa"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5330037"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Oos-Kaap Provinsiale Wetgewer"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern Cape Provincial Legislature"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Lid van die Oos-Kaap Provinsiale Wetgewer"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57313163"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Free State Legislature"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q160284"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Vrystaat"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Free State"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Free State"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Fuleyistata"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Freistata"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Free State"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Free State"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaFreyistata"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IFleyistata"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17053115"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Wetgewer van die Provinsie Vrystaat"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Free State Legislature"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Lid van die Vrystaat Provinsiale Wetgewer"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57313165"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Gauteng Provincial Legislature"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133083"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaRhawuti"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IGauteng"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5527909"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Gauteng Provinsiale Wetgewer"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gauteng Provincial Legislature"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Lid van die Gauteng Provinsiale Wetgewer"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57313167"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the KwaZulu-Natal Provincial Legislature"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q81725"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "KwaZulu Natala"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "KaZulu"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Kwazulu-Natala"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaKwaZulu-Natala"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6449892"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal Provinsiale Wetgewer"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal Legislature"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Lid van die KwaZulu-Natal Provinsiale Wetgewer"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57313170"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Limpopo Provincial Legislature"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134907"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaLimpopo"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6549944"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Limpopo Provinsiale Wetgewer"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Limpopo Legislature"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Lid van die Limpopo Provinsiale Wetgewer"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57313172"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Mpumalanga Provincial Legislature"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132410"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaMpumalanga"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17068721"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mpumalanga Provinsiale Wetgewer"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mpumalanga Provincial Legislature"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Lid van die Mpumalanga Provinsiale Wetgewer"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57313175"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the North West Provincial Legislature"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q165956"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Noordwes"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North West"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Leboa Bohlabela Transvaal"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "North West"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Leboya Bophirimela"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Bokone Bophirim"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Devhula-Vhukovhela"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaseMntla-Ntshona"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Nyakatho-Ntshonalanga"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17080170"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Noord-Wes Provinsiale Wetgewer"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North West Provincial Legislature"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Lid van die Noord-Wes Provinsiale Wetgewer"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57313177"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Northern Cape Provincial Legislature"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132418"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Noord-Kaap"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Cape"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Kapa Leboa"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Northern Cape"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Kapa Leboya"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Northern Cape"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Kapa Devhula"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaseMntla-Koloni"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IKipi laseNyakatho"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15262569"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Nood-Kaap Provinsiale Wetgewer"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Cape Provincial Legislature"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Lid van die Nood-Kaap Provinsiale Wetgewer"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57413798"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Mayor of City of Ekurhuleni Metropolitan Municipality"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q326891"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Ekurhuleni Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ekurhuleni Metropolitan Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Ekurhuleni Metropolitan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57413799"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Burgermeesterskommittee van Ekurhuleni"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of the City of Ekurhuleni"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van Ekurhuleni Metropolitaanse Munisipaliteit"
+      },
+      "position_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57413801"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Mayor of eThekwini Metropolitan Municipality"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q311544"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "EThekwini Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "eThekwini"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "EThekwini"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "EThekwini Metropolitan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416690"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Burgermeesterskommittee van eThekwini"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of eThekwini"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van eThekwini Metropolitaanse Munisipaliteit"
+      },
+      "position_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57414217"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Mayor of Matjhabeng Local Municipality"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1873451"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Matjhabeng Plaaslike Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Matjhabeng Local Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Matjhabeng Mmusogae"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57414215"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Burgermeesterskommittee van Matjhabeng"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of Matjhabeng"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van Matjhabeng Plaaslike Munisipaliteit"
+      },
+      "position_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57414515"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Mayor of Msunduzi Local Municipality"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1815510"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Msunduzi Plaaslike Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Msunduzi Local Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Mmušôgaê wa Msunduzi"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Msunduzi Local Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57397575"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Burgermeesterskommittee van Msunduzi"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of Msunduzi"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van Msunduzi Munisipaliteit"
+      },
+      "position_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57414669"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Mayor of Mangaung Metropolitan Municipality"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159185"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mangaung Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mangaung Metropolitan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416691"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Burgermeesterskommittee van Mangaung"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of Mangaung"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van Mangaung Metropolitaanse Munisipaliteit"
+      },
+      "position_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417656"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the City of Ekurhuleni Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q326891"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Ekurhuleni Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ekurhuleni Metropolitan Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Ekurhuleni Metropolitan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57413797"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Ekurhuleni Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Ekurhuleni Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Ekurhuleni Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417738"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the Buffalo City Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1002006"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Buffalo City Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buffalo City Metropolitan Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Buffalo City Metropolitan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57397571"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Buffalo City Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Buffalo City Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Buffalo City Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417740"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the City of Cape Town Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185115"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Stad Kaapstad Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Cape Town"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IsiXeko SaseKapa"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5035091"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Stad Kaapstad Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cape Town City Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Stad Kaapstad Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417743"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the City of Johannesburg Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2346838"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Stad Johannesburg Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Johannesburg Metropolitan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57412189"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Stad Johannesburg Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Johannesburg Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Stad Johannesburg Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417745"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the City of Tshwane Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1094207"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Stad Tshwane Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Tshwane Metropolitan Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "City of Tshwane Metropolitan Municipality"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Tshwane"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416971"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Stad Tshwane Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Tshwane Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Stad Tshwane Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417748"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the eThekwini Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q311544"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "EThekwini Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "eThekwini"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "EThekwini"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "EThekwini Metropolitan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416874"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "eThekwini Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "eThekwini Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die eThekwini Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417751"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the Mangaung Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159185"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mangaung Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mangaung Metropolitan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416973"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mangaung Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mangaung Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Mangaung Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417753"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the Nelson Mandela Bay Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1856565"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Nelson Mandelabaai Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nelson Mandela Bay Metropolitan Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Nelson Mandela Bay Metropolitan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416974"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Nerlson Mandelabaai Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nelson Mandela Bay Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Nerlson Mandelabaai Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417761"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the Msunduzi Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1815510"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Msunduzi Plaaslike Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Msunduzi Local Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Mmušôgaê wa Msunduzi"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Msunduzi Local Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416975"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Msunduzi Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Msunduzi Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Msunduzi Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417763"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the Emfuleni Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1335678"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Emfuleni Plaaslike Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Emfuleni Local Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Emfuleni Mmusogae"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416977"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Emfuleni Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Emfuleni Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Emfuleni Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417765"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the Matjhabeng Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1873451"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Matjhabeng Plaaslike Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Matjhabeng Local Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Matjhabeng Mmusogae"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57414216"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Matjhabeng Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Matjhabeng Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Matjhabeng Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417768"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the Newcastle Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1983450"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Newcastle Plaaslike Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Newcastle Local Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Mmušôgaê wa Newcastle"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Newcastle Local Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57414218"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Newcastle Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Newcastle Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Newcastle Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417770"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the Mogale City Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127787"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mogale City Plaaslike Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mogale City Local Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Mmušôgaê wa Mogale City"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416978"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mogale City Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mogale City Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Mogale City Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417773"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the Emalahleni Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2347801"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Emalahleni Plaaslike Munisipaliteit, Mpumalanga"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Emalahleni Local Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Emalahleni Mmusogae"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416979"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Emalahleni Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Emalahleni Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die Emalahleni Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57417779"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Councillor of the uMhlathuze Municipal Council"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q311800"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "UMhlathuze Plaaslike Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "uMhlathuze Local Municipality"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Mmušôgaê wa uMhlathuze"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "UMhlathuze Local Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57414511"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "uMhlatuze Munisipale Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "uMhlathuze Municipal Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Raadslid van die uMhlatuze Munisipale Raad"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6797727"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Johannesburg"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2346838"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Stad Johannesburg Metropolitaanse Munisipaliteit"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Johannesburg Metropolitan Municipality"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57412188"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Burgermeesterskommittee van die Stad Johannesburg"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of the City of Johannesburg"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit"
+      },
+      "position_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6814209"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of Provincial Parliament of Western Cape"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q127167"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Wes-Kaap"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Cape"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Kapa Bodikela"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Western Cape"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Kapa Bophirimela"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Western Cape"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Kapa Vhukovhela"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaNtshona-Koloni"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IKipi laseNtshonalanga"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5230427"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a legislative assembly"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17081929"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Provinsiale Parlement van die Wes-Kaap"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Cape Provincial Parliament"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Lid van die Provinsiale Parlement van die Wes-Kaap"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6814221"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Africa"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Suid-Afrika"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Aferika Borwa"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Afrika-Dzonga"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Afurika Tshipembe"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UMzantsi Afrika"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IRiphabliki yaseNingizimu Afrika"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2185780"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Parlement van Suid-Afrika"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Parliament of South Africa"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240351"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of Gauteng"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133083"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaRhawuti"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IGauteng"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of a South African province"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57283347"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Gauteng Uitvoerende Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gauteng Executive Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Premier van Gauteng"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240352"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of KwaZulu-Natal"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q81725"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "KwaZulu Natala"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "KaZulu"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Kwazulu-Natala"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaKwaZulu-Natala"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of a South African province"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57283349"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal Uitvoerende Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal Executive Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Premier van die Provinsie van KwaZulu-Natal"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240353"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of Limpopo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134907"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaLimpopo"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Limpopo"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of a South African province"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57283351"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Limpopo Uitvoerende Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Limpopo Executive Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Permier van die Provinsie Limpopo"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240354"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of Mpumalanga"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132410"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaMpumalanga"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Mpumalanga"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of a South African province"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57283354"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mpumalanga Uitvoerende Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mpumalanga Executive Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Permier van Mpumalanga"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240358"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of North West"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q165956"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Noordwes"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North West"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Leboa Bohlabela Transvaal"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "North West"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Leboya Bophirimela"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Bokone Bophirim"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Devhula-Vhukovhela"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaseMntla-Ntshona"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Nyakatho-Ntshonalanga"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of a South African province"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57283356"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Noordwes Uitvoerende Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "North West Executive Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Permier van die Noordwes Provinsie"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240363"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of the Eastern Cape"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130840"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Oos-Kaap"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern Cape"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Kapa Bohlabela"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Eastern Cape"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Kapa Botjhabela"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Eastern Cape"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Kapa Vhubvaḓuvha"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaMpuma-Koloni"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "KwaXhosa"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of a South African province"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57268876"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Oos-Kaap Uitvoerende Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Eastern Cape Executive Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Premier van die Provinsie Oos-Kaap"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240365"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of the Free State"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q160284"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Vrystaat"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Free State"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Free State"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Fuleyistata"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Freistata"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Free State"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Free State"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaFreyistata"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IFleyistata"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of a South African province"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57283345"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Free State Executive Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Premier van die Vrystaat Provinsie"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240366"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of the Northern Cape"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q132418"
+      },
+      "admin_area_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Noord-Kaap"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Cape"
+      },
+      "admin_area_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Kapa Leboa"
+      },
+      "admin_area_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Northern Cape"
+      },
+      "admin_area_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Kapa Leboya"
+      },
+      "admin_area_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Northern Cape"
+      },
+      "admin_area_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Kapa Devhula"
+      },
+      "admin_area_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaseMntla-Koloni"
+      },
+      "admin_area_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IKipi laseNyakatho"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of a South African province"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57283358"
+      },
+      "body_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Noord-Kaap Uitvoerende Raad"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Northern Cape Executive Council"
+      },
+      "position_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Premier van die Noord-Kaap"
+      }
+    } ]
+  }
+}

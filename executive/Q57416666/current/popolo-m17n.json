@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Burgermeesterskommittee van Nerlson Mandelabaai",
+        "lang:en": "Mayoral Committee of Nelson Mandela Bay"
+      },
+      "id": "Q57416666",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57416666"
+        }
+      ],
+      "area_id": "Q1856565"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

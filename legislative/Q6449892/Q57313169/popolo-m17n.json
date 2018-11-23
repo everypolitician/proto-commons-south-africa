@@ -1,0 +1,122 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Ann McDonnell"
+      },
+      "id": "Q57548017",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57548017"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Willies Mchunu"
+      },
+      "id": "Q8021940",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8021940"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "KwaZulu-Natal Provinsiale Wetgewer",
+        "lang:en": "KwaZulu-Natal Legislature"
+      },
+      "id": "Q6449892",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6449892"
+        }
+      ],
+      "area_id": "Q81725",
+      "seat_counts": {
+        "Q57313167": "80"
+      }
+    },
+    {
+      "name": {
+        "lang:af": "Demokratiese Alliansie",
+        "lang:en": "Democratic Alliance"
+      },
+      "id": "Q761877",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q761877"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57548017-C71C3E9A-052C-4D57-9DE1-5DF4CBE55467",
+      "person_id": "Q57548017",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "Q6449892",
+      "area_id": "Q59136538",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q57313167",
+      "role": {
+        "lang:af": "Lid van die KwaZulu-Natal Provinsiale Wetgewer",
+        "lang:en": "Member of the KwaZulu-Natal Provincial Legislature"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8021940-695271e5-4cf4-c0b3-e48f-48194f5387eb",
+      "person_id": "Q8021940",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q6449892",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q57313167",
+      "role": {
+        "lang:af": "Lid van die KwaZulu-Natal Provinsiale Wetgewer",
+        "lang:en": "Member of the KwaZulu-Natal Provincial Legislature"
+      }
+    }
+  ]
+}
