@@ -8,5 +8,245 @@
         "position_item_id": "Q273884"
       }
     ]
+  },
+  {
+    "comment": "Eastern Cape Executive Council",
+    "executive_item_id": "Q57268876",
+    "positions": [
+      {
+        "comment": "Premier of the Eastern Cape",
+        "position_item_id": "Q7240363"
+      }
+    ]
+  },
+  {
+    "comment": "Free State Executive Council",
+    "executive_item_id": "Q57283345",
+    "positions": [
+      {
+        "comment": "Premier of the Free State",
+        "position_item_id": "Q7240365"
+      }
+    ]
+  },
+  {
+    "comment": "Gauteng Executive Council",
+    "executive_item_id": "Q57283347",
+    "positions": [
+      {
+        "comment": "Premier of Gauteng",
+        "position_item_id": "Q7240351"
+      }
+    ]
+  },
+  {
+    "comment": "KwaZulu-Natal Executive Council",
+    "executive_item_id": "Q57283349",
+    "positions": [
+      {
+        "comment": "Premier of KwaZulu-Natal",
+        "position_item_id": "Q7240352"
+      }
+    ]
+  },
+  {
+    "comment": "Limpopo Executive Council",
+    "executive_item_id": "Q57283351",
+    "positions": [
+      {
+        "comment": "Premier of Limpopo",
+        "position_item_id": "Q7240353"
+      }
+    ]
+  },
+  {
+    "comment": "Mpumalanga Executive Council",
+    "executive_item_id": "Q57283354",
+    "positions": [
+      {
+        "comment": "Premier of Mpumalanga",
+        "position_item_id": "Q7240354"
+      }
+    ]
+  },
+  {
+    "comment": "North West Executive Council",
+    "executive_item_id": "Q57283356",
+    "positions": [
+      {
+        "comment": "Premier of North West",
+        "position_item_id": "Q7240358"
+      }
+    ]
+  },
+  {
+    "comment": "Northern Cape Executive Council",
+    "executive_item_id": "Q57283358",
+    "positions": [
+      {
+        "comment": "Premier of the Northern Cape",
+        "position_item_id": "Q7240366"
+      }
+    ]
+  },
+  {
+    "comment": "Western Cape Executive Council",
+    "executive_item_id": "Q57283361",
+    "positions": [
+      {
+        "comment": "Premier of the Western Cape",
+        "position_item_id": "Q4997324"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of Buffalo City",
+    "executive_item_id": "Q57397570",
+    "positions": [
+      {
+        "comment": "Executive Mayor of Buffalo City Metropolitan Municipality",
+        "position_item_id": "Q57397572"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of Msunduzi",
+    "executive_item_id": "Q57397575",
+    "positions": [
+      {
+        "comment": "Executive Mayor of Msunduzi Local Municipality",
+        "position_item_id": "Q57414515"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of the City of Johannesburg",
+    "executive_item_id": "Q57412188",
+    "positions": [
+      {
+        "comment": "Mayor of Johannesburg",
+        "position_item_id": "Q6797727"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of the City of Tshwane",
+    "executive_item_id": "Q57413796",
+    "positions": [
+      {
+        "comment": "Executive Mayor of City of Tshwane Metropolitan Municipality",
+        "position_item_id": "Q57397576"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of the City of Ekurhuleni",
+    "executive_item_id": "Q57413799",
+    "positions": [
+      {
+        "comment": "Executive Mayor of City of Ekurhuleni Metropolitan Municipality",
+        "position_item_id": "Q57413798"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of Matjhabeng",
+    "executive_item_id": "Q57414215",
+    "positions": [
+      {
+        "comment": "Executive Mayor of Matjhabeng Local Municipality",
+        "position_item_id": "Q57414217"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of Mogale City",
+    "executive_item_id": "Q57414220",
+    "positions": [
+      {
+        "comment": "Executive Mayor of Mogale City Local Municipality",
+        "position_item_id": "Q57416064"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of uMhlathuze",
+    "executive_item_id": "Q57414510",
+    "positions": [
+      {
+        "comment": "Executive Mayor of uMhlathuze Local Municipality",
+        "position_item_id": "Q57414512"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of Newcastle",
+    "executive_item_id": "Q57414665",
+    "positions": [
+      {
+        "comment": "Executive Mayor of Newcastle Local Municipality",
+        "position_item_id": "Q57414666"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of Nelson Mandela Bay",
+    "executive_item_id": "Q57416666",
+    "positions": [
+      {
+        "comment": "Executive Mayor of Nelson Mandela Bay Metropolitan Municipality",
+        "position_item_id": "Q57414667"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of eThekwini",
+    "executive_item_id": "Q57416690",
+    "positions": [
+      {
+        "comment": "Executive Mayor of eThekwini Metropolitan Municipality",
+        "position_item_id": "Q57413801"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of Mangaung",
+    "executive_item_id": "Q57416691",
+    "positions": [
+      {
+        "comment": "Executive Mayor of Mangaung Metropolitan Municipality",
+        "position_item_id": "Q57414669"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of Emfuleni",
+    "executive_item_id": "Q57416692",
+    "positions": [
+      {
+        "comment": "Executive Mayor of Emfuleni Local Municipality",
+        "position_item_id": "Q57414514"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of Emalahleni",
+    "executive_item_id": "Q57416693",
+    "positions": [
+      {
+        "comment": "Executive Mayor of Emalahleni Local Municipality",
+        "position_item_id": "Q57416120"
+      }
+    ]
+  },
+  {
+    "comment": "Mayoral Committee of the City of Cape Town",
+    "executive_item_id": "Q6797862",
+    "positions": [
+      {
+        "comment": "mayor of Cape Town",
+        "position_item_id": "Q3278456"
+      }
+    ]
   }
 ]
