@@ -65,10 +65,10 @@
       "organization_id": "Q57413799",
       "area_id": "Q326891",
       "start_date": "2016-08-23",
-      "role_superclass_code": "Q57413798",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:af": "Uitvoerende Burgermeester van Ekurhuleni Metropolitaanse Munisipaliteit",
-        "lang:en": "Executive Mayor of City of Ekurhuleni Metropolitan Municipality"
+        "lang:af": "burgemeester",
+        "lang:en": "mayor"
       },
       "role_code": "Q57413798",
       "role": {

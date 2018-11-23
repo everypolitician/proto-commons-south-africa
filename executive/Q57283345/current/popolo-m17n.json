@@ -64,10 +64,9 @@
       "organization_id": "Q57283345",
       "area_id": "Q160284",
       "start_date": "2018-03-28",
-      "role_superclass_code": "Q7240365",
+      "role_superclass_code": "Q57388461",
       "role_superclass": {
-        "lang:af": "Premier van die Vrystaat Provinsie",
-        "lang:en": "Premier of the Free State"
+        "lang:en": "Premier of a South African province"
       },
       "role_code": "Q7240365",
       "role": {

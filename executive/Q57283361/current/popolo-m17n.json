@@ -91,10 +91,9 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q57283361",
       "area_id": "Q127167",
-      "role_superclass_code": "Q4997324",
+      "role_superclass_code": "Q57388461",
       "role_superclass": {
-        "lang:af": "Premier van die Provinsie Wes-Kaap",
-        "lang:en": "Premier of the Western Cape"
+        "lang:en": "Premier of a South African province"
       },
       "role_code": "Q4997324",
       "role": {
@@ -109,10 +108,9 @@
       "organization_id": "Q57283361",
       "area_id": "Q127167",
       "start_date": "2009-05-06",
-      "role_superclass_code": "Q4997324",
+      "role_superclass_code": "Q57388461",
       "role_superclass": {
-        "lang:af": "Premier van die Provinsie Wes-Kaap",
-        "lang:en": "Premier of the Western Cape"
+        "lang:en": "Premier of a South African province"
       },
       "role_code": "Q4997324",
       "role": {

@@ -97,12 +97,29 @@
       "organization_id": "Q634678",
       "area_id": "Q258",
       "start_date": "2018-02-15",
-      "role_superclass_code": "Q273884",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
+        "lang:en": "head of government"
+      },
+      "role_code": "Q273884",
+      "role": {
         "lang:af": "President van Suid-Afrika",
         "lang:en": "President of South Africa",
         "lang:ts": "Murhangeri wa tiko ra Afrika Dzonga",
         "lang:zu": "Umongameli waseNingizimu Afrika"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1148669-e63cc2bc-46f4-4408-6274-046f677fdce4",
+      "person_id": "Q1148669",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q634678",
+      "area_id": "Q258",
+      "start_date": "2018-02-15",
+      "role_superclass_code": "Q30461",
+      "role_superclass": {
+        "lang:af": "president",
+        "lang:en": "president"
       },
       "role_code": "Q273884",
       "role": {
@@ -118,12 +135,28 @@
       "on_behalf_of_id": "Q740718",
       "organization_id": "Q634678",
       "area_id": "Q258",
-      "role_superclass_code": "Q273884",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
+        "lang:en": "head of government"
+      },
+      "role_code": "Q273884",
+      "role": {
         "lang:af": "President van Suid-Afrika",
         "lang:en": "President of South Africa",
         "lang:ts": "Murhangeri wa tiko ra Afrika Dzonga",
         "lang:zu": "Umongameli waseNingizimu Afrika"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q726202-18E8BB55-2695-4D57-A251-7C4FA28D28EF",
+      "person_id": "Q726202",
+      "on_behalf_of_id": "Q740718",
+      "organization_id": "Q634678",
+      "area_id": "Q258",
+      "role_superclass_code": "Q30461",
+      "role_superclass": {
+        "lang:af": "president",
+        "lang:en": "president"
       },
       "role_code": "Q273884",
       "role": {

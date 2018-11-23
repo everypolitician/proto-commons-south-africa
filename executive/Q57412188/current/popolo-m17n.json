@@ -73,10 +73,10 @@
       "organization_id": "Q57412188",
       "area_id": "Q2346838",
       "start_date": "2016-01-01",
-      "role_superclass_code": "Q6797727",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:af": "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit",
-        "lang:en": "Mayor of Johannesburg"
+        "lang:af": "burgemeester",
+        "lang:en": "mayor"
       },
       "role_code": "Q6797727",
       "role": {
@@ -89,10 +89,10 @@
       "person_id": "Q6793126",
       "organization_id": "Q57412188",
       "area_id": "Q2346838",
-      "role_superclass_code": "Q6797727",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:af": "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit",
-        "lang:en": "Mayor of Johannesburg"
+        "lang:af": "burgemeester",
+        "lang:en": "mayor"
       },
       "role_code": "Q6797727",
       "role": {

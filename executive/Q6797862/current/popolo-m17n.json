@@ -59,11 +59,10 @@
       "organization_id": "Q6797862",
       "area_id": "Q1185115",
       "start_date": "2018-11-01",
-      "role_superclass_code": "Q3278456",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:af": "Uitvoerende Burgermeester van Stad Kaapstad Metropolitaanse Munisipaliteit",
-        "lang:en": "mayor of Cape Town",
-        "lang:xh": "UsoDolophu wase Kapa"
+        "lang:af": "burgemeester",
+        "lang:en": "mayor"
       },
       "role_code": "Q3278456",
       "role": {

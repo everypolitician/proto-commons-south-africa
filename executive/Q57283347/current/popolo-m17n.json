@@ -92,10 +92,9 @@
       "on_behalf_of_id": "Q1125988",
       "organization_id": "Q57283347",
       "area_id": "Q133083",
-      "role_superclass_code": "Q7240351",
+      "role_superclass_code": "Q57388461",
       "role_superclass": {
-        "lang:af": "Premier van Gauteng",
-        "lang:en": "Premier of Gauteng"
+        "lang:en": "Premier of a South African province"
       },
       "role_code": "Q7240351",
       "role": {
@@ -109,10 +108,9 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q57283347",
       "area_id": "Q133083",
-      "role_superclass_code": "Q7240351",
+      "role_superclass_code": "Q57388461",
       "role_superclass": {
-        "lang:af": "Premier van Gauteng",
-        "lang:en": "Premier of Gauteng"
+        "lang:en": "Premier of a South African province"
       },
       "role_code": "Q7240351",
       "role": {
@@ -126,10 +124,9 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q57283347",
       "area_id": "Q133083",
-      "role_superclass_code": "Q7240351",
+      "role_superclass_code": "Q57388461",
       "role_superclass": {
-        "lang:af": "Premier van Gauteng",
-        "lang:en": "Premier of Gauteng"
+        "lang:en": "Premier of a South African province"
       },
       "role_code": "Q7240351",
       "role": {

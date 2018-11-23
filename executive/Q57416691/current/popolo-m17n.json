@@ -46,10 +46,10 @@
       "organization_id": "Q57416691",
       "area_id": "Q1159185",
       "start_date": "2016-08-18",
-      "role_superclass_code": "Q57414669",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:af": "Uitvoerende Burgermeester van Mangaung Metropolitaanse Munisipaliteit",
-        "lang:en": "Executive Mayor of Mangaung Metropolitan Municipality"
+        "lang:af": "burgemeester",
+        "lang:en": "mayor"
       },
       "role_code": "Q57414669",
       "role": {

@@ -61,10 +61,9 @@
       "organization_id": "Q57283349",
       "area_id": "Q81725",
       "start_date": "2016-05-25",
-      "role_superclass_code": "Q7240352",
+      "role_superclass_code": "Q57388461",
       "role_superclass": {
-        "lang:af": "Premier van die Provinsie van KwaZulu-Natal",
-        "lang:en": "Premier of KwaZulu-Natal"
+        "lang:en": "Premier of a South African province"
       },
       "role_code": "Q7240352",
       "role": {

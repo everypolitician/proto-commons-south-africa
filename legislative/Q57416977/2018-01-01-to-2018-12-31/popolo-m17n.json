@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:af": "Emfuleni Munisipale Raad",
+        "lang:en": "Emfuleni Municipal Council"
+      },
+      "id": "Q57416977",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57416977"
+        }
+      ],
+      "area_id": "Q1335678",
+      "seat_counts": {
+        "Q57417763": "90"
+      }
+    }
   ],
   "areas": [
 

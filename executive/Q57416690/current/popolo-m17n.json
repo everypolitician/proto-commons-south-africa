@@ -64,10 +64,10 @@
       "organization_id": "Q57416690",
       "area_id": "Q311544",
       "start_date": "2016-08-23",
-      "role_superclass_code": "Q57413801",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:af": "Uitvoerende Burgermeester van eThekwini Metropolitaanse Munisipaliteit",
-        "lang:en": "Executive Mayor of eThekwini Metropolitan Municipality"
+        "lang:af": "burgemeester",
+        "lang:en": "mayor"
       },
       "role_code": "Q57413801",
       "role": {

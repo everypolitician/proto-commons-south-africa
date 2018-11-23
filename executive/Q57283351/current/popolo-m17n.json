@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:af": "Limpopo Uitvoerende Raad",
+        "lang:en": "Limpopo Executive Council"
+      },
+      "id": "Q57283351",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57283351"
+        }
+      ],
+      "area_id": "Q134907"
+    }
   ],
   "areas": [
 

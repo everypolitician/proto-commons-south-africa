@@ -64,10 +64,9 @@
       "organization_id": "Q57283354",
       "area_id": "Q132410",
       "start_date": "2018-03-20",
-      "role_superclass_code": "Q7240354",
+      "role_superclass_code": "Q57388461",
       "role_superclass": {
-        "lang:af": "Permier van Mpumalanga",
-        "lang:en": "Premier of Mpumalanga"
+        "lang:en": "Premier of a South African province"
       },
       "role_code": "Q7240354",
       "role": {

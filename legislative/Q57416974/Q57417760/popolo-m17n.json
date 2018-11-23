@@ -5,20 +5,20 @@
   "organizations": [
     {
       "name": {
-        "lang:af": "Nasionale Raad van Provinsies",
-        "lang:en": "National Council of Provinces"
+        "lang:af": "Nerlson Mandelabaai Munisipale Raad",
+        "lang:en": "Nelson Mandela Bay Municipal Council"
       },
-      "id": "Q2119484",
+      "id": "Q57416974",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q2119484"
+          "identifier": "Q57416974"
         }
       ],
-      "area_id": "Q258",
+      "area_id": "Q1856565",
       "seat_counts": {
-        "Q20079916": "90"
+        "Q57417753": "120"
       }
     }
   ],

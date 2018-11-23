@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:af": "Stad Kaapstad Munisipale Raad",
+        "lang:en": "Cape Town City Council"
+      },
+      "id": "Q5035091",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5035091"
+        }
+      ],
+      "area_id": "Q1185115",
+      "seat_counts": {
+        "Q57417740": "231"
+      }
+    }
   ],
   "areas": [
 

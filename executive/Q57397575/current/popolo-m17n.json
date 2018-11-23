@@ -46,10 +46,10 @@
       "organization_id": "Q57397575",
       "area_id": "Q1815510",
       "start_date": "2016-08-19",
-      "role_superclass_code": "Q57414515",
+      "role_superclass_code": "Q30185",
       "role_superclass": {
-        "lang:af": "Uitvoerende Burgermeester van Msunduzi Munisipaliteit",
-        "lang:en": "Executive Mayor of Msunduzi Local Municipality"
+        "lang:af": "burgemeester",
+        "lang:en": "mayor"
       },
       "role_code": "Q57414515",
       "role": {
