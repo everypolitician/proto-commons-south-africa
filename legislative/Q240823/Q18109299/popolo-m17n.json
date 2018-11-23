@@ -37,7 +37,7 @@
     {
       "name": {
         "lang:af": "Cyril Ramaphosa",
-        "lang:en": "Cyril Ramaphosa",
+        "lang:en": "Matamela Cyril Ramaphosa",
         "lang:nso": "Cyril Ramaphosa",
         "lang:ss": "Cyril Ramaphosa",
         "lang:st": "Cyril Ramaphosa",
@@ -65,6 +65,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q11816850"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Corné Mulder",
+        "lang:en": "Corné Mulder"
+      },
+      "id": "Q13034521",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13034521"
         }
       ],
       "links": [
@@ -139,6 +155,7 @@
     },
     {
       "name": {
+        "lang:af": "Pule Mabe",
         "lang:en": "Pule Mabe"
       },
       "id": "Q1554125",
@@ -154,6 +171,7 @@
     },
     {
       "name": {
+        "lang:af": "Stone Sizani",
         "lang:en": "Stone Sizani"
       },
       "id": "Q16186490",
@@ -169,6 +187,7 @@
     },
     {
       "name": {
+        "lang:af": "Thulas Nxesi",
         "lang:en": "Thulas Nxesi"
       },
       "id": "Q16193273",
@@ -231,6 +250,7 @@
     },
     {
       "name": {
+        "lang:af": "Fezile Bhengu",
         "lang:en": "Fezile Bhengu"
       },
       "id": "Q16744270",
@@ -246,6 +266,7 @@
     },
     {
       "name": {
+        "lang:af": "Pamela Tshwete",
         "lang:en": "Pamela Tshwete"
       },
       "id": "Q16744297",
@@ -293,6 +314,7 @@
     },
     {
       "name": {
+        "lang:af": "Maggie Sotyu",
         "lang:en": "Maggie Sotyu"
       },
       "id": "Q16744320",
@@ -308,6 +330,7 @@
     },
     {
       "name": {
+        "lang:af": "Hendrietta Bogopane-Zulu",
         "lang:en": "Hendrietta Bogopane-Zulu"
       },
       "id": "Q16744325",
@@ -342,6 +365,7 @@
     },
     {
       "name": {
+        "lang:af": "Andries Nel",
         "lang:en": "Andries Nel"
       },
       "id": "Q16744353",
@@ -437,6 +461,7 @@
     },
     {
       "name": {
+        "lang:af": "Narend Singh",
         "lang:en": "Narend Singh"
       },
       "id": "Q16744425",
@@ -452,6 +477,7 @@
     },
     {
       "name": {
+        "lang:af": "Jerome Maake",
         "lang:en": "Jerome-Joseph Maake"
       },
       "id": "Q16744439",
@@ -482,6 +508,39 @@
     },
     {
       "name": {
+        "lang:af": "Buoang Mashile",
+        "lang:en": "Buoang Mashile"
+      },
+      "id": "Q16744450",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16744450"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Motswaledi Matlala",
+        "lang:en": "Motswaledi Matlala"
+      },
+      "id": "Q16744453",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16744453"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Désirée van der Walt",
         "lang:en": "Désirée van der Walt"
       },
       "id": "Q16744469",
@@ -512,6 +571,22 @@
     },
     {
       "name": {
+        "lang:af": "Nthibane Mokoto",
+        "lang:en": "Nthibane Mokoto"
+      },
+      "id": "Q16744505",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16744505"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:af": "Francois Beukman",
         "lang:en": "Francois Beukman"
       },
@@ -528,6 +603,23 @@
     },
     {
       "name": {
+        "lang:af": "Andrew Madella",
+        "lang:en": "Andrew Madella"
+      },
+      "id": "Q16744531",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16744531"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Bongani Mkongi",
         "lang:en": "Bongani Mkongi"
       },
       "id": "Q16744537",
@@ -559,6 +651,7 @@
     },
     {
       "name": {
+        "lang:af": "Steven Swart",
         "lang:en": "Steven Swart"
       },
       "id": "Q16744856",
@@ -811,6 +904,7 @@
     },
     {
       "name": {
+        "lang:af": "Xitlhangoma Mabasa",
         "lang:en": "Xitlhangoma Mabasa"
       },
       "id": "Q16746707",
@@ -826,6 +920,23 @@
     },
     {
       "name": {
+        "lang:af": "Mapule Mafolo",
+        "lang:en": "Mapule Mafolo"
+      },
+      "id": "Q16746819",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16746819"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Gratitude Magwanishe",
         "lang:en": "Gratitude Magwanishe"
       },
       "id": "Q16746826",
@@ -841,6 +952,7 @@
     },
     {
       "name": {
+        "lang:af": "Lusizo Makhubela-Mashele",
         "lang:en": "Lusizo Makhubela-Mashele"
       },
       "id": "Q16746833",
@@ -856,6 +968,23 @@
     },
     {
       "name": {
+        "lang:af": "Zondi Makhubele",
+        "lang:en": "Zondi Makhubele"
+      },
+      "id": "Q16746834",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16746834"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Buti Manamela",
         "lang:en": "Buti Manamela"
       },
       "id": "Q16747385",
@@ -871,6 +1000,7 @@
     },
     {
       "name": {
+        "lang:af": "Mduduzi Manana",
         "lang:en": "Mduduzi Manana"
       },
       "id": "Q16747387",
@@ -886,6 +1016,23 @@
     },
     {
       "name": {
+        "lang:af": "Dudu Mathebe",
+        "lang:en": "Dudu Mathebe"
+      },
+      "id": "Q16765110",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16765110"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Nomakhaya Mdaka",
         "lang:en": "Nomakhaya Mdaka"
       },
       "id": "Q16765120",
@@ -901,6 +1048,39 @@
     },
     {
       "name": {
+        "lang:af": "Mzameni Mdakane",
+        "lang:en": "Mzameni Mdakane"
+      },
+      "id": "Q16765123",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16765123"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Lindiwe Mjobo",
+        "lang:en": "Lindiwe Mjobo"
+      },
+      "id": "Q16765127",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16765127"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Hlengiwe Mkhize",
         "lang:en": "Hlengiwe Mkhize"
       },
       "id": "Q16765128",
@@ -908,6 +1088,86 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16765128"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Maapi Molebatsi",
+        "lang:en": "Maapi Molebatsi"
+      },
+      "id": "Q16765137",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16765137"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Joyce Moloi-Moroka",
+        "lang:en": "Joyce Moloi-Moroka"
+      },
+      "id": "Q16765139",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16765139"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Malusi Motimele",
+        "lang:en": "Malusi Motimele"
+      },
+      "id": "Q16765141",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16765141"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Enock Mthethwa",
+        "lang:en": "Enock Mthethwa"
+      },
+      "id": "Q16765149",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16765149"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Phumzile Ngwenya-Mabila",
+        "lang:en": "Phumzile Ngwenya-Mabila"
+      },
+      "id": "Q16765225",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16765225"
         }
       ],
       "links": [
@@ -963,6 +1223,7 @@
     },
     {
       "name": {
+        "lang:af": "Mildred Oliphant",
         "lang:en": "Mildred Oliphant"
       },
       "id": "Q16765319",
@@ -978,6 +1239,23 @@
     },
     {
       "name": {
+        "lang:af": "Bheki Radebe",
+        "lang:en": "Bheki Radebe"
+      },
+      "id": "Q16765733",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16765733"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Goodwill Sbusiso Radebe",
         "lang:en": "Goodwill Sbusiso Radebe"
       },
       "id": "Q16765740",
@@ -985,6 +1263,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16765740"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Ngoako Ramathlodi",
+        "lang:en": "Ngoako Ramathlodi"
+      },
+      "id": "Q16765753",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16765753"
         }
       ],
       "links": [
@@ -1089,6 +1383,7 @@
     },
     {
       "name": {
+        "lang:af": "Senzeni Zokwana",
         "lang:en": "Senzeni Zokwana"
       },
       "id": "Q17388948",
@@ -1104,6 +1399,7 @@
     },
     {
       "name": {
+        "lang:af": "Nosipho Ntwanambi",
         "lang:en": "Nosipho Ntwanambi"
       },
       "id": "Q17466747",
@@ -1119,7 +1415,9 @@
     },
     {
       "name": {
-        "lang:en": "Floyd Shivambu"
+        "lang:af": "Floyd Shivambu",
+        "lang:en": "Floyd Shivambu",
+        "lang:zu": "Floyd Shivambu"
       },
       "id": "Q17708781",
       "identifiers": [
@@ -1214,6 +1512,7 @@
     },
     {
       "name": {
+        "lang:af": "Nathi Mthethwa",
         "lang:en": "Nathi Mthethwa",
         "lang:ss": "Nathi Mthethwa"
       },
@@ -1230,6 +1529,7 @@
     },
     {
       "name": {
+        "lang:af": "Michael Masutha",
         "lang:en": "Michael Masutha"
       },
       "id": "Q20774316",
@@ -1245,6 +1545,7 @@
     },
     {
       "name": {
+        "lang:af": "David Mahlobo",
         "lang:en": "David Mahlobo",
         "lang:st": "David Mahlobo"
       },
@@ -1253,21 +1554,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q20981694"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Ngoako Ramatlhodi"
-      },
-      "id": "Q20981883",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q20981883"
         }
       ],
       "links": [
@@ -1340,6 +1626,7 @@
     },
     {
       "name": {
+        "lang:af": "Siyabonga Cwele",
         "lang:en": "Siyabonga Cwele"
       },
       "id": "Q2290959",
@@ -1358,7 +1645,8 @@
         "lang:af": "Winnie Madikizela-Mandela",
         "lang:en": "Winnie Madikizela-Mandela",
         "lang:ts": "Winnie Madikizela-Mandela",
-        "lang:xh": "U-Winnie Madikizela Mandela"
+        "lang:xh": "U-Winnie Madikizela Mandela",
+        "lang:zu": "Winnie Madikizela-Mandela"
       },
       "id": "Q239062",
       "identifiers": [
@@ -1388,6 +1676,7 @@
     },
     {
       "name": {
+        "lang:af": "Mbuyiseni Ndlozi",
         "lang:en": "Mbuyiseni Ndlozi"
       },
       "id": "Q24234082",
@@ -1403,6 +1692,7 @@
     },
     {
       "name": {
+        "lang:af": "Fish Mahlalela",
         "lang:en": "Fish Mahlalela"
       },
       "id": "Q26206862",
@@ -1418,6 +1708,7 @@
     },
     {
       "name": {
+        "lang:af": "Madala Masuku",
         "lang:en": "Madala Masuku"
       },
       "id": "Q28011915",
@@ -1425,6 +1716,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q28011915"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Obed Bapela",
+        "lang:en": "Obed Bapela"
+      },
+      "id": "Q28011968",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28011968"
         }
       ],
       "links": [
@@ -1448,6 +1755,23 @@
     },
     {
       "name": {
+        "lang:af": "Stella Ndabeni",
+        "lang:en": "Stella Ndabeni-Abrahams"
+      },
+      "id": "Q28086074",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28086074"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Kebby Maphatsoe",
         "lang:en": "Kebby Maphatsoe"
       },
       "id": "Q28086077",
@@ -1463,6 +1787,7 @@
     },
     {
       "name": {
+        "lang:af": "Ayanda Dlodlo",
         "lang:en": "Ayanda Dlodlo"
       },
       "id": "Q28839897",
@@ -1478,6 +1803,7 @@
     },
     {
       "name": {
+        "lang:af": "Deidre Carter",
         "lang:en": "Deidre Carter"
       },
       "id": "Q28848631",
@@ -1620,21 +1946,6 @@
     },
     {
       "name": {
-        "lang:en": "Cornelius Petrus Mulder"
-      },
-      "id": "Q33077552",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q33077552"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:af": "Pallo Jordan",
         "lang:en": "Pallo Jordan"
       },
@@ -1651,6 +1962,7 @@
     },
     {
       "name": {
+        "lang:af": "Tokozile Xasa",
         "lang:en": "Tokozile Xasa"
       },
       "id": "Q33870385",
@@ -1714,6 +2026,7 @@
     },
     {
       "name": {
+        "lang:af": "Anton Alberts",
         "lang:en": "Anton Alberts"
       },
       "id": "Q39071075",
@@ -1777,6 +2090,7 @@
     },
     {
       "name": {
+        "lang:af": "Mandla Mandela",
         "lang:en": "Mandla Mandela"
       },
       "id": "Q437046",
@@ -1823,6 +2137,7 @@
     },
     {
       "name": {
+        "lang:af": "Amos Masondo",
         "lang:en": "Amos Masondo"
       },
       "id": "Q474285",
@@ -1870,6 +2185,7 @@
     },
     {
       "name": {
+        "lang:af": "Pumzile Mnguni",
         "lang:en": "Pumzile Justice Mnguni"
       },
       "id": "Q47529614",
@@ -1885,6 +2201,7 @@
     },
     {
       "name": {
+        "lang:af": "Cheryl Faku",
         "lang:en": "Zukisa Cheryl Faku"
       },
       "id": "Q47529616",
@@ -1932,6 +2249,7 @@
     },
     {
       "name": {
+        "lang:af": "Daphne Rantho",
         "lang:en": "Daphne Zukiswa Rantho"
       },
       "id": "Q47529620",
@@ -1947,6 +2265,7 @@
     },
     {
       "name": {
+        "lang:af": "Mcebisi Skwatsha",
         "lang:en": "Mcebisi Skwatsha"
       },
       "id": "Q47529621",
@@ -1992,6 +2311,7 @@
     },
     {
       "name": {
+        "lang:af": "Mandlenkosi Galo",
         "lang:en": "Mandlenkosi Phillip Galo"
       },
       "id": "Q47529626",
@@ -2007,6 +2327,7 @@
     },
     {
       "name": {
+        "lang:af": "Steven Jafta",
         "lang:en": "Steven Mahlubanzima Jafta"
       },
       "id": "Q47529628",
@@ -2022,6 +2343,7 @@
     },
     {
       "name": {
+        "lang:af": "Samuel Mmusi",
         "lang:en": "Samuel Gaaesi Mmusi"
       },
       "id": "Q47529629",
@@ -2037,6 +2359,7 @@
     },
     {
       "name": {
+        "lang:af": "Lulama Ntshayisa",
         "lang:en": "Lulama Maxwell Ntshayisa"
       },
       "id": "Q47529630",
@@ -2067,6 +2390,7 @@
     },
     {
       "name": {
+        "lang:af": "Lerato Cynthia Theko",
         "lang:en": "Lerato Cynthia Theko"
       },
       "id": "Q47529633",
@@ -2097,6 +2421,7 @@
     },
     {
       "name": {
+        "lang:af": "Dikeledi Mahlangu",
         "lang:en": "Dikeledi Gladys Mahlangu"
       },
       "id": "Q47529636",
@@ -2112,6 +2437,7 @@
     },
     {
       "name": {
+        "lang:af": "Kwati Mashego-Dlamini",
         "lang:en": "Candith Mashego-Dlamini"
       },
       "id": "Q47529637",
@@ -2127,6 +2453,7 @@
     },
     {
       "name": {
+        "lang:af": "Nocawe Noncedo Mafu",
         "lang:en": "Nocawe Noncedo Mafu"
       },
       "id": "Q47529638",
@@ -2157,6 +2484,7 @@
     },
     {
       "name": {
+        "lang:af": "Jabulani Mahlangu",
         "lang:en": "Jabulani Lukas Mahlangu"
       },
       "id": "Q47529643",
@@ -2172,6 +2500,7 @@
     },
     {
       "name": {
+        "lang:af": "Sibongile Manana",
         "lang:en": "Millicent Ntombizodwa Sibongile Manana"
       },
       "id": "Q47529644",
@@ -2202,6 +2531,7 @@
     },
     {
       "name": {
+        "lang:af": "Priscilla Tozama Mantashe",
         "lang:en": "Priscilla Tozama Mantashe"
       },
       "id": "Q47529646",
@@ -2279,6 +2609,7 @@
     },
     {
       "name": {
+        "lang:af": "Deborah Raphuti",
         "lang:en": "Deborah Dineo Raphuti"
       },
       "id": "Q47529651",
@@ -2294,6 +2625,7 @@
     },
     {
       "name": {
+        "lang:af": "Sibongile Tsoleli",
         "lang:en": "Sibongile Pearm Tsoleli"
       },
       "id": "Q47529652",
@@ -2309,6 +2641,7 @@
     },
     {
       "name": {
+        "lang:af": "Cathrine Matsimbi",
         "lang:en": "Cathrine Matsimbi"
       },
       "id": "Q47529653",
@@ -2324,6 +2657,7 @@
     },
     {
       "name": {
+        "lang:af": "David Kekana",
         "lang:en": "Maesela David Kekana"
       },
       "id": "Q47529654",
@@ -2354,6 +2688,7 @@
     },
     {
       "name": {
+        "lang:af": "Moses Masango",
         "lang:en": "Moses Siphosezwe Amos Masango"
       },
       "id": "Q47529656",
@@ -2369,6 +2704,7 @@
     },
     {
       "name": {
+        "lang:af": "Nokuzola Ndongeni",
         "lang:en": "Nokuzola Ndongeni"
       },
       "id": "Q47529658",
@@ -2384,6 +2720,7 @@
     },
     {
       "name": {
+        "lang:af": "Madala Ntombela",
         "lang:en": "Madala Louis David Ntombela"
       },
       "id": "Q47529659",
@@ -2399,6 +2736,7 @@
     },
     {
       "name": {
+        "lang:af": "Nokukhanya Mthembu",
         "lang:en": "Nokukhanya Mthembu"
       },
       "id": "Q47529660",
@@ -2414,6 +2752,7 @@
     },
     {
       "name": {
+        "lang:af": "Michael Ralegoma",
         "lang:en": "Strike Michael Ralegoma"
       },
       "id": "Q47529662",
@@ -2429,6 +2768,7 @@
     },
     {
       "name": {
+        "lang:af": "Machwene Semenya",
         "lang:en": "Machwene Rosina Semenya"
       },
       "id": "Q47529663",
@@ -2444,6 +2784,7 @@
     },
     {
       "name": {
+        "lang:af": "Sheila Shope-Sithole",
         "lang:en": "Sheila Coleen Nkhensani Shope-Sithole"
       },
       "id": "Q47529665",
@@ -2459,6 +2800,7 @@
     },
     {
       "name": {
+        "lang:af": "Sello Tleane",
         "lang:en": "Sello Albert Tleane"
       },
       "id": "Q47529667",
@@ -2474,6 +2816,7 @@
     },
     {
       "name": {
+        "lang:af": "Pulani Mogotsi",
         "lang:en": "Velhelmina Pulani Mogotsi"
       },
       "id": "Q47529669",
@@ -2489,7 +2832,8 @@
     },
     {
       "name": {
-        "lang:en": "Simphiwe Donatus Bekwa"
+        "lang:af": "Simphiwe Bekwa",
+        "lang:en": "Simphiwe Bekwa"
       },
       "id": "Q47529671",
       "identifiers": [
@@ -2520,6 +2864,7 @@
     },
     {
       "name": {
+        "lang:af": "Mziwamadoda Kalako",
         "lang:en": "Mziwamadoda Uppington Kalako"
       },
       "id": "Q47529675",
@@ -2551,6 +2896,7 @@
     },
     {
       "name": {
+        "lang:af": "Sahlulele Luzipo",
         "lang:en": "Sahlulele Luzipo"
       },
       "id": "Q47529680",
@@ -2566,6 +2912,7 @@
     },
     {
       "name": {
+        "lang:af": "Livhuhani Mabija",
         "lang:en": "Livhuhani Mabija"
       },
       "id": "Q47529681",
@@ -2581,6 +2928,7 @@
     },
     {
       "name": {
+        "lang:af": "Moloko Maila",
         "lang:en": "Moloko Stanford Armour Maila"
       },
       "id": "Q47529684",
@@ -2596,6 +2944,7 @@
     },
     {
       "name": {
+        "lang:af": "Thomas Makondo",
         "lang:en": "Thomas Makondo"
       },
       "id": "Q47529686",
@@ -2611,6 +2960,7 @@
     },
     {
       "name": {
+        "lang:af": "Elizabeth Masehela",
         "lang:en": "Elizabeth Koena Mmanoko Masehela"
       },
       "id": "Q47529687",
@@ -2626,21 +2976,7 @@
     },
     {
       "name": {
-        "lang:en": "Motswaledi Hezekiel Matlala"
-      },
-      "id": "Q47529690",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529690"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
+        "lang:af": "Derick Mnguni",
         "lang:en": "Derick Mnguni"
       },
       "id": "Q47529691",
@@ -2688,21 +3024,7 @@
     },
     {
       "name": {
-        "lang:en": "Andrew Frans Madella"
-      },
-      "id": "Q47529697",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529697"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
+        "lang:af": "Hellen Kekana",
         "lang:en": "Hellen Boikhutso Kekana"
       },
       "id": "Q47529699",
@@ -2734,6 +3056,7 @@
     },
     {
       "name": {
+        "lang:af": "Sharome van Schalkwyk",
         "lang:en": "Sharome Renay Van Schalkwyk"
       },
       "id": "Q47529703",
@@ -2749,6 +3072,7 @@
     },
     {
       "name": {
+        "lang:af": "Mandisa Matshoba",
         "lang:en": "Mandisa Octovia Matshoba"
       },
       "id": "Q47529704",
@@ -2779,6 +3103,7 @@
     },
     {
       "name": {
+        "lang:af": "Lindy Wilson",
         "lang:en": "Evelyn Wilson"
       },
       "id": "Q47529709",
@@ -2809,6 +3134,7 @@
     },
     {
       "name": {
+        "lang:af": "Patrick Atkinson",
         "lang:en": "Patrick George Atkinson"
       },
       "id": "Q47529712",
@@ -2824,6 +3150,7 @@
     },
     {
       "name": {
+        "lang:af": "Thomas Hadebe",
         "lang:en": "Thomas Zwelakhe Hadebe"
       },
       "id": "Q47529714",
@@ -2839,6 +3166,7 @@
     },
     {
       "name": {
+        "lang:af": "Mbulelo Bara",
         "lang:en": "Mbulelo Richmond Bara"
       },
       "id": "Q47529716",
@@ -2869,6 +3197,7 @@
     },
     {
       "name": {
+        "lang:af": "Cameron MacKenzie",
         "lang:en": "Cameron Mackenzie"
       },
       "id": "Q47529720",
@@ -2914,6 +3243,7 @@
     },
     {
       "name": {
+        "lang:af": "Beverly Abrahams",
         "lang:en": "Beverley Abrahams"
       },
       "id": "Q47529725",
@@ -2959,6 +3289,7 @@
     },
     {
       "name": {
+        "lang:af": "Imamile Pikinini",
         "lang:en": "Imamile Aubin Pikinini"
       },
       "id": "Q47529733",
@@ -2974,6 +3305,7 @@
     },
     {
       "name": {
+        "lang:af": "Haniff Hoosen",
         "lang:en": "Mohammed Haniff Hoosen"
       },
       "id": "Q47529736",
@@ -2989,6 +3321,7 @@
     },
     {
       "name": {
+        "lang:af": "Mandlenkosi Mabika",
         "lang:en": "Mandlenkosi Sicelo Mabika"
       },
       "id": "Q47529738",
@@ -3004,6 +3337,7 @@
     },
     {
       "name": {
+        "lang:af": "Michael Bagraim",
         "lang:en": "Michael Bagraim"
       },
       "id": "Q47529740",
@@ -3019,6 +3353,7 @@
     },
     {
       "name": {
+        "lang:af": "Ngwanamakwetle Mashabela",
         "lang:en": "Ngwanamakwetle Reneiloe Mashabela"
       },
       "id": "Q47529741",
@@ -3034,6 +3369,7 @@
     },
     {
       "name": {
+        "lang:af": "James Skosana",
         "lang:en": "James Jim Skosana"
       },
       "id": "Q47529744",
@@ -3064,6 +3400,7 @@
     },
     {
       "name": {
+        "lang:af": "Thilivhali Mulaudzi",
         "lang:en": "Thilivhali Elphus Mulaudzi"
       },
       "id": "Q47529750",
@@ -3079,21 +3416,7 @@
     },
     {
       "name": {
-        "lang:en": "Buoang Lemias Mashile"
-      },
-      "id": "Q47529752",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529752"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
+        "lang:af": "Donald Gumede",
         "lang:en": "Donald Mlindwa Gumede"
       },
       "id": "Q47529755",
@@ -3109,21 +3432,7 @@
     },
     {
       "name": {
-        "lang:en": "Phumuzile Catherine Ngwenya-Mabila"
-      },
-      "id": "Q47529757",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529757"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
+        "lang:af": "Lungi Mnganga-Gcabashe",
         "lang:en": "Lungi Annette Mnganga-Gcabashe"
       },
       "id": "Q47529758",
@@ -3155,6 +3464,7 @@
     },
     {
       "name": {
+        "lang:af": "Annette Steyn",
         "lang:en": "Annette Steyn"
       },
       "id": "Q47529765",
@@ -3185,6 +3495,7 @@
     },
     {
       "name": {
+        "lang:af": "Cynthia Majeke",
         "lang:en": "Cynthia Nocollege Majeke"
       },
       "id": "Q47529768",
@@ -3200,21 +3511,7 @@
     },
     {
       "name": {
-        "lang:en": "Dudu Hellen Mathebe"
-      },
-      "id": "Q47529769",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529769"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
+        "lang:af": "Jan Esterhuizen",
         "lang:en": "Jan Adriaan Esterhuizen"
       },
       "id": "Q47529770",
@@ -3260,6 +3557,7 @@
     },
     {
       "name": {
+        "lang:af": "Nokhaya Mnisi",
         "lang:en": "Nokhaya Adelaide Mnisi"
       },
       "id": "Q47529777",
@@ -3275,6 +3573,7 @@
     },
     {
       "name": {
+        "lang:af": "Rosemary Capa",
         "lang:en": "Rosemary Nokuzola Capa"
       },
       "id": "Q47529783",
@@ -3290,6 +3589,7 @@
     },
     {
       "name": {
+        "lang:af": "Grace Tseke",
         "lang:en": "Grace Kekulu Tseke"
       },
       "id": "Q47529784",
@@ -3297,21 +3597,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q47529784"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Zondi Silence Makhubele"
-      },
-      "id": "Q47529787",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529787"
         }
       ],
       "links": [
@@ -3336,7 +3621,9 @@
     },
     {
       "name": {
-        "lang:en": "Godrich Ahmed Gardee"
+        "lang:af": "Godrich Gardee",
+        "lang:en": "Godrich Ahmed Gardee",
+        "lang:zu": "Godrich Gardee"
       },
       "id": "Q47529790",
       "identifiers": [
@@ -3366,6 +3653,7 @@
     },
     {
       "name": {
+        "lang:af": "Tandeka Gqada",
         "lang:en": "Tandeka Gqada"
       },
       "id": "Q47529798",
@@ -3381,6 +3669,7 @@
     },
     {
       "name": {
+        "lang:af": "Hlomela Bucwa",
         "lang:en": "Hlomela Bucwa"
       },
       "id": "Q47529799",
@@ -3411,21 +3700,6 @@
     },
     {
       "name": {
-        "lang:en": "Mapule Veronica Mafolo"
-      },
-      "id": "Q47529804",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529804"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Benedict Anthony Duke Martins"
       },
       "id": "Q47529805",
@@ -3441,21 +3715,7 @@
     },
     {
       "name": {
-        "lang:en": "Gregory Rudy Krumbock"
-      },
-      "id": "Q47529807",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529807"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
+        "lang:af": "Darren Bergman",
         "lang:en": "Darren Bergman"
       },
       "id": "Q47529808",
@@ -3471,6 +3731,7 @@
     },
     {
       "name": {
+        "lang:af": "Timothy Brauteseth",
         "lang:en": "Timothy James Brauteseth"
       },
       "id": "Q47529809",
@@ -3486,6 +3747,7 @@
     },
     {
       "name": {
+        "lang:af": "Fezeka Loliwe",
         "lang:en": "Fezeka Sister Loliwe"
       },
       "id": "Q47529811",
@@ -3501,6 +3763,7 @@
     },
     {
       "name": {
+        "lang:af": "Sonja Boshoff",
         "lang:en": "Hildegard Sonja Boshoff"
       },
       "id": "Q47529812",
@@ -3516,6 +3779,7 @@
     },
     {
       "name": {
+        "lang:af": "Archibold Mzuvukile Figlan",
         "lang:en": "Archibold Mzuvukile Figlan"
       },
       "id": "Q47529813",
@@ -3531,6 +3795,7 @@
     },
     {
       "name": {
+        "lang:af": "Malcolm Figg",
         "lang:en": "Malcolm John Figg"
       },
       "id": "Q47529815",
@@ -3546,6 +3811,7 @@
     },
     {
       "name": {
+        "lang:af": "Lungiswa James",
         "lang:en": "Lungiswa Veronica James"
       },
       "id": "Q47529816",
@@ -3561,6 +3827,7 @@
     },
     {
       "name": {
+        "lang:af": "Gordon Mackay",
         "lang:en": "Gordon Mackay"
       },
       "id": "Q47529819",
@@ -3576,6 +3843,7 @@
     },
     {
       "name": {
+        "lang:af": "Richard Majola",
         "lang:en": "Thembekile Richard Majola"
       },
       "id": "Q47529820",
@@ -3591,6 +3859,7 @@
     },
     {
       "name": {
+        "lang:af": "Allen Grootboom",
         "lang:en": "Gregory Allen Grootboom"
       },
       "id": "Q47529824",
@@ -3622,21 +3891,7 @@
     },
     {
       "name": {
-        "lang:en": "Bhekizizwe Abram Radebe"
-      },
-      "id": "Q47529828",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529828"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
+        "lang:af": "Xoliswa Tom",
         "lang:en": "Xoliswa Sandra Tom"
       },
       "id": "Q47529830",
@@ -3667,7 +3922,8 @@
     },
     {
       "name": {
-        "lang:en": "Nozabelo Ruth Bhengu"
+        "lang:af": "Ruth Bhengu",
+        "lang:en": "Ruth Bhengu"
       },
       "id": "Q47529836",
       "identifiers": [
@@ -3698,6 +3954,7 @@
     },
     {
       "name": {
+        "lang:af": "Elsie Coleman",
         "lang:en": "Elsie Mmathulare Coleman"
       },
       "id": "Q47529841",
@@ -3729,6 +3986,7 @@
     },
     {
       "name": {
+        "lang:af": "Dennis Gamede",
         "lang:en": "Dennis Dumisani Gamede"
       },
       "id": "Q47529847",
@@ -3744,6 +4002,7 @@
     },
     {
       "name": {
+        "lang:af": "Werner Horn",
         "lang:en": "Werner Horn"
       },
       "id": "Q47529849",
@@ -3759,6 +4018,7 @@
     },
     {
       "name": {
+        "lang:af": "Nthako Matiase",
         "lang:en": "Nthako Sam Matiase"
       },
       "id": "Q47529850",
@@ -3774,6 +4034,7 @@
     },
     {
       "name": {
+        "lang:af": "Mkhuleko Hlengwa",
         "lang:en": "Mkhuleko Hlengwa"
       },
       "id": "Q47529853",
@@ -3789,6 +4050,7 @@
     },
     {
       "name": {
+        "lang:af": "Makoti Khawula",
         "lang:en": "Makoti Sibongile Khawula"
       },
       "id": "Q47529859",
@@ -3804,7 +4066,8 @@
     },
     {
       "name": {
-        "lang:en": "Regina Mina Mpontseng Lesoma"
+        "lang:af": "Regina Lesoma",
+        "lang:en": "Regina Lesoma"
       },
       "id": "Q47529862",
       "identifiers": [
@@ -3819,6 +4082,7 @@
     },
     {
       "name": {
+        "lang:af": "Celiwe Madlopha",
         "lang:en": "Celiwe Qhamkile Madlopha"
       },
       "id": "Q47529865",
@@ -3834,6 +4098,7 @@
     },
     {
       "name": {
+        "lang:af": "Dikeledi Magadzi",
         "lang:en": "Dikeledi Phillistus Magadzi"
       },
       "id": "Q47529867",
@@ -3849,6 +4114,7 @@
     },
     {
       "name": {
+        "lang:af": "Fikile Majola",
         "lang:en": "Fikile Zachariah Majola"
       },
       "id": "Q47529868",
@@ -3864,6 +4130,7 @@
     },
     {
       "name": {
+        "lang:af": "Sibongile Mchunu",
         "lang:en": "Sibongile Mchunu"
       },
       "id": "Q47529870",
@@ -3879,6 +4146,7 @@
     },
     {
       "name": {
+        "lang:af": "Risimati Mavunda",
         "lang:en": "Risimati Thompson Mavunda"
       },
       "id": "Q47529873",
@@ -3894,6 +4162,7 @@
     },
     {
       "name": {
+        "lang:af": "Thandi Memela",
         "lang:en": "Thandi Cecilia Memela"
       },
       "id": "Q47529876",
@@ -3909,21 +4178,7 @@
     },
     {
       "name": {
-        "lang:en": "Lindiwe Ntombikayise Mjobo"
-      },
-      "id": "Q47529877",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529877"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
+        "lang:af": "Humphrey Mmemezi",
         "lang:en": "Humphrey Mdumzeli Zondelele Mmemezi"
       },
       "id": "Q47529879",
@@ -3939,6 +4194,7 @@
     },
     {
       "name": {
+        "lang:af": "Tsepo Mhlongo",
         "lang:en": "Tsepo Winston Mhlongo"
       },
       "id": "Q47529880",
@@ -3954,6 +4210,7 @@
     },
     {
       "name": {
+        "lang:af": "Madipoane Mothapo",
         "lang:en": "Madipoane Refiloe Moremadi Mothapo"
       },
       "id": "Q47529881",
@@ -3969,66 +4226,7 @@
     },
     {
       "name": {
-        "lang:en": "Maapi Angelina Molebatsi"
-      },
-      "id": "Q47529885",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529885"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Enock Muzi Mthethwa"
-      },
-      "id": "Q47529887",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529887"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Malusi Stanley Motimele"
-      },
-      "id": "Q47529888",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529888"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Stella Ndabeni-Abrahams"
-      },
-      "id": "Q47529891",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529891"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
+        "lang:af": "Nosilivere Magadla",
         "lang:en": "Nosilivere Winifred Magadla"
       },
       "id": "Q47529892",
@@ -4044,6 +4242,7 @@
     },
     {
       "name": {
+        "lang:af": "Mogotle Nkadimeng",
         "lang:en": "Mogotle Friddah Nkadimeng"
       },
       "id": "Q47529895",
@@ -4059,6 +4258,7 @@
     },
     {
       "name": {
+        "lang:af": "Girly Nobanda",
         "lang:en": "Girly Namhla Nobanda"
       },
       "id": "Q47529896",
@@ -4074,6 +4274,7 @@
     },
     {
       "name": {
+        "lang:af": "Andries Plouamma",
         "lang:en": "Molapi Andries Plouamma"
       },
       "id": "Q47529899",
@@ -4089,6 +4290,7 @@
     },
     {
       "name": {
+        "lang:af": "David Ross (Suid-Afrikaanse politikus)",
         "lang:en": "David Christie Ross"
       },
       "id": "Q47529902",
@@ -4104,6 +4306,7 @@
     },
     {
       "name": {
+        "lang:af": "Maliyakhe Shelembe",
         "lang:en": "Maliyakhe Lymon Shelembe"
       },
       "id": "Q47529903",
@@ -4119,6 +4322,7 @@
     },
     {
       "name": {
+        "lang:af": "Primrose Sonti",
         "lang:en": "Nokulunga Primrose Sonti"
       },
       "id": "Q47529905",
@@ -4134,6 +4338,7 @@
     },
     {
       "name": {
+        "lang:af": "Vincent Smith",
         "lang:en": "Vincent George Smith"
       },
       "id": "Q47529906",
@@ -4149,6 +4354,7 @@
     },
     {
       "name": {
+        "lang:af": "Khethamabala Sithole",
         "lang:en": "Khethamabala Petros Sithole"
       },
       "id": "Q47529908",
@@ -4164,6 +4370,7 @@
     },
     {
       "name": {
+        "lang:af": "Terri Stander",
         "lang:en": "Terri Stander"
       },
       "id": "Q47529910",
@@ -4179,6 +4386,7 @@
     },
     {
       "name": {
+        "lang:af": "Dirk Stubbe",
         "lang:en": "Dirk Jan Stubbe"
       },
       "id": "Q47529911",
@@ -4209,6 +4417,7 @@
     },
     {
       "name": {
+        "lang:af": "Belinda Bozzoli",
         "lang:en": "Belinda Bozzoli"
       },
       "id": "Q47529914",
@@ -4224,6 +4433,7 @@
     },
     {
       "name": {
+        "lang:af": "Tandi Mahambehlala",
         "lang:en": "Tandi Mahambehlala"
       },
       "id": "Q47529915",
@@ -4269,6 +4479,7 @@
     },
     {
       "name": {
+        "lang:af": "Alan McLoughlin",
         "lang:en": "Alan Ross Mcloughlin"
       },
       "id": "Q47529921",
@@ -4299,6 +4510,7 @@
     },
     {
       "name": {
+        "lang:af": "Winston Rabotapi",
         "lang:en": "Mponeng Winston Rabotapi"
       },
       "id": "Q47529924",
@@ -4314,6 +4526,7 @@
     },
     {
       "name": {
+        "lang:af": "Veronica van Dyk",
         "lang:en": "Veronica Van Dyk"
       },
       "id": "Q47529925",
@@ -4344,6 +4557,7 @@
     },
     {
       "name": {
+        "lang:af": "Pebane George Moteka",
         "lang:en": "Pebane George Moteka"
       },
       "id": "Q47529928",
@@ -4374,6 +4588,7 @@
     },
     {
       "name": {
+        "lang:af": "Lawrence Kwankwa",
         "lang:en": "Nqabayomzi Lawrence Saziso Kwankwa"
       },
       "id": "Q47529933",
@@ -4389,6 +4604,7 @@
     },
     {
       "name": {
+        "lang:af": "Yvonne Phosa",
         "lang:en": "Yvonne Nkwenkwezi Phosa"
       },
       "id": "Q47529935",
@@ -4404,6 +4620,7 @@
     },
     {
       "name": {
+        "lang:af": "Sarel Jacobus Marais",
         "lang:en": "Sarel Jacobus Francois Marais"
       },
       "id": "Q47529936",
@@ -4419,6 +4636,7 @@
     },
     {
       "name": {
+        "lang:af": "Michael Cardo",
         "lang:en": "Michael John Cardo"
       },
       "id": "Q47529937",
@@ -4434,6 +4652,7 @@
     },
     {
       "name": {
+        "lang:af": "Mohlopi Mapulane",
         "lang:en": "Mohlopi Philemon Mapulane"
       },
       "id": "Q47529939",
@@ -4464,6 +4683,7 @@
     },
     {
       "name": {
+        "lang:af": "Moses Tseli",
         "lang:en": "Rembuluwani Moses Tseli"
       },
       "id": "Q47529945",
@@ -4479,6 +4699,7 @@
     },
     {
       "name": {
+        "lang:af": "Thomas Walters",
         "lang:en": "Thomas Walters"
       },
       "id": "Q47529947",
@@ -4509,7 +4730,8 @@
     },
     {
       "name": {
-        "lang:en": "Joanmariae Louise Fubbs"
+        "lang:af": "Joan Fubbs",
+        "lang:en": "Joan Fubbs"
       },
       "id": "Q47529950",
       "identifiers": [
@@ -4584,6 +4806,7 @@
     },
     {
       "name": {
+        "lang:af": "Hermanus Groenewald",
         "lang:en": "Hermanus Bernadus Groenewald"
       },
       "id": "Q47529958",
@@ -4599,6 +4822,7 @@
     },
     {
       "name": {
+        "lang:af": "Nomsa Tarabella Marchesi",
         "lang:en": "Nomsa Innocencia Tarabella-Marchesi"
       },
       "id": "Q47529960",
@@ -4614,6 +4838,7 @@
     },
     {
       "name": {
+        "lang:af": "Ahmed Shaik Emam",
         "lang:en": "Ahmed Munzoor Shaik Emam"
       },
       "id": "Q47529962",
@@ -4629,6 +4854,7 @@
     },
     {
       "name": {
+        "lang:af": "Sibongile Nkomo",
         "lang:en": "Sibongile Judith Nkomo"
       },
       "id": "Q47529964",
@@ -4644,6 +4870,7 @@
     },
     {
       "name": {
+        "lang:af": "Ken Robertson",
         "lang:en": "Ken Peter Robertson"
       },
       "id": "Q47529966",
@@ -4659,6 +4886,7 @@
     },
     {
       "name": {
+        "lang:af": "Humphrey Maxegwana",
         "lang:en": "Comely Humphrey Maqocwa Maxegwana"
       },
       "id": "Q47529967",
@@ -4674,6 +4902,7 @@
     },
     {
       "name": {
+        "lang:af": "Chantel King",
         "lang:en": "Chantel King"
       },
       "id": "Q47529969",
@@ -4704,6 +4933,7 @@
     },
     {
       "name": {
+        "lang:af": "Thandeka Mbabama",
         "lang:en": "Thandeka Moloko Mbabama"
       },
       "id": "Q47529973",
@@ -4734,6 +4964,7 @@
     },
     {
       "name": {
+        "lang:af": "Ross Purdon",
         "lang:en": "Ross Kriel Purdon"
       },
       "id": "Q47529978",
@@ -4749,6 +4980,7 @@
     },
     {
       "name": {
+        "lang:af": "Patekile Holomisa",
         "lang:en": "Sango Patekile Holomisa"
       },
       "id": "Q47529985",
@@ -4781,6 +5013,7 @@
     },
     {
       "name": {
+        "lang:af": "Mamagase Nchabeleng",
         "lang:en": "Mamagase Elleck Nchabeleng"
       },
       "id": "Q47529989",
@@ -4796,6 +5029,7 @@
     },
     {
       "name": {
+        "lang:af": "Barbara Thomson",
         "lang:en": "Barbara Thomson"
       },
       "id": "Q47530002",
@@ -4803,21 +5037,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q47530002"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Kopeng Obed Bapela"
-      },
-      "id": "Q47530003",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47530003"
         }
       ],
       "links": [
@@ -4857,6 +5076,7 @@
     },
     {
       "name": {
+        "lang:af": "Bridget Masango",
         "lang:en": "Bridget Staff Masango"
       },
       "id": "Q47530012",
@@ -4872,6 +5092,7 @@
     },
     {
       "name": {
+        "lang:af": "Zelda Jongbloed",
         "lang:en": "Zelda Jongbloed"
       },
       "id": "Q47530021",
@@ -4902,6 +5123,7 @@
     },
     {
       "name": {
+        "lang:af": "Alf Lees",
         "lang:en": "Robert Alfred Lees"
       },
       "id": "Q47530024",
@@ -4917,6 +5139,7 @@
     },
     {
       "name": {
+        "lang:af": "Hope Helene Malgas",
         "lang:en": "Hope Helene Malgas"
       },
       "id": "Q47530028",
@@ -4932,6 +5155,7 @@
     },
     {
       "name": {
+        "lang:af": "Lindiwe Maseko",
         "lang:en": "Lindiwe Michelle Maseko"
       },
       "id": "Q47530029",
@@ -4939,21 +5163,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q47530029"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Mzameni Richard Mdakane"
-      },
-      "id": "Q47530039",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47530039"
         }
       ],
       "links": [
@@ -4977,6 +5186,7 @@
     },
     {
       "name": {
+        "lang:af": "Beatrice Ngcobo",
         "lang:en": "Beatrice Thembekile Ngcobo"
       },
       "id": "Q47530043",
@@ -4992,21 +5202,7 @@
     },
     {
       "name": {
-        "lang:en": "Nthibane Rebecca Mokoto"
-      },
-      "id": "Q47530046",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47530046"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
+        "lang:af": "Godfrey Oliphant",
         "lang:en": "Gaolatlhe Godfrey Oliphant"
       },
       "id": "Q47530047",
@@ -5022,6 +5218,7 @@
     },
     {
       "name": {
+        "lang:af": "Joe Phaahla",
         "lang:en": "Joseph Phaahla"
       },
       "id": "Q47530048",
@@ -5029,21 +5226,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q47530048"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Hendrik Cornelus Schmidt"
-      },
-      "id": "Q47530052",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47530052"
         }
       ],
       "links": [
@@ -5067,6 +5249,7 @@
     },
     {
       "name": {
+        "lang:af": "Dikeledi Tsotetsi",
         "lang:en": "Dikeledi Rebecca Tsotetsi"
       },
       "id": "Q47530055",
@@ -5082,6 +5265,7 @@
     },
     {
       "name": {
+        "lang:af": "Patrick Sibande",
         "lang:en": "Mtikeni Patrick Sibande"
       },
       "id": "Q47530056",
@@ -5113,6 +5297,7 @@
     },
     {
       "name": {
+        "lang:af": "Lechesa Tsenoli",
         "lang:en": "Solomon Lechesa Tsenoli"
       },
       "id": "Q47530058",
@@ -5128,7 +5313,8 @@
     },
     {
       "name": {
-        "lang:en": "Hlomane Patrick Chauke"
+        "lang:af": "Patrick Chauke",
+        "lang:en": "Patrick Chauke"
       },
       "id": "Q47530059",
       "identifiers": [
@@ -5143,6 +5329,7 @@
     },
     {
       "name": {
+        "lang:af": "Andricus van der Westhuizen",
         "lang:en": "Andricus Van der Westhuizen"
       },
       "id": "Q47530060",
@@ -5158,6 +5345,7 @@
     },
     {
       "name": {
+        "lang:af": "James Vos",
         "lang:en": "James Vos"
       },
       "id": "Q47530061",
@@ -5188,6 +5376,7 @@
     },
     {
       "name": {
+        "lang:af": "Dipuo Bertha Letsatsi-Duba",
         "lang:en": "Dipuo Bertha Letsatsi-Duba"
       },
       "id": "Q47530068",
@@ -5203,6 +5392,7 @@
     },
     {
       "name": {
+        "lang:af": "Choloane Matsepe",
         "lang:en": "Choloane David Matsepe"
       },
       "id": "Q47530071",
@@ -5233,6 +5423,7 @@
     },
     {
       "name": {
+        "lang:af": "Bertha Mabe",
         "lang:en": "Bertha Peace Mabe"
       },
       "id": "Q47530161",
@@ -5263,6 +5454,7 @@
     },
     {
       "name": {
+        "lang:af": "Sheilla Xego-Sovita",
         "lang:en": "Sheilla Tembalam Xego"
       },
       "id": "Q47536522",
@@ -5338,6 +5530,7 @@
     },
     {
       "name": {
+        "lang:af": "Nhlanhlakayise Khubisa",
         "lang:en": "Nhlanhlakayise Moses Khubisa"
       },
       "id": "Q47536780",
@@ -5353,6 +5546,7 @@
     },
     {
       "name": {
+        "lang:af": "Liezl van der Merwe",
         "lang:en": "Liezl Linda van der Merwe"
       },
       "id": "Q47536782",
@@ -5443,6 +5637,7 @@
     },
     {
       "name": {
+        "lang:af": "Makgathatso Pilane-Majake",
         "lang:en": "Makgathatso Charlotte Chana Pilane-Majake"
       },
       "id": "Q47536813",
@@ -5488,6 +5683,7 @@
     },
     {
       "name": {
+        "lang:af": "Masefele Morutoa",
         "lang:en": "Masefele Rosalia Morutoa"
       },
       "id": "Q47536916",
@@ -5518,6 +5714,7 @@
     },
     {
       "name": {
+        "lang:af": "Thandi Tobias",
         "lang:en": "Thandi Vivian Tobias"
       },
       "id": "Q47536946",
@@ -5610,6 +5807,7 @@
     },
     {
       "name": {
+        "lang:af": "Mangaqa Mncwango",
         "lang:en": "Mangaqa Albert Mncwango"
       },
       "id": "Q47890500",
@@ -5625,6 +5823,7 @@
     },
     {
       "name": {
+        "lang:af": "Itumeleng Mosala",
         "lang:en": "Itumeleng Mosala"
       },
       "id": "Q47890555",
@@ -5640,6 +5839,7 @@
     },
     {
       "name": {
+        "lang:af": "Hlakudi Nkoana",
         "lang:en": "Hlakudi Frans Nkoana"
       },
       "id": "Q47890561",
@@ -5655,6 +5855,7 @@
     },
     {
       "name": {
+        "lang:af": "Ezekiel Ramokhoase",
         "lang:en": "Tete Ramalie Jonas Ezekiel Ramokhoase"
       },
       "id": "Q47890578",
@@ -5670,6 +5871,7 @@
     },
     {
       "name": {
+        "lang:af": "Patrick Mabilo",
         "lang:en": "Solomon Patrick Mabilo"
       },
       "id": "Q47890588",
@@ -5715,6 +5917,7 @@
     },
     {
       "name": {
+        "lang:af": "Heinrich Volmink",
         "lang:en": "Heinrich Cyril Volmink"
       },
       "id": "Q47890613",
@@ -5745,6 +5948,7 @@
     },
     {
       "name": {
+        "lang:af": "Nicholous Khoza",
         "lang:en": "Nicholous Pro Khoza"
       },
       "id": "Q47890639",
@@ -5760,6 +5964,7 @@
     },
     {
       "name": {
+        "lang:af": "Seropane Mphethi",
         "lang:en": "Seropane Senyane Alton Mphethi"
       },
       "id": "Q47890647",
@@ -5775,6 +5980,7 @@
     },
     {
       "name": {
+        "lang:af": "Kgotso Morapela",
         "lang:en": "Kgotso Zachariah Morapela"
       },
       "id": "Q47890655",
@@ -5790,6 +5996,7 @@
     },
     {
       "name": {
+        "lang:af": "Bernard Joseph",
         "lang:en": "Bernard Daniel Joseph"
       },
       "id": "Q47890678",
@@ -5805,6 +6012,7 @@
     },
     {
       "name": {
+        "lang:af": "Pumza Ntobongwana",
         "lang:en": "Pumza Ntobongwana"
       },
       "id": "Q47890694",
@@ -5820,6 +6028,7 @@
     },
     {
       "name": {
+        "lang:af": "Asanda Matshobeni",
         "lang:en": "Asanda Matshobeni"
       },
       "id": "Q47890706",
@@ -5835,6 +6044,7 @@
     },
     {
       "name": {
+        "lang:af": "Johanna Terblanche",
         "lang:en": "Johanna Fredrika Terblanche"
       },
       "id": "Q47890713",
@@ -5865,6 +6075,7 @@
     },
     {
       "name": {
+        "lang:af": "Abinaar Matlhoko",
         "lang:en": "Abinaar Modikela Matlhoko"
       },
       "id": "Q47890733",
@@ -5880,6 +6091,7 @@
     },
     {
       "name": {
+        "lang:af": "Mantsheng Tsopo",
         "lang:en": "Mantsheng Anna Tsopo"
       },
       "id": "Q47890739",
@@ -5895,6 +6107,7 @@
     },
     {
       "name": {
+        "lang:af": "Michael Tshishonga",
         "lang:en": "Michael Malisa Tshishonga"
       },
       "id": "Q47890751",
@@ -5910,6 +6123,7 @@
     },
     {
       "name": {
+        "lang:af": "Agnes Qikani",
         "lang:en": "Agnes Daphne Noluthando Qikani"
       },
       "id": "Q47890776",
@@ -5925,6 +6139,7 @@
     },
     {
       "name": {
+        "lang:af": "Diliza Twala",
         "lang:en": "Diliza Lucky Twala"
       },
       "id": "Q47890786",
@@ -5985,6 +6200,7 @@
     },
     {
       "name": {
+        "lang:af": "Andile Mngxitama",
         "lang:en": "John Andile Mngxitama"
       },
       "id": "Q47890848",
@@ -6000,6 +6216,7 @@
     },
     {
       "name": {
+        "lang:af": "Magdalene Moonsamy",
         "lang:en": "Magdalene Moonsamy"
       },
       "id": "Q47890857",
@@ -6015,6 +6232,7 @@
     },
     {
       "name": {
+        "lang:af": "Abram Molefe Mudau",
         "lang:en": "Abram Molefe Mudau"
       },
       "id": "Q47890869",
@@ -6045,6 +6263,7 @@
     },
     {
       "name": {
+        "lang:af": "Ramakaudi Ramakatsa",
         "lang:en": "Ramakaudi Paul Ramakatsa"
       },
       "id": "Q47890891",
@@ -6060,21 +6279,7 @@
     },
     {
       "name": {
-        "lang:en": "Joyce Clementine Moloi-Moropa"
-      },
-      "id": "Q47890933",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47890933"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
+        "lang:af": "Elvis Siwela",
         "lang:en": "Elvis Kholwana Siwela"
       },
       "id": "Q47890940",
@@ -6090,6 +6295,7 @@
     },
     {
       "name": {
+        "lang:af": "Raesibe Nyalungu",
         "lang:en": "Raesibe Eunice Nyalungu"
       },
       "id": "Q47890956",
@@ -6120,6 +6326,7 @@
     },
     {
       "name": {
+        "lang:af": "Johanna Maluleke",
         "lang:en": "Johanna Mmule Maluleke"
       },
       "id": "Q47890972",
@@ -6135,6 +6342,7 @@
     },
     {
       "name": {
+        "lang:af": "Maureen Scheepers",
         "lang:en": "Maureen Angela Scheepers"
       },
       "id": "Q47890979",
@@ -6150,6 +6358,7 @@
     },
     {
       "name": {
+        "lang:af": "Mzwandile Masina",
         "lang:en": "Mzwandile Collen Masina"
       },
       "id": "Q47890986",
@@ -6160,7 +6369,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Mzwandile-Masina-1901707963403388"
+        }
       ]
     },
     {
@@ -6195,6 +6407,7 @@
     },
     {
       "name": {
+        "lang:af": "Lumka Yengeni",
         "lang:en": "Lumka Elizabeth Yengeni"
       },
       "id": "Q47891871",
@@ -6393,6 +6606,7 @@
     },
     {
       "name": {
+        "lang:af": "Cassel Mathale",
         "lang:en": "Cassel Mathale"
       },
       "id": "Q5049285",
@@ -6471,6 +6685,21 @@
     },
     {
       "name": {
+        "lang:en": "Neliswa Peggy Nkonyeni"
+      },
+      "id": "Q51674050",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51674050"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:af": "David Maynier",
         "lang:en": "David Maynier"
       },
@@ -6518,6 +6747,7 @@
     },
     {
       "name": {
+        "lang:af": "Dipuo Peters",
         "lang:en": "Dipuo Peters"
       },
       "id": "Q5280133",
@@ -6533,6 +6763,7 @@
     },
     {
       "name": {
+        "lang:af": "Ebrahim Patel",
         "lang:en": "Ebrahim Patel"
       },
       "id": "Q5331984",
@@ -6572,21 +6803,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5388710"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Neliswa Peggy Nkonyeni"
-      },
-      "id": "Q55350250",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q55350250"
         }
       ],
       "links": [
@@ -6719,6 +6935,22 @@
     },
     {
       "name": {
+        "lang:af": "Greg Krumbock",
+        "lang:en": "Gregory Krumbock"
+      },
+      "id": "Q5607020",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5607020"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:af": "Pravin Gordhan",
         "lang:en": "Pravin Gordhan"
       },
@@ -6735,8 +6967,130 @@
     },
     {
       "name": {
+        "lang:en": "Phoebe Noxolo Abraham-Ntantiso"
+      },
+      "id": "Q56217418",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56217418"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Albert Mammoga Seabi"
+      },
+      "id": "Q56299105",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56299105"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nomvuzo Francisca Shabalala"
+      },
+      "id": "Q56299115",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56299115"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Michael Stephen Shackleton"
+      },
+      "id": "Q56738076",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56738076"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Johan Jaco Londt",
+        "lang:en": "Johan Jaco Londt"
+      },
+      "id": "Q56738077",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56738077"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yoliswa Nomampondomise Yako"
+      },
+      "id": "Q56738078",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56738078"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Busisiwe Clarah Ndlovu"
+      },
+      "id": "Q56738079",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56738079"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Hendrik Schmidt",
+        "lang:en": "Hendrick Schmidt"
+      },
+      "id": "Q5713725",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5713725"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:af": "Jacob Zuma",
-        "lang:en": "Jacob Zuma",
+        "lang:en": "Jacob Gedleyihlekisa Zuma",
         "lang:nso": "Jacob Zuma",
         "lang:xh": "Jacob Zuma",
         "lang:zu": "Jacob Zuma"
@@ -6746,6 +7100,39 @@
         {
           "scheme": "wikidata",
           "identifier": "Q57282"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Jacob-Zuma"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lesiba Dorah Meso"
+      },
+      "id": "Q57393791",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57393791"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Helmar Philip Geyer"
+      },
+      "id": "Q57976425",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57976425"
         }
       ],
       "links": [
@@ -6802,6 +7189,7 @@
     },
     {
       "name": {
+        "lang:af": "Jackson Mthembu",
         "lang:en": "Jackson Mthembu"
       },
       "id": "Q6117269",
@@ -6895,6 +7283,7 @@
     },
     {
       "name": {
+        "lang:af": "Leonard Ramatlakane",
         "lang:en": "Leonard Ramatlakane"
       },
       "id": "Q6525655",
@@ -6972,6 +7361,7 @@
     },
     {
       "name": {
+        "lang:af": "Mario Oriani-Ambrosini",
         "lang:en": "Mario Oriani-Ambrosini"
       },
       "id": "Q6764850",
@@ -7145,6 +7535,7 @@
     },
     {
       "name": {
+        "lang:af": "Paul Mashatile",
         "lang:en": "Paul Mashatile"
       },
       "id": "Q7152252",
@@ -7271,6 +7662,7 @@
     },
     {
       "name": {
+        "lang:af": "Susan Shabangu",
         "lang:en": "Susan Shabangu"
       },
       "id": "Q7648369",
@@ -7286,6 +7678,7 @@
     },
     {
       "name": {
+        "lang:af": "Thabang Makwetla",
         "lang:en": "Thabang Makwetla"
       },
       "id": "Q7708835",
@@ -7317,6 +7710,7 @@
     },
     {
       "name": {
+        "lang:af": "Themba Godi",
         "lang:en": "Themba Godi"
       },
       "id": "Q7781196",
@@ -7348,6 +7742,7 @@
     },
     {
       "name": {
+        "lang:af": "Willie Madisha",
         "lang:en": "William Mothipa Madisha"
       },
       "id": "Q8015883",
@@ -7380,7 +7775,8 @@
     {
       "name": {
         "lang:af": "Baleka Mbete",
-        "lang:en": "Baleka Mbete"
+        "lang:en": "Baleka Mbete",
+        "lang:zu": "Baleka Mbete"
       },
       "id": "Q804894",
       "identifiers": [
@@ -7737,6 +8133,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q13034521-1F31CB31-28E1-4E84-9BE1-A5B00B80921D",
+      "person_id": "Q13034521",
+      "on_behalf_of_id": "Q510163",
+      "organization_id": "Q240823",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1390963-2b672e9c-4f93-7474-9170-4be84375177f",
       "person_id": "Q1390963",
       "organization_id": "Q240823",
@@ -7758,6 +8170,7 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
+      "end_date": "2018-03-09",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -8185,6 +8598,39 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16744450-BFCFAF2F-048A-46C8-9877-5BD053DF78E7",
+      "person_id": "Q16744450",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16744453-B4459A0C-5D80-4F4A-BA63-C1C9955D1337",
+      "person_id": "Q16744453",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q134907",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16744469-2d4ab894-408b-6bab-3b38-163d68a00ad3",
       "person_id": "Q16744469",
       "on_behalf_of_id": "Q761877",
@@ -8218,8 +8664,42 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16744505-C48F2405-EE64-4958-831C-0EDA90B9F479",
+      "person_id": "Q16744505",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q165956",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16744520-5f81027a-4e0d-f0ab-dc7c-321651d0bdc7",
       "person_id": "Q16744520",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q127167",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16744531-E22DB08E-9926-46C9-BF66-CDA1B388E5F6",
+      "person_id": "Q16744531",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "area_id": "Q127167",
@@ -8257,6 +8737,7 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
+      "end_date": "2018-09-20",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -8551,6 +9032,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16746819-5491A09B-8ADD-405E-8102-9FD42B3C2C13",
+      "person_id": "Q16746819",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q165956",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16746826-4bd7f134-4f6b-860b-6968-e42197286fd6",
       "person_id": "Q16746826",
       "on_behalf_of_id": "Q83162",
@@ -8584,6 +9082,23 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16746834-F3C8E2CD-E698-4D68-A0E8-6AB3F6C390AF",
+      "person_id": "Q16746834",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q134907",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16747385-0AA96D80-9A91-4265-BFEA-D8F23D0D2D33",
       "person_id": "Q16747385",
       "on_behalf_of_id": "Q83162",
@@ -8604,6 +9119,24 @@
       "person_id": "Q16747387",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
+      "start_date": "2014-05-21",
+      "end_date": "2018-07-24",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16765110-F45B1D23-1423-42F1-99F7-689B2F7C994A",
+      "person_id": "Q16765110",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q134907",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -8633,8 +9166,143 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16765123-ECB358FA-8423-4801-9984-F0A73A328AE1",
+      "person_id": "Q16765123",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q133083",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16765127-217723AA-A2D9-48B1-95BB-87A479E57413",
+      "person_id": "Q16765127",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q81725",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16765128-BA42A361-5F1B-4A0F-AD8E-C224D30CC782",
       "person_id": "Q16765128",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16765137-5078AB4B-7CFC-4898-8AA2-A597E8A4098C",
+      "person_id": "Q16765137",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q133083",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16765139-9EFFB62C-DE96-4E1E-9FAE-617E166B26F3",
+      "person_id": "Q16765139",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2014-05-21",
+      "end_date": "2016-03-02",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16765139-F858E14B-1230-4D91-9410-9DD6BD838E66",
+      "person_id": "Q16765139",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2014-05-21",
+      "end_date": "2016-03-02",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16765141-AD75C927-455A-41F3-BDBF-CFB0B351846E",
+      "person_id": "Q16765141",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q134907",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16765149-3F7D7DB7-D28F-46D9-828C-49DB4643BA38",
+      "person_id": "Q16765149",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q81725",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16765225-F078CB02-E506-4604-844A-724FD916B0D4",
+      "person_id": "Q16765225",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
@@ -8713,12 +9381,47 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16765733-EDD843E7-B92C-4FC2-98C6-C78762ACF291",
+      "person_id": "Q16765733",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q160284",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16765740-1f28e47d-48f1-4f76-b296-e8f43b5096b0",
       "person_id": "Q16765740",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "area_id": "Q132410",
       "start_date": "2014-05-21",
+      "end_date": "2018-06-19",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16765753-39018A9F-0F08-4208-AFEC-2B6E6845534A",
+      "person_id": "Q16765753",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2014-05-21",
+      "end_date": "2017-03-30",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -8918,6 +9621,7 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
+      "end_date": "2018-11-15",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -8998,40 +9702,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q20981883-3FBB03DB-F5A0-44FD-9B6D-597B6C07E96B",
-      "person_id": "Q20981883",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "end_date": "2017-03-30",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q20981883-EF350733-243B-4CC8-A3D7-457879FC48B4",
-      "person_id": "Q20981883",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "end_date": "2017-03-30",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -9208,12 +9878,45 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q28011968-3C86DDEA-8A47-4561-9117-5E8A42285855",
+      "person_id": "Q28011968",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q28086070-EF563058-8111-49A6-B697-4729DDEAAABA",
       "person_id": "Q28086070",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "area_id": "Q160284",
       "start_date": "2015-09-02",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28086074-271EEE39-7704-4B34-941A-194BE0118497",
+      "person_id": "Q28086074",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q130840",
+      "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -9343,6 +10046,7 @@
       "organization_id": "Q240823",
       "area_id": "Q132410",
       "start_date": "2014-05-21",
+      "end_date": "2018-02-27",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -9392,22 +10096,6 @@
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
       "end_date": "2018-03-01",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q33077552-C3F6EFC5-5492-4B17-AAD9-05313391FE4C",
-      "person_id": "Q33077552",
-      "on_behalf_of_id": "Q510163",
-      "organization_id": "Q240823",
-      "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -10515,23 +11203,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47529690-387D4DE9-3454-4453-B4BE-2BBDC339C73B",
-      "person_id": "Q47529690",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q134907",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q47529691-9DE30F3E-095D-4021-871C-B2B26EADEF65",
       "person_id": "Q47529691",
       "on_behalf_of_id": "Q83162",
@@ -10571,23 +11242,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "area_id": "Q132418",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47529697-45A32A9E-97D1-47A3-ACD1-56DD25DE7153",
-      "person_id": "Q47529697",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q127167",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -10771,6 +11425,7 @@
       "on_behalf_of_id": "Q15613585",
       "organization_id": "Q240823",
       "start_date": "2015-01-21",
+      "end_date": "2018-08-31",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -10802,7 +11457,7 @@
       "person_id": "Q47529722",
       "on_behalf_of_id": "Q775460",
       "organization_id": "Q240823",
-      "start_date": "2015-01-01",
+      "start_date": "2015-01-14",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -10968,6 +11623,7 @@
       "organization_id": "Q240823",
       "area_id": "Q132410",
       "start_date": "2014-05-21",
+      "end_date": "2018-02-27",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -11012,43 +11668,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47529752-517F90DE-8988-40F7-A059-C090D2FCAECF",
-      "person_id": "Q47529752",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q47529755-CB37EC90-A9B9-46F0-AB2D-3DEF1D4291E0",
       "person_id": "Q47529755",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "area_id": "Q81725",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47529757-A256B5F9-E775-47E5-B91E-C49673957CFE",
-      "person_id": "Q47529757",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -11144,23 +11768,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47529769-EC162FB4-29ED-4956-9AE4-03C6B05FAB31",
-      "person_id": "Q47529769",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q134907",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q47529770-C8478D78-D06D-48FD-BB60-F70050DFDAE3",
       "person_id": "Q47529770",
       "on_behalf_of_id": "Q654444",
@@ -11216,6 +11823,7 @@
       "organization_id": "Q240823",
       "area_id": "Q132410",
       "start_date": "2014-05-21",
+      "end_date": "2018-09-18",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -11247,23 +11855,6 @@
       "person_id": "Q47529784",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47529787-75A2D050-1C6E-42DE-92F5-B4BC0E8D06D3",
-      "person_id": "Q47529787",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q134907",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -11361,24 +11952,7 @@
       "person_id": "Q47529800",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47529804-37DBED77-902C-4C3E-A6C8-89C3D79AA388",
-      "person_id": "Q47529804",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q165956",
-      "start_date": "2014-05-21",
+      "start_date": "2014-08-12",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -11393,22 +11967,6 @@
       "id": "http://www.wikidata.org/entity/statement/Q47529805-5E2F5DB7-0FAC-45E0-B919-71963911F359",
       "person_id": "Q47529805",
       "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47529807-B33DEA35-D4E9-40FF-8571-8DF3C604BEA7",
-      "person_id": "Q47529807",
-      "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
@@ -11461,6 +12019,7 @@
       "organization_id": "Q240823",
       "area_id": "Q130840",
       "start_date": "2014-05-21",
+      "end_date": "2018-03-05",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -11545,6 +12104,7 @@
       "organization_id": "Q240823",
       "area_id": "Q133083",
       "start_date": "2014-05-21",
+      "end_date": "2018-02-27",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -11593,23 +12153,6 @@
       "person_id": "Q47529825",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47529828-98AF3576-FCAA-46AC-B31B-6F4C06A593D9",
-      "person_id": "Q47529828",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q160284",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -11922,23 +12465,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47529877-A1FB54AE-9470-4FBF-90C8-3CD2494D9F2D",
-      "person_id": "Q47529877",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q81725",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q47529879-4C6227B9-FCDA-4C06-B68A-78FE37F7AADF",
       "person_id": "Q47529879",
       "on_behalf_of_id": "Q83162",
@@ -11977,74 +12503,6 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "area_id": "Q134907",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47529885-AB4A4AB0-CF9E-4678-AFC3-672F13A18EB7",
-      "person_id": "Q47529885",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q133083",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47529887-936D6BB6-EE20-443A-973F-86AA0E7613F8",
-      "person_id": "Q47529887",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q81725",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47529888-AE695C5F-6E56-4EAB-BFE9-2413BA372AC4",
-      "person_id": "Q47529888",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q134907",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47529891-2D951861-C193-4BA2-BC54-5285B15205AE",
-      "person_id": "Q47529891",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q130840",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -12427,7 +12885,7 @@
       "person_id": "Q47529931",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
-      "start_date": "2016-04-01",
+      "start_date": "2016-03-02",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -12659,6 +13117,7 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "start_date": "2016-09-05",
+      "end_date": "2018-02-25",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -12919,22 +13378,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47530003-7496A47E-5D61-479E-86D4-255481E51C7C",
-      "person_id": "Q47530003",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q47530006-44F2E5B8-9EB3-4F99-B009-72699EB60DCE",
       "person_id": "Q47530006",
       "on_behalf_of_id": "Q761877",
@@ -12990,6 +13433,7 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
+      "end_date": "2018-07-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -13067,23 +13511,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47530039-E8B6A499-2142-493E-A44C-7D7B18FBE35C",
-      "person_id": "Q47530039",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q133083",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q47530040-13DBFFF4-5C1A-4630-9BD1-250AAFC6A2D1",
       "person_id": "Q47530040",
       "on_behalf_of_id": "Q15613585",
@@ -13119,23 +13546,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47530046-60D9D119-D575-4FF1-8228-5C7A15218FB5",
-      "person_id": "Q47530046",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q165956",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q47530047-E8D59BF0-55C9-4EDC-90E1-55FA8A12F529",
       "person_id": "Q47530047",
       "on_behalf_of_id": "Q83162",
@@ -13156,23 +13566,6 @@
       "person_id": "Q47530048",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47530052-4F5B5C75-69F5-49D6-8F69-136B831A9B1D",
-      "person_id": "Q47530052",
-      "on_behalf_of_id": "Q761877",
-      "organization_id": "Q240823",
-      "area_id": "Q133083",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -13239,6 +13632,7 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
       "start_date": "2015-10-06",
+      "end_date": "2018-03-18",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -13320,7 +13714,7 @@
       "person_id": "Q47530067",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
-      "start_date": "2014-05-21",
+      "start_date": "2014-11-14",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -13382,11 +13776,27 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q47530161-29b0b6b5-4192-3535-d5c2-898a86bc7b14",
+      "person_id": "Q47530161",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2014-05-21",
+      "end_date": "2016-12-06",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q47530161-6B3738EF-A034-41BC-93B5-8B582B177C52",
       "person_id": "Q47530161",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
-      "area_id": "Q133083",
       "start_date": "2017-02-24",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -13568,7 +13978,7 @@
       "person_id": "Q47536792",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
-      "start_date": "2014-05-21",
+      "start_date": "2014-05-25",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -13600,7 +14010,7 @@
       "person_id": "Q47536797",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
-      "start_date": "2014-05-21",
+      "start_date": "2014-05-25",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -13685,7 +14095,7 @@
       "person_id": "Q47536937",
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
-      "start_date": "2014-05-21",
+      "start_date": "2017-09-04",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -13993,12 +14403,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47890603-3F967A86-5948-4EB1-B3CD-6E1E6FBA21DC",
+      "id": "http://www.wikidata.org/entity/statement/Q47890603-6a260394-4850-2727-8add-528fea3962f9",
       "person_id": "Q47890603",
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "end_date": "2015-11-12",
+      "start_date": "2018-08-16",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -14135,24 +14544,6 @@
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q47890655-C828F7A3-DB2B-47FC-94D2-2BC4310895AE",
-      "person_id": "Q47890655",
-      "on_behalf_of_id": "Q15613585",
-      "organization_id": "Q240823",
-      "area_id": "Q160284",
-      "start_date": "2014-05-21",
-      "end_date": "2015-10-31",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47890655-FF3485B5-D0EC-4F81-84F0-49A3F0906100",
       "person_id": "Q47890655",
       "on_behalf_of_id": "Q15613585",
       "organization_id": "Q240823",
@@ -14568,40 +14959,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q47890933-5640219E-C6ED-4BE0-8C92-922FD69656B3",
-      "person_id": "Q47890933",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "end_date": "2016-03-02",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47890933-B75A1496-E7DE-4FCF-8C03-3B441A753D07",
-      "person_id": "Q47890933",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "start_date": "2014-05-21",
-      "end_date": "2016-03-02",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q47890940-9A64B4B7-3D49-493B-889A-1AAE9B8376CB",
       "person_id": "Q47890940",
       "on_behalf_of_id": "Q83162",
@@ -14921,6 +15278,7 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
       "start_date": "2017-12-01",
+      "end_date": "2018-08-16",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -14936,7 +15294,7 @@
       "person_id": "Q48080455",
       "on_behalf_of_id": "Q15613585",
       "organization_id": "Q240823",
-      "start_date": "2018-01-23",
+      "start_date": "2018-01-05",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -15001,7 +15359,7 @@
       "person_id": "Q48086661",
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
-      "start_date": "2014-05-21",
+      "start_date": "2017-12-01",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -15117,6 +15475,7 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "start_date": "2014-05-30",
+      "end_date": "2018-06-18",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -15147,6 +15506,23 @@
       "id": "http://www.wikidata.org/entity/statement/Q51673650-9dabc6b9-4759-8315-8e87-da49bc0a416b",
       "person_id": "Q51673650",
       "organization_id": "Q240823",
+      "start_date": "2018-02-27",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51674050-E563518B-1E1C-466C-BBFA-BFDD67AC4998",
+      "person_id": "Q51674050",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q81725",
       "start_date": "2018-02-27",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -15263,6 +15639,7 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
+      "end_date": "2018-09-22",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -15280,23 +15657,6 @@
       "organization_id": "Q240823",
       "area_id": "Q127167",
       "start_date": "2014-05-21",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q55350250-3349dca4-4ecd-b95a-d401-42ccdd466d50",
-      "person_id": "Q55350250",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q81725",
-      "start_date": "2018-02-27",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -15440,10 +15800,155 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q5607020-B24A4780-88AD-40CA-B51D-C6473E4CC43D",
+      "person_id": "Q5607020",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "Q240823",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q561279-A1BEF365-1FB0-4109-890A-FDE9B22FB727",
       "person_id": "Q561279",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56217418-443c8e55-41d4-791e-80bb-5d83d7c04ff9",
+      "person_id": "Q56217418",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2018-08-14",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56299105-56b75a12-4919-8426-bf58-ed64f00926fe",
+      "person_id": "Q56299105",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2018-07-30",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56299115-7d8a710a-42d9-78c0-5190-4073b83b6446",
+      "person_id": "Q56299115",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2018-07-31",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56738076-182868bd-4dbb-84ef-9ae1-45ee799abbb9",
+      "person_id": "Q56738076",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "Q240823",
+      "start_date": "2018-09-01",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56738077-16cb3e21-4fe0-90a3-920c-dcc6c31627ed",
+      "person_id": "Q56738077",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "Q240823",
+      "start_date": "2018-09-07",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56738078-b941adb6-4c32-cb98-658f-f4d0ceb7480f",
+      "person_id": "Q56738078",
+      "on_behalf_of_id": "Q15613585",
+      "organization_id": "Q240823",
+      "start_date": "2018-09-03",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56738079-f992bca9-4d9c-7a3a-b0ed-7f9a1de64505",
+      "person_id": "Q56738079",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2018-08-17",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5713725-70635DC0-5BF9-4728-BB45-4FE8B65BF443",
+      "person_id": "Q5713725",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "Q240823",
+      "area_id": "Q133083",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -15462,6 +15967,38 @@
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
       "end_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57393791-863d5a64-4132-e253-4186-d7f88fddc8d1",
+      "person_id": "Q57393791",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "start_date": "2018-08-17",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57976425-0f0be6a8-45fd-66c9-f2c5-d032cf47260b",
+      "person_id": "Q57976425",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "Q240823",
+      "start_date": "2018-10-16",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -15510,6 +16047,7 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
+      "end_date": "2018-08-31",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -15844,7 +16382,7 @@
       "person_id": "Q7048706",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
-      "start_date": "2014-05-21",
+      "start_date": "2014-05-25",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"

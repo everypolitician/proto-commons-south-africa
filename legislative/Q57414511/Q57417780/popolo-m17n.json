@@ -1,0 +1,76 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Xulu Zakheleni"
+      },
+      "id": "Q57548032",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57548032"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "uMhlatuze Munisipale Raad",
+        "lang:en": "uMhlathuze Municipal Council"
+      },
+      "id": "Q57414511",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57414511"
+        }
+      ],
+      "area_id": "Q311800",
+      "seat_counts": {
+        "Q57417779": "67"
+      }
+    },
+    {
+      "name": {
+        "lang:af": "Inkatha-Vryheidsparty",
+        "lang:en": "Inkatha Freedom Party",
+        "lang:zu": "Inkatha Freedom Party"
+      },
+      "id": "Q654444",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q654444"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57548032-B034B01D-8811-486D-B14B-FD8F64891B5E",
+      "person_id": "Q57548032",
+      "on_behalf_of_id": "Q654444",
+      "organization_id": "Q57414511",
+      "area_id": "Q57577017",
+      "start_date": "2016-08-19",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q57417779",
+      "role": {
+        "lang:af": "Raadslid van die uMhlatuze Munisipale Raad",
+        "lang:en": "Councillor of the uMhlathuze Municipal Council"
+      }
+    }
+  ]
+}

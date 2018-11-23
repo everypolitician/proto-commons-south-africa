@@ -1,0 +1,124 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Phumulo Masualle"
+      },
+      "id": "Q22279094",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22279094"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Bobby Stevenson",
+        "lang:en": "Bobby Stevenson"
+      },
+      "id": "Q57570296",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57570296"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Oos-Kaap Provinsiale Wetgewer",
+        "lang:en": "Eastern Cape Provincial Legislature"
+      },
+      "id": "Q5330037",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5330037"
+        }
+      ],
+      "area_id": "Q130840",
+      "seat_counts": {
+        "Q57312980": "63"
+      }
+    },
+    {
+      "name": {
+        "lang:af": "Demokratiese Alliansie",
+        "lang:en": "Democratic Alliance"
+      },
+      "id": "Q761877",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q761877"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22279094-24d58d47-4e49-81ed-65c7-e20a91bc3e73",
+      "person_id": "Q22279094",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q5330037",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q57312980",
+      "role": {
+        "lang:af": "Lid van die Oos-Kaap Provinsiale Wetgewer",
+        "lang:en": "Member of the Eastern Cape Provincial Legislature"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57570296-BA3791B7-C28B-4349-B67E-A062C0DB1883",
+      "person_id": "Q57570296",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "Q5330037",
+      "area_id": "Q59136540",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q57312980",
+      "role": {
+        "lang:af": "Lid van die Oos-Kaap Provinsiale Wetgewer",
+        "lang:en": "Member of the Eastern Cape Provincial Legislature"
+      }
+    }
+  ]
+}

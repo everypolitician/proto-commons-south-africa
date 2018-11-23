@@ -1,0 +1,141 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:af": "Sam Shilowa",
+        "lang:en": "Mbhazima Shilowa",
+        "lang:nso": "Mbhazima Shilowa"
+      },
+      "id": "Q469305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q469305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Tokyo Sexwale",
+        "lang:en": "Mosima Gabriel Sexwale"
+      },
+      "id": "Q726302",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q726302"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Gauteng Uitvoerende Raad",
+        "lang:en": "Gauteng Executive Council"
+      },
+      "id": "Q57283347",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57283347"
+        }
+      ],
+      "area_id": "Q133083"
+    },
+    {
+      "name": {
+        "lang:af": "Congress of the People",
+        "lang:en": "Congress of the People"
+      },
+      "id": "Q1125988",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1125988"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q469305-36F7135B-D87B-4A18-9B98-5EB616215A7B",
+      "person_id": "Q469305",
+      "on_behalf_of_id": "Q1125988",
+      "organization_id": "Q57283347",
+      "area_id": "Q133083",
+      "role_superclass_code": "Q7240351",
+      "role_superclass": {
+        "lang:af": "Premier van Gauteng",
+        "lang:en": "Premier of Gauteng"
+      },
+      "role_code": "Q7240351",
+      "role": {
+        "lang:af": "Premier van Gauteng",
+        "lang:en": "Premier of Gauteng"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q469305-36F7135B-D87B-4A18-9B98-5EB616215A7B",
+      "person_id": "Q469305",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q57283347",
+      "area_id": "Q133083",
+      "role_superclass_code": "Q7240351",
+      "role_superclass": {
+        "lang:af": "Premier van Gauteng",
+        "lang:en": "Premier of Gauteng"
+      },
+      "role_code": "Q7240351",
+      "role": {
+        "lang:af": "Premier van Gauteng",
+        "lang:en": "Premier of Gauteng"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q726302-3AFA30FF-07FB-4EF7-B168-3E281271A86C",
+      "person_id": "Q726302",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q57283347",
+      "area_id": "Q133083",
+      "role_superclass_code": "Q7240351",
+      "role_superclass": {
+        "lang:af": "Premier van Gauteng",
+        "lang:en": "Premier of Gauteng"
+      },
+      "role_code": "Q7240351",
+      "role": {
+        "lang:af": "Premier van Gauteng",
+        "lang:en": "Premier of Gauteng"
+      }
+    }
+  ]
+}

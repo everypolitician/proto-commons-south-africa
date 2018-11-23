@@ -1,0 +1,104 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Herman Mashaba"
+      },
+      "id": "Q20981704",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20981704"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Maurice Freeman"
+      },
+      "id": "Q6793126",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6793126"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Burgermeesterskommittee van die Stad Johannesburg",
+        "lang:en": "Mayoral Committee of the City of Johannesburg"
+      },
+      "id": "Q57412188",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57412188"
+        }
+      ],
+      "area_id": "Q2346838"
+    },
+    {
+      "name": {
+        "lang:af": "Demokratiese Alliansie",
+        "lang:en": "Democratic Alliance"
+      },
+      "id": "Q761877",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q761877"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20981704-03fa85c6-4729-0cc3-371f-3d05a36ecd2c",
+      "person_id": "Q20981704",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "Q57412188",
+      "area_id": "Q2346838",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q6797727",
+      "role_superclass": {
+        "lang:af": "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit",
+        "lang:en": "Mayor of Johannesburg"
+      },
+      "role_code": "Q6797727",
+      "role": {
+        "lang:af": "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit",
+        "lang:en": "Mayor of Johannesburg"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6793126-6848E9BF-8A65-4E4B-A851-136C2CA0E1E1",
+      "person_id": "Q6793126",
+      "organization_id": "Q57412188",
+      "area_id": "Q2346838",
+      "role_superclass_code": "Q6797727",
+      "role_superclass": {
+        "lang:af": "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit",
+        "lang:en": "Mayor of Johannesburg"
+      },
+      "role_code": "Q6797727",
+      "role": {
+        "lang:af": "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit",
+        "lang:en": "Mayor of Johannesburg"
+      }
+    }
+  ]
+}

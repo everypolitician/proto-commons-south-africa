@@ -11,6 +11,9 @@ WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data f
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district Nyakatho-Ntshonalanga (Q165956) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
@@ -24,7 +27,16 @@ WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for p
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district Nyakatho-Ntshonalanga (Q165956) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district IFleyistata (Q160284) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
@@ -35,6 +47,7 @@ WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for p
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IFleyistata (Q160284) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
@@ -73,11 +86,9 @@ WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for po
 WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNyakatho (Q132418) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Nyakatho-Ntshonalanga (Q165956) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNyakatho (Q132418) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
@@ -94,12 +105,9 @@ WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data f
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district Nyakatho-Ntshonalanga (Q165956) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
@@ -107,7 +115,6 @@ WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for p
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district IFleyistata (Q160284) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
@@ -120,13 +127,8 @@ WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data f
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Nyakatho-Ntshonalanga (Q165956) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
@@ -163,16 +165,12 @@ WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for p
 WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district Nyakatho-Ntshonalanga (Q165956) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Nyakatho-Ntshonalanga (Q165956) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Limpopo (Q134907) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
@@ -193,7 +191,6 @@ WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for p
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district IFleyistata (Q160284) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IFleyistata (Q160284) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
@@ -217,12 +214,13 @@ WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for p
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
+WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district Nyakatho-Ntshonalanga (Q165956) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
@@ -237,7 +235,84 @@ WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data f
 WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
 WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position member of the National Assembly of South Africa (Q16744266)
-WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position Lid van die Nood-Kaap Provinsiale Wetgewer (Q57313177) not in boundary associated_wikidata_positions
+WARNING: Position Lid van die Vrystaat Provinsiale Wetgewer (Q57313163) not in boundary associated_wikidata_positions
+WARNING: the district Free State (Q59136545) wasn't found in the boundary data for position Lid van die Vrystaat Provinsiale Wetgewer (Q57313163)
+WARNING: Position Lid van die Mpumalanga Provinsiale Wetgewer (Q57313172) not in boundary associated_wikidata_positions
+WARNING: the district Mpumalanga (Q59136541) wasn't found in the boundary data for position Lid van die Mpumalanga Provinsiale Wetgewer (Q57313172)
+WARNING: Position Lid van die Noord-Wes Provinsiale Wetgewer (Q57313175) not in boundary associated_wikidata_positions
+WARNING: Position Lid van die Provinsiale Parlement van die Wes-Kaap (Q6814209) not in boundary associated_wikidata_positions
+WARNING: the district Western Cape (Q59136539) wasn't found in the boundary data for position Lid van die Provinsiale Parlement van die Wes-Kaap (Q6814209)
+WARNING: Position Lid van die Oos-Kaap Provinsiale Wetgewer (Q57312980) not in boundary associated_wikidata_positions
+WARNING: the district Eastern Cape (Q59136540) wasn't found in the boundary data for position Lid van die Oos-Kaap Provinsiale Wetgewer (Q57312980)
+WARNING: Position Lid van die Gauteng Provinsiale Wetgewer (Q57313165) not in boundary associated_wikidata_positions
+WARNING: Position Lid van die KwaZulu-Natal Provinsiale Wetgewer (Q57313167) not in boundary associated_wikidata_positions
+WARNING: the district KwaZulu-Natal (Q59136538) wasn't found in the boundary data for position Lid van die KwaZulu-Natal Provinsiale Wetgewer (Q57313167)
+WARNING: Position Lid van die Limpopo Provinsiale Wetgewer (Q57313170) not in boundary associated_wikidata_positions
+WARNING: Position Raadslid van die Stad Kaapstad Munisipale Raad (Q57417740) not in boundary associated_wikidata_positions
+WARNING: Position Raadslid van die Buffalo City Munisipale Raad (Q57417738) not in boundary associated_wikidata_positions
+WARNING: the district Buffalo City Wyk 1 (Q57573648) wasn't found in the boundary data for position Raadslid van die Buffalo City Munisipale Raad (Q57417738)
+WARNING: Position Raadslid van die Stad Johannesburg Munisipale Raad (Q57417743) not in boundary associated_wikidata_positions
+WARNING: the district City of Johannesburg Wyk 35 (Q57576175) wasn't found in the boundary data for position Raadslid van die Stad Johannesburg Munisipale Raad (Q57417743)
+WARNING: Position Raadslid van die Ekurhuleni Munisipale Raad (Q57417656) not in boundary associated_wikidata_positions
+WARNING: Position Raadslid van die Matjhabeng Munisipale Raad (Q57417765) not in boundary associated_wikidata_positions
+WARNING: Position Raadslid van die Newcastle Munisipale Raad (Q57417768) not in boundary associated_wikidata_positions
+WARNING: Position Raadslid van die uMhlatuze Munisipale Raad (Q57417779) not in boundary associated_wikidata_positions
+WARNING: the district uMhlathuze Wyk 33 (Q57577017) wasn't found in the boundary data for position Raadslid van die uMhlatuze Munisipale Raad (Q57417779)
+WARNING: Position Raadslid van die eThekwini Munisipale Raad (Q57417748) not in boundary associated_wikidata_positions
+WARNING: Position Raadslid van die Stad Tshwane Munisipale Raad (Q57417745) not in boundary associated_wikidata_positions
+WARNING: Position Raadslid van die Mangaung Munisipale Raad (Q57417751) not in boundary associated_wikidata_positions
+WARNING: Position Raadslid van die Nerlson Mandelabaai Munisipale Raad (Q57417753) not in boundary associated_wikidata_positions
+WARNING: Position Raadslid van die Msunduzi Munisipale Raad (Q57417761) not in boundary associated_wikidata_positions
+WARNING: Position Raadslid van die Emfuleni Munisipale Raad (Q57417763) not in boundary associated_wikidata_positions
+WARNING: Position Raadslid van die Mogale City Munisipale Raad (Q57417770) not in boundary associated_wikidata_positions
+WARNING: the district Mogale City Wyk 13 (Q57577124) wasn't found in the boundary data for position Raadslid van die Mogale City Munisipale Raad (Q57417770)
+WARNING: no seat count found for the legislature Emalahleni Munisipale Raad (Q57416979)
+WARNING: Position Raadslid van die Emalahleni Munisipale Raad (Q57417773) not in boundary associated_wikidata_positions
+WARNING: the district Emalahleni Wyk 26 (Q57577062) wasn't found in the boundary data for position Raadslid van die Emalahleni Munisipale Raad (Q57417773)
+WARNING: no seat count found for the legislature Emalahleni Munisipale Raad (Q57416979)
 WARNING: Position President van Suid-Afrika (Q273884) not in boundary associated_wikidata_positions
 WARNING: the district IRiphabliki yaseNingizimu Afrika (Q258) wasn't found in the boundary data for position President van Suid-Afrika (Q273884)
 WARNING: the district IRiphabliki yaseNingizimu Afrika (Q258) wasn't found in the boundary data for position President van Suid-Afrika (Q273884)
+WARNING: Position Premier van die Provinsie Oos-Kaap (Q7240363) not in boundary associated_wikidata_positions
+WARNING: the district KwaXhosa (Q130840) wasn't found in the boundary data for position Premier van die Provinsie Oos-Kaap (Q7240363)
+WARNING: Position Premier van die Vrystaat Provinsie (Q7240365) not in boundary associated_wikidata_positions
+WARNING: the district IFleyistata (Q160284) wasn't found in the boundary data for position Premier van die Vrystaat Provinsie (Q7240365)
+WARNING: Position Premier van Gauteng (Q7240351) not in boundary associated_wikidata_positions
+WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position Premier van Gauteng (Q7240351)
+WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position Premier van Gauteng (Q7240351)
+WARNING: the district IGauteng (Q133083) wasn't found in the boundary data for position Premier van Gauteng (Q7240351)
+WARNING: Position Premier van die Provinsie van KwaZulu-Natal (Q7240352) not in boundary associated_wikidata_positions
+WARNING: the district KwaZulu-Natal (Q81725) wasn't found in the boundary data for position Premier van die Provinsie van KwaZulu-Natal (Q7240352)
+WARNING: Position Permier van die Provinsie Limpopo (Q7240353) not in boundary associated_wikidata_positions
+WARNING: Position Permier van Mpumalanga (Q7240354) not in boundary associated_wikidata_positions
+WARNING: the district Mpumalanga (Q132410) wasn't found in the boundary data for position Permier van Mpumalanga (Q7240354)
+WARNING: Position Permier van die Noordwes Provinsie (Q7240358) not in boundary associated_wikidata_positions
+WARNING: the district Nyakatho-Ntshonalanga (Q165956) wasn't found in the boundary data for position Permier van die Noordwes Provinsie (Q7240358)
+WARNING: Position Premier van die Noord-Kaap (Q7240366) not in boundary associated_wikidata_positions
+WARNING: Position Premier van die Provinsie Wes-Kaap (Q4997324) not in boundary associated_wikidata_positions
+WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position Premier van die Provinsie Wes-Kaap (Q4997324)
+WARNING: the district IKipi laseNtshonalanga (Q127167) wasn't found in the boundary data for position Premier van die Provinsie Wes-Kaap (Q4997324)
+WARNING: Position Uitvoerende Burgermeester van Buffalo City Metropolitaanse Munisipaliteit (Q57397572) not in boundary associated_wikidata_positions
+WARNING: Position Uitvoerende Burgermeester van Msunduzi Munisipaliteit (Q57414515) not in boundary associated_wikidata_positions
+WARNING: the district Msunduzi Plaaslike Munisipaliteit (Q1815510) wasn't found in the boundary data for position Uitvoerende Burgermeester van Msunduzi Munisipaliteit (Q57414515)
+WARNING: Position Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit (Q6797727) not in boundary associated_wikidata_positions
+WARNING: the district Stad Johannesburg Metropolitaanse Munisipaliteit (Q2346838) wasn't found in the boundary data for position Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit (Q6797727)
+WARNING: the district Stad Johannesburg Metropolitaanse Munisipaliteit (Q2346838) wasn't found in the boundary data for position Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit (Q6797727)
+WARNING: Position Uitvoerende Burgermeester van Stad Tshwane Metropolitaanse Munisipaliteit (Q57397576) not in boundary associated_wikidata_positions
+WARNING: Position Uitvoerende Burgermeester van Ekurhuleni Metropolitaanse Munisipaliteit (Q57413798) not in boundary associated_wikidata_positions
+WARNING: the district Ekurhuleni Metropolitaanse Munisipaliteit (Q326891) wasn't found in the boundary data for position Uitvoerende Burgermeester van Ekurhuleni Metropolitaanse Munisipaliteit (Q57413798)
+WARNING: Position Uitvoerende Burgermeester van Matjhabeng Plaaslike Munisipaliteit (Q57414217) not in boundary associated_wikidata_positions
+WARNING: the district Matjhabeng Plaaslike Munisipaliteit (Q1873451) wasn't found in the boundary data for position Uitvoerende Burgermeester van Matjhabeng Plaaslike Munisipaliteit (Q57414217)
+WARNING: Position Uitvoerende Burgermeester van Mogale City Plaaslike Munisipaliteit (Q57416064) not in boundary associated_wikidata_positions
+WARNING: Position Uitvoerende Burgermeester van uMhlathuze Plaaslike Munisipaliteit (Q57414512) not in boundary associated_wikidata_positions
+WARNING: Position Uitvoerende Burgermeester van Newcastle Plaaslike Munisipaliteit (Q57414666) not in boundary associated_wikidata_positions
+WARNING: Position Uitvoerende Burgermeester van Nelson Mandelabaai Metropolitaanse Munisipaliteit (Q57414667) not in boundary associated_wikidata_positions
+WARNING: Position Uitvoerende Burgermeester van eThekwini Metropolitaanse Munisipaliteit (Q57413801) not in boundary associated_wikidata_positions
+WARNING: the district EThekwini Metropolitaanse Munisipaliteit (Q311544) wasn't found in the boundary data for position Uitvoerende Burgermeester van eThekwini Metropolitaanse Munisipaliteit (Q57413801)
+WARNING: Position Uitvoerende Burgermeester van Mangaung Metropolitaanse Munisipaliteit (Q57414669) not in boundary associated_wikidata_positions
+WARNING: the district Mangaung Metropolitaanse Munisipaliteit (Q1159185) wasn't found in the boundary data for position Uitvoerende Burgermeester van Mangaung Metropolitaanse Munisipaliteit (Q57414669)
+WARNING: Position Uitvoerende Burgermeester van Emfuleni Plaaslike Munisipaliteit (Q57414514) not in boundary associated_wikidata_positions
+WARNING: Position Uitvoerende Burgermeester van Emalahleni Plaaslike Munisipaliteit (Q57416120) not in boundary associated_wikidata_positions
+WARNING: Position Uitvoerende Burgermeester van Stad Kaapstad Metropolitaanse Munisipaliteit (Q3278456) not in boundary associated_wikidata_positions
+WARNING: the district Stad Kaapstad Metropolitaanse Munisipaliteit (Q1185115) wasn't found in the boundary data for position Uitvoerende Burgermeester van Stad Kaapstad Metropolitaanse Munisipaliteit (Q3278456)

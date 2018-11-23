@@ -1,0 +1,61 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Themba Njilo"
+      },
+      "id": "Q57548021",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57548021"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Themba-Jerome-Mduduzi-Mayor-msunduszi-NJILO-656965114479442"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Burgermeesterskommittee van Msunduzi",
+        "lang:en": "Mayoral Committee of Msunduzi"
+      },
+      "id": "Q57397575",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57397575"
+        }
+      ],
+      "area_id": "Q1815510"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57548021-1182B6F0-7A25-49A1-B724-E8D80890A475",
+      "person_id": "Q57548021",
+      "organization_id": "Q57397575",
+      "area_id": "Q1815510",
+      "start_date": "2016-08-19",
+      "role_superclass_code": "Q57414515",
+      "role_superclass": {
+        "lang:af": "Uitvoerende Burgermeester van Msunduzi Munisipaliteit",
+        "lang:en": "Executive Mayor of Msunduzi Local Municipality"
+      },
+      "role_code": "Q57414515",
+      "role": {
+        "lang:af": "Uitvoerende Burgermeester van Msunduzi Munisipaliteit",
+        "lang:en": "Executive Mayor of Msunduzi Local Municipality"
+      }
+    }
+  ]
+}

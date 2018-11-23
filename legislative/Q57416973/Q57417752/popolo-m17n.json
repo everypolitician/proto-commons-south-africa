@@ -1,0 +1,80 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Olly Mlamleli"
+      },
+      "id": "Q57548020",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57548020"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/cllrmlamleli"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Mangaung Munisipale Raad",
+        "lang:en": "Mangaung Municipal Council"
+      },
+      "id": "Q57416973",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57416973"
+        }
+      ],
+      "area_id": "Q1159185",
+      "seat_counts": {
+        "Q57417751": "100"
+      }
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57548020-7B41B6D2-B235-4F17-9D08-0324D5766FEB",
+      "person_id": "Q57548020",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q57416973",
+      "start_date": "2016-08-18",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q57417751",
+      "role": {
+        "lang:af": "Raadslid van die Mangaung Munisipale Raad",
+        "lang:en": "Councillor of the Mangaung Municipal Council"
+      }
+    }
+  ]
+}

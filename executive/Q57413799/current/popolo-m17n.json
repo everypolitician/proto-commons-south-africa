@@ -1,0 +1,80 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:af": "Mzwandile Masina",
+        "lang:en": "Mzwandile Collen Masina"
+      },
+      "id": "Q47890986",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47890986"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Mzwandile-Masina-1901707963403388"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Burgermeesterskommittee van Ekurhuleni",
+        "lang:en": "Mayoral Committee of the City of Ekurhuleni"
+      },
+      "id": "Q57413799",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57413799"
+        }
+      ],
+      "area_id": "Q326891"
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47890986-143AA105-FC18-40CA-8F66-FDB159820018",
+      "person_id": "Q47890986",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q57413799",
+      "area_id": "Q326891",
+      "start_date": "2016-08-23",
+      "role_superclass_code": "Q57413798",
+      "role_superclass": {
+        "lang:af": "Uitvoerende Burgermeester van Ekurhuleni Metropolitaanse Munisipaliteit",
+        "lang:en": "Executive Mayor of City of Ekurhuleni Metropolitan Municipality"
+      },
+      "role_code": "Q57413798",
+      "role": {
+        "lang:af": "Uitvoerende Burgermeester van Ekurhuleni Metropolitaanse Munisipaliteit",
+        "lang:en": "Executive Mayor of City of Ekurhuleni Metropolitan Municipality"
+      }
+    }
+  ]
+}

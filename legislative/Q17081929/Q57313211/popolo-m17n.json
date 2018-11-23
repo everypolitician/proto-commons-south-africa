@@ -1,0 +1,78 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Carol Beerwinkel"
+      },
+      "id": "Q57548015",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57548015"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Provinsiale Parlement van die Wes-Kaap",
+        "lang:en": "Western Cape Provincial Parliament"
+      },
+      "id": "Q17081929",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17081929"
+        }
+      ],
+      "area_id": "Q127167",
+      "seat_counts": {
+        "Q6814209": "42"
+      }
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57548015-0A13198F-F1EB-482E-87B7-E878876A0E64",
+      "person_id": "Q57548015",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q17081929",
+      "area_id": "Q59136539",
+      "start_date": "2014-05-21",
+      "role_superclass_code": "Q5230427",
+      "role_superclass": {
+        "lang:en": "member of a legislative assembly"
+      },
+      "role_code": "Q6814209",
+      "role": {
+        "lang:af": "Lid van die Provinsiale Parlement van die Wes-Kaap",
+        "lang:en": "Member of Provincial Parliament of Western Cape"
+      }
+    }
+  ]
+}

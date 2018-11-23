@@ -1,0 +1,76 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Job Mokgoro"
+      },
+      "id": "Q55183488",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55183488"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Noordwes Uitvoerende Raad",
+        "lang:en": "North West Executive Council"
+      },
+      "id": "Q57283356",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57283356"
+        }
+      ],
+      "area_id": "Q165956"
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55183488-D5981470-CB7B-4F82-9A7F-458B3372DBE5",
+      "person_id": "Q55183488",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q57283356",
+      "area_id": "Q165956",
+      "start_date": "2018-06-22",
+      "role_superclass_code": "Q7240358",
+      "role_superclass": {
+        "lang:af": "Permier van die Noordwes Provinsie",
+        "lang:en": "Premier of North West"
+      },
+      "role_code": "Q7240358",
+      "role": {
+        "lang:af": "Permier van die Noordwes Provinsie",
+        "lang:en": "Premier of North West"
+      }
+    }
+  ]
+}

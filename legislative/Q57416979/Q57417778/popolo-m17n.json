@@ -1,0 +1,75 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Petronella Henrika Wilken"
+      },
+      "id": "Q57548030",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57548030"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Emalahleni Munisipale Raad",
+        "lang:en": "Emalahleni Municipal Council"
+      },
+      "id": "Q57416979",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57416979"
+        }
+      ],
+      "area_id": "Q2347801",
+      "seat_counts": {
+        "Q57417773": null
+      }
+    },
+    {
+      "name": {
+        "lang:af": "Demokratiese Alliansie",
+        "lang:en": "Democratic Alliance"
+      },
+      "id": "Q761877",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q761877"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57548030-276A403C-E31F-4D8E-B144-4974D0F4E879",
+      "person_id": "Q57548030",
+      "on_behalf_of_id": "Q761877",
+      "organization_id": "Q57416979",
+      "area_id": "Q57577062",
+      "start_date": "2016-08-18",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:en": "councillor"
+      },
+      "role_code": "Q57417773",
+      "role": {
+        "lang:af": "Raadslid van die Emalahleni Munisipale Raad",
+        "lang:en": "Councillor of the Emalahleni Municipal Council"
+      }
+    }
+  ]
+}

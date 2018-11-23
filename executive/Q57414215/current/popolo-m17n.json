@@ -1,0 +1,58 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Nkosinjani Speelman"
+      },
+      "id": "Q57548022",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57548022"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:af": "Burgermeesterskommittee van Matjhabeng",
+        "lang:en": "Mayoral Committee of Matjhabeng"
+      },
+      "id": "Q57414215",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57414215"
+        }
+      ],
+      "area_id": "Q1873451"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57548022-63DF5CB6-4D80-4716-A375-F90E5A6E576A",
+      "person_id": "Q57548022",
+      "organization_id": "Q57414215",
+      "area_id": "Q1873451",
+      "start_date": "2016-08-16",
+      "role_superclass_code": "Q57414217",
+      "role_superclass": {
+        "lang:af": "Uitvoerende Burgermeester van Matjhabeng Plaaslike Munisipaliteit",
+        "lang:en": "Executive Mayor of Matjhabeng Local Municipality"
+      },
+      "role_code": "Q57414217",
+      "role": {
+        "lang:af": "Uitvoerende Burgermeester van Matjhabeng Plaaslike Munisipaliteit",
+        "lang:en": "Executive Mayor of Matjhabeng Local Municipality"
+      }
+    }
+  ]
+}
