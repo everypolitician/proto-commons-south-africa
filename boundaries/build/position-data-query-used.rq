@@ -1,0 +1,253 @@
+SELECT DISTINCT
+  ?position ?position_name_af ?position_name_en ?position_name_nso ?position_name_ss ?position_name_st ?position_name_tn ?position_name_ts ?position_name_ve ?position_name_xh ?position_name_zu
+  ?positionType
+  ?adminAreaTypes
+  ?adminArea ?admin_area_af ?admin_area_en ?admin_area_nso ?admin_area_ss ?admin_area_st ?admin_area_tn ?admin_area_ts ?admin_area_ve ?admin_area_xh ?admin_area_zu
+  ?positionSuperclass ?position_superclass_af ?position_superclass_en ?position_superclass_nso ?position_superclass_ss ?position_superclass_st ?position_superclass_tn ?position_superclass_ts ?position_superclass_ve ?position_superclass_xh ?position_superclass_zu
+  ?body ?body_af ?body_en ?body_nso ?body_ss ?body_st ?body_tn ?body_ts ?body_ve ?body_xh ?body_zu
+WHERE {
+  {
+    SELECT DISTINCT ?adminArea
+                (MIN(?primarySort) AS ?primarySort)
+                (GROUP_CONCAT(DISTINCT REPLACE(STR(?adminAreaType), '^.*/', ''); SEPARATOR=" ") AS ?adminAreaTypes) {
+  {
+    VALUES (?adminArea ?primarySort ?adminAreaType) { (wd:Q258 1 wd:Q6256) }
+  } UNION {
+    # Find regional admin areas of this country (generally FLACSen)
+    ?adminArea wdt:P17 wd:Q258 ;
+          wdt:P31/wdt:P279* wd:Q10864048
+    VALUES (?primarySort ?adminAreaType) { (2 wd:Q10864048) }
+  } UNION {
+    # Find cities or municipalities with populations of over 250k
+    VALUES ?adminAreaType { wd:Q515 wd:Q15284 }
+    ?adminArea wdt:P17 wd:Q258 ;
+       wdt:P31/wdt:P279* ?adminAreaType ;
+       wdt:P1082 ?population .
+    FILTER (?population > 250000)
+    VALUES ?primarySort { 3 }
+  } UNION {
+    VALUES (?adminArea ?primarySort ?adminAreaType) {
+    }
+  }
+
+  # Remove admin areas that have ended
+  FILTER NOT EXISTS { ?adminArea wdt:P582|wdt:P576 ?adminAreaEnd . FILTER (?adminAreaEnd < NOW()) }
+} GROUP BY ?adminArea ORDER BY ?primarySort ?adminArea
+
+  }
+  ?body wdt:P1001 ?adminArea .
+  ?body wdt:P527|wdt:P2670|wdt:P2388 ?position .
+  OPTIONAL {
+  ?body rdfs:label ?body_af
+  FILTER(LANG(?body_af) = "af")
+}
+
+OPTIONAL {
+  ?body rdfs:label ?body_en
+  FILTER(LANG(?body_en) = "en")
+}
+
+OPTIONAL {
+  ?body rdfs:label ?body_nso
+  FILTER(LANG(?body_nso) = "nso")
+}
+
+OPTIONAL {
+  ?body rdfs:label ?body_ss
+  FILTER(LANG(?body_ss) = "ss")
+}
+
+OPTIONAL {
+  ?body rdfs:label ?body_st
+  FILTER(LANG(?body_st) = "st")
+}
+
+OPTIONAL {
+  ?body rdfs:label ?body_tn
+  FILTER(LANG(?body_tn) = "tn")
+}
+
+OPTIONAL {
+  ?body rdfs:label ?body_ts
+  FILTER(LANG(?body_ts) = "ts")
+}
+
+OPTIONAL {
+  ?body rdfs:label ?body_ve
+  FILTER(LANG(?body_ve) = "ve")
+}
+
+OPTIONAL {
+  ?body rdfs:label ?body_xh
+  FILTER(LANG(?body_xh) = "xh")
+}
+
+OPTIONAL {
+  ?body rdfs:label ?body_zu
+  FILTER(LANG(?body_zu) = "zu")
+}
+
+  OPTIONAL {
+  ?position rdfs:label ?position_name_af
+  FILTER(LANG(?position_name_af) = "af")
+}
+
+OPTIONAL {
+  ?position rdfs:label ?position_name_en
+  FILTER(LANG(?position_name_en) = "en")
+}
+
+OPTIONAL {
+  ?position rdfs:label ?position_name_nso
+  FILTER(LANG(?position_name_nso) = "nso")
+}
+
+OPTIONAL {
+  ?position rdfs:label ?position_name_ss
+  FILTER(LANG(?position_name_ss) = "ss")
+}
+
+OPTIONAL {
+  ?position rdfs:label ?position_name_st
+  FILTER(LANG(?position_name_st) = "st")
+}
+
+OPTIONAL {
+  ?position rdfs:label ?position_name_tn
+  FILTER(LANG(?position_name_tn) = "tn")
+}
+
+OPTIONAL {
+  ?position rdfs:label ?position_name_ts
+  FILTER(LANG(?position_name_ts) = "ts")
+}
+
+OPTIONAL {
+  ?position rdfs:label ?position_name_ve
+  FILTER(LANG(?position_name_ve) = "ve")
+}
+
+OPTIONAL {
+  ?position rdfs:label ?position_name_xh
+  FILTER(LANG(?position_name_xh) = "xh")
+}
+
+OPTIONAL {
+  ?position rdfs:label ?position_name_zu
+  FILTER(LANG(?position_name_zu) = "zu")
+}
+
+  MINUS { ?body wdt:P576|wdt:P582 ?bodyEnd . FILTER(?bodyEnd < NOW()) }
+  MINUS { ?position wdt:P576|wdt:P582 ?positionEnd . FILTER(?positionEnd < NOW()) }
+  OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_af
+  FILTER(LANG(?admin_area_af) = "af")
+}
+
+OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_en
+  FILTER(LANG(?admin_area_en) = "en")
+}
+
+OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_nso
+  FILTER(LANG(?admin_area_nso) = "nso")
+}
+
+OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_ss
+  FILTER(LANG(?admin_area_ss) = "ss")
+}
+
+OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_st
+  FILTER(LANG(?admin_area_st) = "st")
+}
+
+OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_tn
+  FILTER(LANG(?admin_area_tn) = "tn")
+}
+
+OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_ts
+  FILTER(LANG(?admin_area_ts) = "ts")
+}
+
+OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_ve
+  FILTER(LANG(?admin_area_ve) = "ve")
+}
+
+OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_xh
+  FILTER(LANG(?admin_area_xh) = "xh")
+}
+
+OPTIONAL {
+  ?adminArea rdfs:label ?admin_area_zu
+  FILTER(LANG(?admin_area_zu) = "zu")
+}
+
+  OPTIONAL {
+    # If this position appears to be legislative (it's an subclass* of 'legislator')
+    # populate ?positionType with that:
+    VALUES ?positionType { wd:Q4175034 }
+    ?position wdt:P279* ?positionType
+  }
+  # Add the immediate superclass of the position on its way to legislator, head of
+  # government or president:
+  VALUES ?positionAncestor { wd:Q4175034 wd:Q2285706 wd:Q30461  }
+  ?position wdt:P279 ?positionSuperclass .
+            ?positionSuperclass wdt:P279* ?positionAncestor .
+  OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_af
+  FILTER(LANG(?position_superclass_af) = "af")
+}
+
+OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_en
+  FILTER(LANG(?position_superclass_en) = "en")
+}
+
+OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_nso
+  FILTER(LANG(?position_superclass_nso) = "nso")
+}
+
+OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_ss
+  FILTER(LANG(?position_superclass_ss) = "ss")
+}
+
+OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_st
+  FILTER(LANG(?position_superclass_st) = "st")
+}
+
+OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_tn
+  FILTER(LANG(?position_superclass_tn) = "tn")
+}
+
+OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_ts
+  FILTER(LANG(?position_superclass_ts) = "ts")
+}
+
+OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_ve
+  FILTER(LANG(?position_superclass_ve) = "ve")
+}
+
+OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_xh
+  FILTER(LANG(?position_superclass_xh) = "xh")
+}
+
+OPTIONAL {
+  ?positionSuperclass rdfs:label ?position_superclass_zu
+  FILTER(LANG(?position_superclass_zu) = "zu")
+}
+
+} ORDER BY ?position

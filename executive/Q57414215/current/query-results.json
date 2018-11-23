@@ -4,52 +4,9 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1873451"
-      },
-      "district_name_nso" : {
-        "xml:lang" : "nso",
-        "type" : "literal",
-        "value" : "Matjhabeng Mmusogae"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Matjhabeng Local Municipality"
-      },
-      "district_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Matjhabeng Plaaslike Munisipaliteit"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57414217"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57414217"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Mayor of Matjhabeng Local Municipality"
-      },
-      "role_superclass_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Matjhabeng Plaaslike Munisipaliteit"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Mayor of Matjhabeng Local Municipality"
-      },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Matjhabeng Plaaslike Munisipaliteit"
+        "value" : "http://www.wikidata.org/entity/statement/Q57548022-63DF5CB6-4D80-4716-A375-F90E5A6E576A"
       },
       "item" : {
         "type" : "uri",
@@ -60,32 +17,75 @@
         "type" : "literal",
         "value" : "Nkosinjani Speelman"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1873451"
+      },
+      "district_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Matjhabeng Plaaslike Munisipaliteit"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Matjhabeng Local Municipality"
+      },
+      "district_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Matjhabeng Mmusogae"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57414217"
+      },
+      "role_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van Matjhabeng Plaaslike Munisipaliteit"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Mayor of Matjhabeng Local Municipality"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-08-16T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q57414215"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayoral Committee of Matjhabeng"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Burgermeesterskommittee van Matjhabeng"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q57548022-63DF5CB6-4D80-4716-A375-F90E5A6E576A"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of Matjhabeng"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1873451"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-08-16T00:00:00Z"
       }
     } ]
   }

@@ -4,47 +4,9 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159185"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mangaung Metropolitan Municipality"
-      },
-      "district_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Mangaung Metropolitaanse Munisipaliteit"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57414669"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57414669"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Mayor of Mangaung Metropolitan Municipality"
-      },
-      "role_superclass_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Mangaung Metropolitaanse Munisipaliteit"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Mayor of Mangaung Metropolitan Municipality"
-      },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Mangaung Metropolitaanse Munisipaliteit"
+        "value" : "http://www.wikidata.org/entity/statement/Q57548020-A217C623-DD02-4AFC-A84E-38D7BDD12791"
       },
       "item" : {
         "type" : "uri",
@@ -55,27 +17,33 @@
         "type" : "literal",
         "value" : "Olly Mlamleli"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57416691"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayoral Committee of Mangaung"
-      },
-      "org_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Burgermeesterskommittee van Mangaung"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q57548020-A217C623-DD02-4AFC-A84E-38D7BDD12791"
-      },
-      "org_jurisdiction" : {
+      "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1159185"
+      },
+      "district_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Mangaung Metropolitaanse Munisipaliteit"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mangaung Metropolitan Municipality"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57414669"
+      },
+      "role_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van Mangaung Metropolitaanse Munisipaliteit"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Mayor of Mangaung Metropolitan Municipality"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -85,6 +53,38 @@
       "facebook" : {
         "type" : "literal",
         "value" : "cllrmlamleli"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416691"
+      },
+      "org_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Burgermeesterskommittee van Mangaung"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of Mangaung"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159185"
       }
     } ]
   }

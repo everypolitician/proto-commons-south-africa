@@ -4,117 +4,112 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q761877"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Alliance"
-      },
-      "party_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Demokratiese Alliansie"
+        "value" : "http://www.wikidata.org/entity/statement/Q379122-f91c1538-4a52-a087-7062-56c2f3795823"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q379122"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185115"
-      },
-      "district_name_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "IsiXeko SaseKapa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "City of Cape Town"
-      },
-      "district_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Stad Kaapstad Metropolitaanse Munisipaliteit"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3278456"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3278456"
-      },
-      "role_superclass_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "UsoDolophu wase Kapa"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Cape Town"
-      },
-      "role_superclass_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Stad Kaapstad Metropolitaanse Munisipaliteit"
-      },
-      "role_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "UsoDolophu wase Kapa"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor of Cape Town"
-      },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Stad Kaapstad Metropolitaanse Munisipaliteit"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Dan Plato"
       },
       "name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Dan Plato"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dan Plato"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q761877"
+      },
+      "party_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Demokratiese Alliansie"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Alliance"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185115"
+      },
+      "district_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Stad Kaapstad Metropolitaanse Munisipaliteit"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Cape Town"
+      },
+      "district_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IsiXeko SaseKapa"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3278456"
+      },
+      "role_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van Stad Kaapstad Metropolitaanse Munisipaliteit"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor of Cape Town"
+      },
+      "role_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UsoDolophu wase Kapa"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-11-01T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6797862"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayoral Committee of the City of Cape Town"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Burgermeesterskommittee van die Stad Kaapstad"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q379122-f91c1538-4a52-a087-7062-56c2f3795823"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of the City of Cape Town"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1185115"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-11-01T00:00:00Z"
       }
     } ]
   }

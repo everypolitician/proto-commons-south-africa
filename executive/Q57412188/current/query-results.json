@@ -4,131 +4,52 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q761877"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Alliance"
-      },
-      "party_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Demokratiese Alliansie"
+        "value" : "http://www.wikidata.org/entity/statement/Q20981704-03fa85c6-4729-0cc3-371f-3d05a36ecd2c"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q20981704"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2346838"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "City of Johannesburg Metropolitan Municipality"
-      },
-      "district_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Stad Johannesburg Metropolitaanse Munisipaliteit"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6797727"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6797727"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Johannesburg"
-      },
-      "role_superclass_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Johannesburg"
-      },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Herman Mashaba"
       },
-      "org" : {
+      "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57412188"
+        "value" : "http://www.wikidata.org/entity/Q761877"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayoral Committee of the City of Johannesburg"
-      },
-      "org_af" : {
+      "party_name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "Burgermeesterskommittee van die Stad Johannesburg"
+        "value" : "Demokratiese Alliansie"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q20981704-03fa85c6-4729-0cc3-371f-3d05a36ecd2c"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2346838"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+      "party_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "2016-01-01T00:00:00Z"
-      }
-    }, {
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6793126"
+        "value" : "Democratic Alliance"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2346838"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "City of Johannesburg Metropolitan Municipality"
       },
       "district_name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Stad Johannesburg Metropolitaanse Munisipaliteit"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Johannesburg Metropolitan Municipality"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6797727"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6797727"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayor of Johannesburg"
-      },
-      "role_superclass_af" : {
+      "role_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit"
@@ -138,33 +59,112 @@
         "type" : "literal",
         "value" : "Mayor of Johannesburg"
       },
-      "role_af" : {
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit"
+        "value" : "burgemeester"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Maurice Freeman"
+        "value" : "mayor"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q57412188"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayoral Committee of the City of Johannesburg"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Burgermeesterskommittee van die Stad Johannesburg"
       },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of the City of Johannesburg"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2346838"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6793126-6848E9BF-8A65-4E4B-A851-136C2CA0E1E1"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6793126"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maurice Freeman"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2346838"
+      },
+      "district_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Stad Johannesburg Metropolitaanse Munisipaliteit"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "City of Johannesburg Metropolitan Municipality"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6797727"
+      },
+      "role_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van Stad Johannesburg Metropolitaanse Munisipaliteit"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayor of Johannesburg"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57412188"
+      },
+      "org_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Burgermeesterskommittee van die Stad Johannesburg"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of the City of Johannesburg"
       },
       "org_jurisdiction" : {
         "type" : "uri",

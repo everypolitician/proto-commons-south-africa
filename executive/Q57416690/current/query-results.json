@@ -4,22 +4,25 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q28086119-32F74A2C-D4E0-4551-8CC4-FF09ADCE61D1"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q28086119"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Zandile Gumede"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83162"
       },
-      "party_name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "African National Congress"
-      },
-      "party_name_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "I-African National Congress"
-      },
-      "party_name_nso" : {
-        "xml:lang" : "nso",
+      "party_name_af" : {
+        "xml:lang" : "af",
         "type" : "literal",
         "value" : "African National Congress"
       },
@@ -28,53 +31,50 @@
         "type" : "literal",
         "value" : "African National Congress"
       },
-      "party_name_af" : {
-        "xml:lang" : "af",
+      "party_name_nso" : {
+        "xml:lang" : "nso",
         "type" : "literal",
         "value" : "African National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q28086119"
+      "party_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "I-African National Congress"
+      },
+      "party_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "African National Congress"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q311544"
-      },
-      "district_name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "EThekwini Metropolitan Municipality"
-      },
-      "district_name_nso" : {
-        "xml:lang" : "nso",
-        "type" : "literal",
-        "value" : "EThekwini"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "eThekwini"
       },
       "district_name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "EThekwini Metropolitaanse Munisipaliteit"
       },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "eThekwini"
+      },
+      "district_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "EThekwini"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "EThekwini Metropolitan Municipality"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q57413801"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57413801"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Mayor of eThekwini Metropolitan Municipality"
-      },
-      "role_superclass_af" : {
+      "role_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Uitvoerende Burgermeester van eThekwini Metropolitaanse Munisipaliteit"
@@ -84,38 +84,6 @@
         "type" : "literal",
         "value" : "Executive Mayor of eThekwini Metropolitan Municipality"
       },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van eThekwini Metropolitaanse Munisipaliteit"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Zandile Gumede"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57416690"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayoral Committee of eThekwini"
-      },
-      "org_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Burgermeesterskommittee van eThekwini"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q28086119-32F74A2C-D4E0-4551-8CC4-FF09ADCE61D1"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q311544"
-      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -124,6 +92,38 @@
       "facebook" : {
         "type" : "literal",
         "value" : "Zandile-Gumede-935476839882596"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57416690"
+      },
+      "org_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Burgermeesterskommittee van eThekwini"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of eThekwini"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q311544"
       }
     } ]
   }

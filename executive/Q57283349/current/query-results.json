@@ -4,22 +4,25 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8021940-25E75BBF-CB22-4161-AF12-EAF638B19EF2"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8021940"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Willies Mchunu"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83162"
       },
-      "party_name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "African National Congress"
-      },
-      "party_name_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "I-African National Congress"
-      },
-      "party_name_nso" : {
-        "xml:lang" : "nso",
+      "party_name_af" : {
+        "xml:lang" : "af",
         "type" : "literal",
         "value" : "African National Congress"
       },
@@ -28,21 +31,57 @@
         "type" : "literal",
         "value" : "African National Congress"
       },
-      "party_name_af" : {
-        "xml:lang" : "af",
+      "party_name_nso" : {
+        "xml:lang" : "nso",
         "type" : "literal",
         "value" : "African National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8021940"
+      "party_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "I-African National Congress"
+      },
+      "party_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "African National Congress"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q81725"
       },
-      "district_name_zu" : {
-        "xml:lang" : "zu",
+      "district_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "district_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "KwaZulu Natala"
+      },
+      "district_name_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "KaZulu"
+      },
+      "district_name_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Kwazulu-Natala"
+      },
+      "district_name_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal"
+      },
+      "district_name_ve" : {
+        "xml:lang" : "ve",
         "type" : "literal",
         "value" : "KwaZulu-Natal"
       },
@@ -51,38 +90,8 @@
         "type" : "literal",
         "value" : "IPhondo yaKwaZulu-Natala"
       },
-      "district_name_ve" : {
-        "xml:lang" : "ve",
-        "type" : "literal",
-        "value" : "KwaZulu-Natal"
-      },
-      "district_name_tn" : {
-        "xml:lang" : "tn",
-        "type" : "literal",
-        "value" : "KwaZulu-Natal"
-      },
-      "district_name_st" : {
-        "xml:lang" : "st",
-        "type" : "literal",
-        "value" : "Kwazulu-Natala"
-      },
-      "district_name_ss" : {
-        "xml:lang" : "ss",
-        "type" : "literal",
-        "value" : "KaZulu"
-      },
-      "district_name_nso" : {
-        "xml:lang" : "nso",
-        "type" : "literal",
-        "value" : "KwaZulu Natala"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "KwaZulu-Natal"
-      },
-      "district_name_af" : {
-        "xml:lang" : "af",
+      "district_name_zu" : {
+        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "KwaZulu-Natal"
       },
@@ -90,16 +99,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7240352"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7240352"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of KwaZulu-Natal"
-      },
-      "role_superclass_af" : {
+      "role_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Premier van die Provinsie van KwaZulu-Natal"
@@ -109,42 +109,37 @@
         "type" : "literal",
         "value" : "Premier of KwaZulu-Natal"
       },
-      "role_af" : {
-        "xml:lang" : "af",
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
-        "value" : "Premier van die Provinsie van KwaZulu-Natal"
+        "value" : "2016-05-25T00:00:00Z"
       },
-      "name_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Willies Mchunu"
+        "value" : "Premier of a South African province"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q57283349"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "KwaZulu-Natal Executive Council"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "KwaZulu-Natal Uitvoerende Raad"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8021940-25E75BBF-CB22-4161-AF12-EAF638B19EF2"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "KwaZulu-Natal Executive Council"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q81725"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-05-25T00:00:00Z"
       }
     } ]
   }

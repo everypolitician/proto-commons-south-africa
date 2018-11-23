@@ -4,190 +4,36 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q83162"
-      },
-      "party_name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "African National Congress"
-      },
-      "party_name_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "I-African National Congress"
-      },
-      "party_name_nso" : {
-        "xml:lang" : "nso",
-        "type" : "literal",
-        "value" : "African National Congress"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "African National Congress"
-      },
-      "party_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "African National Congress"
+        "value" : "http://www.wikidata.org/entity/statement/Q1148669-e63cc2bc-46f4-4408-6274-046f677fdce4"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1148669"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q258"
-      },
-      "district_name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "IRiphabliki yaseNingizimu Afrika"
-      },
-      "district_name_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "UMzantsi Afrika"
-      },
-      "district_name_ve" : {
-        "xml:lang" : "ve",
-        "type" : "literal",
-        "value" : "Afurika Tshipembe"
-      },
-      "district_name_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Afrika-Dzonga"
-      },
-      "district_name_tn" : {
-        "xml:lang" : "tn",
-        "type" : "literal",
-        "value" : "Aferika Borwa"
-      },
-      "district_name_st" : {
-        "xml:lang" : "st",
-        "type" : "literal",
-        "value" : "Afrika Borwa"
-      },
-      "district_name_ss" : {
-        "xml:lang" : "ss",
-        "type" : "literal",
-        "value" : "IRiphabhulikhi yeNingizimu Afrika"
-      },
-      "district_name_nso" : {
-        "xml:lang" : "nso",
-        "type" : "literal",
-        "value" : "Afrika Borwa"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "South Africa"
-      },
-      "district_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Suid-Afrika"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q273884"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q273884"
-      },
-      "role_superclass_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Umongameli waseNingizimu Afrika"
-      },
-      "role_superclass_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of South Africa"
-      },
-      "role_superclass_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "President van Suid-Afrika"
-      },
-      "role_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Umongameli waseNingizimu Afrika"
-      },
-      "role_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of South Africa"
-      },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "President van Suid-Afrika"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Matamela Cyril Ramaphosa"
       },
       "name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Cyril Ramaphosa"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q634678"
-      },
-      "org_en" : {
+      "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cabinet of South Africa"
-      },
-      "org_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Kabinet van Jacob Zuma"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1148669-e63cc2bc-46f4-4408-6274-046f677fdce4"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q258"
-      },
-      "name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Cyril Ramaphosa"
+        "value" : "Matamela Cyril Ramaphosa"
       },
       "name_nso" : {
         "xml:lang" : "nso",
         "type" : "literal",
         "value" : "Cyril Ramaphosa"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-02-15T00:00:00Z"
-      },
       "name_ss" : {
         "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Cyril Ramaphosa"
+      },
+      "name_st" : {
+        "xml:lang" : "st",
         "type" : "literal",
         "value" : "Cyril Ramaphosa"
       },
@@ -196,61 +42,56 @@
         "type" : "literal",
         "value" : "Cyril Ramaphosa"
       },
-      "name_st" : {
-        "xml:lang" : "st",
+      "name_zu" : {
+        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "Cyril Ramaphosa"
-      }
-    }, {
+      },
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q740718"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "National Party"
+        "value" : "http://www.wikidata.org/entity/Q83162"
       },
       "party_name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
-        "value" : "Nasionale Party"
+        "value" : "African National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q726202"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "I-African National Congress"
+      },
+      "party_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "African National Congress"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q258"
       },
-      "district_name_zu" : {
-        "xml:lang" : "zu",
+      "district_name_af" : {
+        "xml:lang" : "af",
         "type" : "literal",
-        "value" : "IRiphabliki yaseNingizimu Afrika"
+        "value" : "Suid-Afrika"
       },
-      "district_name_xh" : {
-        "xml:lang" : "xh",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
-        "value" : "UMzantsi Afrika"
+        "value" : "South Africa"
       },
-      "district_name_ve" : {
-        "xml:lang" : "ve",
-        "type" : "literal",
-        "value" : "Afurika Tshipembe"
-      },
-      "district_name_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Afrika-Dzonga"
-      },
-      "district_name_tn" : {
-        "xml:lang" : "tn",
-        "type" : "literal",
-        "value" : "Aferika Borwa"
-      },
-      "district_name_st" : {
-        "xml:lang" : "st",
+      "district_name_nso" : {
+        "xml:lang" : "nso",
         "type" : "literal",
         "value" : "Afrika Borwa"
       },
@@ -259,100 +100,560 @@
         "type" : "literal",
         "value" : "IRiphabhulikhi yeNingizimu Afrika"
       },
-      "district_name_nso" : {
-        "xml:lang" : "nso",
+      "district_name_st" : {
+        "xml:lang" : "st",
         "type" : "literal",
         "value" : "Afrika Borwa"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_tn" : {
+        "xml:lang" : "tn",
         "type" : "literal",
-        "value" : "South Africa"
+        "value" : "Aferika Borwa"
       },
-      "district_name_af" : {
-        "xml:lang" : "af",
+      "district_name_ts" : {
+        "xml:lang" : "ts",
         "type" : "literal",
-        "value" : "Suid-Afrika"
+        "value" : "Afrika-Dzonga"
+      },
+      "district_name_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Afurika Tshipembe"
+      },
+      "district_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UMzantsi Afrika"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IRiphabliki yaseNingizimu Afrika"
       },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q273884"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q273884"
-      },
-      "role_superclass_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Umongameli waseNingizimu Afrika"
-      },
-      "role_superclass_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of South Africa"
-      },
-      "role_superclass_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "President van Suid-Afrika"
-      },
-      "role_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Umongameli waseNingizimu Afrika"
-      },
-      "role_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "President of South Africa"
       },
       "role_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "President van Suid-Afrika"
       },
-      "name_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Johannes de Klerk"
+        "value" : "President of South Africa"
       },
-      "name_af" : {
-        "xml:lang" : "af",
+      "role_ts" : {
+        "xml:lang" : "ts",
         "type" : "literal",
-        "value" : "Jan de Klerk"
+        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
+      },
+      "role_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Umongameli waseNingizimu Afrika"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-02-15T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q634678"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Cabinet of South Africa"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Kabinet van Jacob Zuma"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q726202-18E8BB55-2695-4D57-A251-7C4FA28D28EF"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of South Africa"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q258"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1148669-e63cc2bc-46f4-4408-6274-046f677fdce4"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1148669"
+      },
+      "name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Cyril Ramaphosa"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Matamela Cyril Ramaphosa"
+      },
+      "name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Cyril Ramaphosa"
+      },
+      "name_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Cyril Ramaphosa"
+      },
+      "name_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Cyril Ramaphosa"
+      },
+      "name_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Cyril Ramaphosa"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Cyril Ramaphosa"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q83162"
+      },
+      "party_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "I-African National Congress"
+      },
+      "party_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "district_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Suid-Afrika"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "district_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "district_name_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+      },
+      "district_name_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "district_name_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Aferika Borwa"
+      },
+      "district_name_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Afrika-Dzonga"
+      },
+      "district_name_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Afurika Tshipembe"
+      },
+      "district_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UMzantsi Afrika"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IRiphabliki yaseNingizimu Afrika"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q273884"
+      },
+      "role_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "President van Suid-Afrika"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of South Africa"
+      },
+      "role_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
+      },
+      "role_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Umongameli waseNingizimu Afrika"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-02-15T00:00:00Z"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30461"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q634678"
+      },
+      "org_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Kabinet van Jacob Zuma"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of South Africa"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "role_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "president"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q726202-18E8BB55-2695-4D57-A251-7C4FA28D28EF"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q726202"
+      },
+      "name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Jan de Klerk"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Johannes de Klerk"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q740718"
+      },
+      "party_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Nasionale Party"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "district_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Suid-Afrika"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "district_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "district_name_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+      },
+      "district_name_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "district_name_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Aferika Borwa"
+      },
+      "district_name_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Afrika-Dzonga"
+      },
+      "district_name_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Afurika Tshipembe"
+      },
+      "district_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UMzantsi Afrika"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IRiphabliki yaseNingizimu Afrika"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q273884"
+      },
+      "role_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "President van Suid-Afrika"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of South Africa"
+      },
+      "role_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
+      },
+      "role_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Umongameli waseNingizimu Afrika"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q634678"
+      },
+      "org_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Kabinet van Jacob Zuma"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of South Africa"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q726202-18E8BB55-2695-4D57-A251-7C4FA28D28EF"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q726202"
+      },
+      "name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Jan de Klerk"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Johannes de Klerk"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q740718"
+      },
+      "party_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Nasionale Party"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "district_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Suid-Afrika"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "South Africa"
+      },
+      "district_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "district_name_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "IRiphabhulikhi yeNingizimu Afrika"
+      },
+      "district_name_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Afrika Borwa"
+      },
+      "district_name_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Aferika Borwa"
+      },
+      "district_name_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Afrika-Dzonga"
+      },
+      "district_name_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Afurika Tshipembe"
+      },
+      "district_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "UMzantsi Afrika"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IRiphabliki yaseNingizimu Afrika"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q273884"
+      },
+      "role_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "President van Suid-Afrika"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of South Africa"
+      },
+      "role_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Murhangeri wa tiko ra Afrika Dzonga"
+      },
+      "role_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Umongameli waseNingizimu Afrika"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30461"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q634678"
+      },
+      "org_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Kabinet van Jacob Zuma"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of South Africa"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "role_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "president"
       }
     } ]
   }

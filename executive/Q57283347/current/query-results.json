@@ -4,65 +4,49 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q469305-36F7135B-D87B-4A18-9B98-5EB616215A7B"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q469305"
+      },
+      "name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Sam Shilowa"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mbhazima Shilowa"
+      },
+      "name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Mbhazima Shilowa"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1125988"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Congress of the People"
-      },
       "party_name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Congress of the People"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q469305"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Congress of the People"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q133083"
       },
-      "district_name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "IGauteng"
-      },
-      "district_name_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "IPhondo yaRhawuti"
-      },
-      "district_name_ve" : {
-        "xml:lang" : "ve",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_tn" : {
-        "xml:lang" : "tn",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_st" : {
-        "xml:lang" : "st",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_ss" : {
-        "xml:lang" : "ss",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_nso" : {
-        "xml:lang" : "nso",
+      "district_name_af" : {
+        "xml:lang" : "af",
         "type" : "literal",
         "value" : "Gauteng"
       },
@@ -71,25 +55,51 @@
         "type" : "literal",
         "value" : "Gauteng"
       },
-      "district_name_af" : {
-        "xml:lang" : "af",
+      "district_name_nso" : {
+        "xml:lang" : "nso",
         "type" : "literal",
         "value" : "Gauteng"
+      },
+      "district_name_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaRhawuti"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IGauteng"
       },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7240351"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7240351"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of Gauteng"
-      },
-      "role_superclass_af" : {
+      "role_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Premier van Gauteng"
@@ -99,108 +109,77 @@
         "type" : "literal",
         "value" : "Premier of Gauteng"
       },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Premier van Gauteng"
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mbhazima Shilowa"
-      },
-      "name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Sam Shilowa"
+        "value" : "Premier of a South African province"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q57283347"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gauteng Executive Council"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Gauteng Uitvoerende Raad"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q469305-36F7135B-D87B-4A18-9B98-5EB616215A7B"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gauteng Executive Council"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q133083"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q469305-36F7135B-D87B-4A18-9B98-5EB616215A7B"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q469305"
+      },
+      "name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Sam Shilowa"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mbhazima Shilowa"
       },
       "name_nso" : {
         "xml:lang" : "nso",
         "type" : "literal",
         "value" : "Mbhazima Shilowa"
-      }
-    }, {
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83162"
       },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "African National Congress"
-      },
       "party_name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "African National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q469305"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "African National Congress"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q133083"
       },
-      "district_name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "IGauteng"
-      },
-      "district_name_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "IPhondo yaRhawuti"
-      },
-      "district_name_ve" : {
-        "xml:lang" : "ve",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_tn" : {
-        "xml:lang" : "tn",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_st" : {
-        "xml:lang" : "st",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_ss" : {
-        "xml:lang" : "ss",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_nso" : {
-        "xml:lang" : "nso",
+      "district_name_af" : {
+        "xml:lang" : "af",
         "type" : "literal",
         "value" : "Gauteng"
       },
@@ -209,25 +188,51 @@
         "type" : "literal",
         "value" : "Gauteng"
       },
-      "district_name_af" : {
-        "xml:lang" : "af",
+      "district_name_nso" : {
+        "xml:lang" : "nso",
         "type" : "literal",
         "value" : "Gauteng"
+      },
+      "district_name_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaRhawuti"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IGauteng"
       },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7240351"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7240351"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of Gauteng"
-      },
-      "role_superclass_af" : {
+      "role_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Premier van Gauteng"
@@ -237,50 +242,35 @@
         "type" : "literal",
         "value" : "Premier of Gauteng"
       },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Premier van Gauteng"
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mbhazima Shilowa"
-      },
-      "name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Sam Shilowa"
+        "value" : "Premier of a South African province"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q57283347"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gauteng Executive Council"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Gauteng Uitvoerende Raad"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q469305-36F7135B-D87B-4A18-9B98-5EB616215A7B"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gauteng Executive Council"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q133083"
       },
-      "name_nso" : {
+      "party_name_nso" : {
         "xml:lang" : "nso",
-        "type" : "literal",
-        "value" : "Mbhazima Shilowa"
-      },
-      "party_name_zu" : {
-        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "African National Congress"
       },
@@ -289,146 +279,141 @@
         "type" : "literal",
         "value" : "I-African National Congress"
       },
-      "party_name_nso" : {
-        "xml:lang" : "nso",
+      "party_name_zu" : {
+        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "African National Congress"
       }
     }, {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q83162"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "African National Congress"
-      },
-      "party_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "African National Congress"
+        "value" : "http://www.wikidata.org/entity/statement/Q726302-3AFA30FF-07FB-4EF7-B168-3E281271A86C"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q726302"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q133083"
-      },
-      "district_name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "IGauteng"
-      },
-      "district_name_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "IPhondo yaRhawuti"
-      },
-      "district_name_ve" : {
-        "xml:lang" : "ve",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_ts" : {
-        "xml:lang" : "ts",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_tn" : {
-        "xml:lang" : "tn",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_st" : {
-        "xml:lang" : "st",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_ss" : {
-        "xml:lang" : "ss",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_nso" : {
-        "xml:lang" : "nso",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "district_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Gauteng"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7240351"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7240351"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of Gauteng"
-      },
-      "role_superclass_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Premier van Gauteng"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of Gauteng"
-      },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Premier van Gauteng"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mosima Gabriel Sexwale"
       },
       "name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Tokyo Sexwale"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mosima Gabriel Sexwale"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q83162"
+      },
+      "party_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133083"
+      },
+      "district_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_ss" : {
+        "xml:lang" : "ss",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_st" : {
+        "xml:lang" : "st",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Gauteng"
+      },
+      "district_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaRhawuti"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IGauteng"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240351"
+      },
+      "role_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Premier van Gauteng"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of Gauteng"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Premier of a South African province"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q57283347"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gauteng Executive Council"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Gauteng Uitvoerende Raad"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q726302-3AFA30FF-07FB-4EF7-B168-3E281271A86C"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gauteng Executive Council"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q133083"
       },
-      "party_name_zu" : {
-        "xml:lang" : "zu",
+      "party_name_nso" : {
+        "xml:lang" : "nso",
         "type" : "literal",
         "value" : "African National Congress"
       },
@@ -437,8 +422,8 @@
         "type" : "literal",
         "value" : "I-African National Congress"
       },
-      "party_name_nso" : {
-        "xml:lang" : "nso",
+      "party_name_zu" : {
+        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "African National Congress"
       }

@@ -4,57 +4,9 @@
   },
   "results" : {
     "bindings" : [ {
-      "district" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1815510"
-      },
-      "district_name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Msunduzi Local Municipality"
-      },
-      "district_name_nso" : {
-        "xml:lang" : "nso",
-        "type" : "literal",
-        "value" : "Mmušôgaê wa Msunduzi"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Msunduzi Local Municipality"
-      },
-      "district_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Msunduzi Plaaslike Munisipaliteit"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57414515"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57414515"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Mayor of Msunduzi Local Municipality"
-      },
-      "role_superclass_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Msunduzi Munisipaliteit"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Mayor of Msunduzi Local Municipality"
-      },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Msunduzi Munisipaliteit"
+        "value" : "http://www.wikidata.org/entity/statement/Q57548021-1182B6F0-7A25-49A1-B724-E8D80890A475"
       },
       "item" : {
         "type" : "uri",
@@ -65,27 +17,43 @@
         "type" : "literal",
         "value" : "Themba Njilo"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57397575"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayoral Committee of Msunduzi"
-      },
-      "org_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Burgermeesterskommittee van Msunduzi"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q57548021-1182B6F0-7A25-49A1-B724-E8D80890A475"
-      },
-      "org_jurisdiction" : {
+      "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1815510"
+      },
+      "district_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Msunduzi Plaaslike Munisipaliteit"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Msunduzi Local Municipality"
+      },
+      "district_name_nso" : {
+        "xml:lang" : "nso",
+        "type" : "literal",
+        "value" : "Mmušôgaê wa Msunduzi"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Msunduzi Local Municipality"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57414515"
+      },
+      "role_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Uitvoerende Burgermeester van Msunduzi Munisipaliteit"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Executive Mayor of Msunduzi Local Municipality"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -95,6 +63,38 @@
       "facebook" : {
         "type" : "literal",
         "value" : "Themba-Jerome-Mduduzi-Mayor-msunduszi-NJILO-656965114479442"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30185"
+      },
+      "role_superclass_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "burgemeester"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "mayor"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57397575"
+      },
+      "org_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Burgermeesterskommittee van Msunduzi"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mayoral Committee of Msunduzi"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1815510"
       }
     } ]
   }

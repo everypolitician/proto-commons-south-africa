@@ -4,12 +4,35 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1280058-AEFECEBB-E0A9-45A8-87F4-46649538D5CB"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1280058"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ebrahim Rasool"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q83162"
       },
-      "party_name_zu" : {
-        "xml:lang" : "zu",
+      "party_name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "African National Congress"
+      },
+      "party_name_nso" : {
+        "xml:lang" : "nso",
         "type" : "literal",
         "value" : "African National Congress"
       },
@@ -18,56 +41,22 @@
         "type" : "literal",
         "value" : "I-African National Congress"
       },
-      "party_name_nso" : {
-        "xml:lang" : "nso",
+      "party_name_zu" : {
+        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "African National Congress"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "African National Congress"
-      },
-      "party_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "African National Congress"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1280058"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q127167"
       },
-      "district_name_zu" : {
-        "xml:lang" : "zu",
+      "district_name_af" : {
+        "xml:lang" : "af",
         "type" : "literal",
-        "value" : "IKipi laseNtshonalanga"
+        "value" : "Wes-Kaap"
       },
-      "district_name_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "IPhondo yaNtshona-Koloni"
-      },
-      "district_name_ve" : {
-        "xml:lang" : "ve",
-        "type" : "literal",
-        "value" : "Kapa Vhukovhela"
-      },
-      "district_name_tn" : {
-        "xml:lang" : "tn",
-        "type" : "literal",
-        "value" : "Western Cape"
-      },
-      "district_name_st" : {
-        "xml:lang" : "st",
-        "type" : "literal",
-        "value" : "Kapa Bophirimela"
-      },
-      "district_name_ss" : {
-        "xml:lang" : "ss",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Western Cape"
       },
@@ -76,30 +65,41 @@
         "type" : "literal",
         "value" : "Kapa Bodikela"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_ss" : {
+        "xml:lang" : "ss",
         "type" : "literal",
         "value" : "Western Cape"
       },
-      "district_name_af" : {
-        "xml:lang" : "af",
+      "district_name_st" : {
+        "xml:lang" : "st",
         "type" : "literal",
-        "value" : "Wes-Kaap"
+        "value" : "Kapa Bophirimela"
+      },
+      "district_name_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Western Cape"
+      },
+      "district_name_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Kapa Vhukovhela"
+      },
+      "district_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaNtshona-Koloni"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IKipi laseNtshonalanga"
       },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4997324"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4997324"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of the Western Cape"
-      },
-      "role_superclass_af" : {
+      "role_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Premier van die Provinsie Wes-Kaap"
@@ -109,88 +109,72 @@
         "type" : "literal",
         "value" : "Premier of the Western Cape"
       },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Premier van die Provinsie Wes-Kaap"
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ebrahim Rasool"
+        "value" : "Premier of a South African province"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q57283361"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Western Cape Executive Council"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Wes-Kaap Uitvoerende Raad"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1280058-AEFECEBB-E0A9-45A8-87F4-46649538D5CB"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Cape Executive Council"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q127167"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/q260693-B6987570-C3EA-49AC-BC68-A76B55D0EFFA"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q260693"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Helen Zille"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q761877"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Democratic Alliance"
       },
       "party_name_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Demokratiese Alliansie"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q260693"
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Democratic Alliance"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q127167"
       },
-      "district_name_zu" : {
-        "xml:lang" : "zu",
+      "district_name_af" : {
+        "xml:lang" : "af",
         "type" : "literal",
-        "value" : "IKipi laseNtshonalanga"
+        "value" : "Wes-Kaap"
       },
-      "district_name_xh" : {
-        "xml:lang" : "xh",
-        "type" : "literal",
-        "value" : "IPhondo yaNtshona-Koloni"
-      },
-      "district_name_ve" : {
-        "xml:lang" : "ve",
-        "type" : "literal",
-        "value" : "Kapa Vhukovhela"
-      },
-      "district_name_tn" : {
-        "xml:lang" : "tn",
-        "type" : "literal",
-        "value" : "Western Cape"
-      },
-      "district_name_st" : {
-        "xml:lang" : "st",
-        "type" : "literal",
-        "value" : "Kapa Bophirimela"
-      },
-      "district_name_ss" : {
-        "xml:lang" : "ss",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Western Cape"
       },
@@ -199,30 +183,41 @@
         "type" : "literal",
         "value" : "Kapa Bodikela"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_ss" : {
+        "xml:lang" : "ss",
         "type" : "literal",
         "value" : "Western Cape"
       },
-      "district_name_af" : {
-        "xml:lang" : "af",
+      "district_name_st" : {
+        "xml:lang" : "st",
         "type" : "literal",
-        "value" : "Wes-Kaap"
+        "value" : "Kapa Bophirimela"
+      },
+      "district_name_tn" : {
+        "xml:lang" : "tn",
+        "type" : "literal",
+        "value" : "Western Cape"
+      },
+      "district_name_ve" : {
+        "xml:lang" : "ve",
+        "type" : "literal",
+        "value" : "Kapa Vhukovhela"
+      },
+      "district_name_xh" : {
+        "xml:lang" : "xh",
+        "type" : "literal",
+        "value" : "IPhondo yaNtshona-Koloni"
+      },
+      "district_name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "IKipi laseNtshonalanga"
       },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4997324"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4997324"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Premier of the Western Cape"
-      },
-      "role_superclass_af" : {
+      "role_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Premier van die Provinsie Wes-Kaap"
@@ -232,33 +227,28 @@
         "type" : "literal",
         "value" : "Premier of the Western Cape"
       },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Premier van die Provinsie Wes-Kaap"
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57388461"
       },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Helen Zille"
+        "value" : "Premier of a South African province"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q57283361"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Western Cape Executive Council"
       },
       "org_af" : {
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Wes-Kaap Uitvoerende Raad"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/q260693-B6987570-C3EA-49AC-BC68-A76B55D0EFFA"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Western Cape Executive Council"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -269,15 +259,15 @@
         "type" : "literal",
         "value" : "Helen Zille"
       },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2009-05-06T00:00:00Z"
-      },
       "name_xh" : {
         "xml:lang" : "xh",
         "type" : "literal",
         "value" : "U-Helen Zille"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2009-05-06T00:00:00Z"
       }
     } ]
   }
