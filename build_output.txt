@@ -309,10 +309,5 @@ WARNING: Position Uitvoerende Burgermeester van Mangaung Metropolitaanse Munisip
 WARNING: the district Mangaung Metropolitaanse Munisipaliteit (Q1159185) wasn't found in the boundary data for position Uitvoerende Burgermeester van Mangaung Metropolitaanse Munisipaliteit (Q57414669)
 WARNING: Position Uitvoerende Burgermeester van Emfuleni Plaaslike Munisipaliteit (Q57414514) not in boundary associated_wikidata_positions
 WARNING: Position Uitvoerende Burgermeester van Emalahleni Plaaslike Munisipaliteit (Q57416120) not in boundary associated_wikidata_positions
-WARNING: Position President van Suid-Afrika (Q273884) not in boundary associated_wikidata_positions
-WARNING: the district Suid-Afrika (Q258) wasn't found in the boundary data for position President van Suid-Afrika (Q273884)
-WARNING: the district Suid-Afrika (Q258) wasn't found in the boundary data for position President van Suid-Afrika (Q273884)
-WARNING: the district Suid-Afrika (Q258) wasn't found in the boundary data for position President van Suid-Afrika (Q273884)
-WARNING: the district Suid-Afrika (Q258) wasn't found in the boundary data for position President van Suid-Afrika (Q273884)
 WARNING: Position Uitvoerende Burgermeester van Stad Kaapstad Metropolitaanse Munisipaliteit (Q3278456) not in boundary associated_wikidata_positions
 WARNING: the district Stad Kaapstad Metropolitaanse Munisipaliteit (Q1185115) wasn't found in the boundary data for position Uitvoerende Burgermeester van Stad Kaapstad Metropolitaanse Munisipaliteit (Q3278456)
