@@ -8099,7 +8099,302 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q127167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q127167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q4997324",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Western Cape"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q130840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q130840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240363",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Eastern Cape"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q132410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q132410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240354",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Mpumalanga"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q132418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q132418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240366",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Northern Cape"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q133083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q133083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240351",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Gauteng"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q134907",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:lp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q134907"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240353",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Limpopo"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q160284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q160284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240365",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Free State"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q165956",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q165956"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240358",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "North West"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q81725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q81725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240352",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "KwaZulu-Natal"
+      },
+      "parent_id": "Q258"
+    }
   ],
   "memberships": [
     {

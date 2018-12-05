@@ -51,7 +51,62 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q165956",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nw"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q165956"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240358",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "North West"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
