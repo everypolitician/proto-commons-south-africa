@@ -1953,7 +1953,8 @@
     {
       "name": {
         "lang:af": "Pallo Jordan",
-        "lang:en": "Pallo Jordan"
+        "lang:en": "Pallo Jordan",
+        "lang:zu": "Pallo Jordan"
       },
       "id": "Q3361545",
       "identifiers": [
@@ -1985,7 +1986,8 @@
     {
       "name": {
         "lang:af": "Kenneth Meshoe",
-        "lang:en": "Kenneth Meshoe"
+        "lang:en": "Kenneth Meshoe",
+        "lang:zu": "Kenneth Meshoe"
       },
       "id": "Q3643383",
       "identifiers": [
@@ -2081,7 +2083,8 @@
     {
       "name": {
         "lang:af": "Jeremy Cronin",
-        "lang:en": "Jeremy Cronin"
+        "lang:en": "Jeremy Cronin",
+        "lang:zu": "Jeremy Cronin"
       },
       "id": "Q4358028",
       "identifiers": [
@@ -2160,7 +2163,8 @@
     {
       "name": {
         "lang:af": "Anchen Dreyer",
-        "lang:en": "Anchen Dreyer"
+        "lang:en": "Anchen Dreyer",
+        "lang:zu": "Anchen Dreyer"
       },
       "id": "Q4752606",
       "identifiers": [
@@ -5737,7 +5741,8 @@
     {
       "name": {
         "lang:af": "Angie Motshekga",
-        "lang:en": "Angie Motshekga"
+        "lang:en": "Angie Motshekga",
+        "lang:zu": "Angie Motshekga"
       },
       "id": "Q4763221",
       "identifiers": [
@@ -5753,7 +5758,8 @@
     {
       "name": {
         "lang:af": "Annelie Lotriet",
-        "lang:en": "Annelie Lotriet"
+        "lang:en": "Annelie Lotriet",
+        "lang:zu": "Annelie Lotriet"
       },
       "id": "Q4768956",
       "identifiers": [
@@ -5768,7 +5774,8 @@
     },
     {
       "name": {
-        "lang:en": "Annette Lovemore"
+        "lang:en": "Annette Lovemore",
+        "lang:zu": "Annette Lovemore"
       },
       "id": "Q4769095",
       "identifiers": [
@@ -6565,7 +6572,8 @@
     {
       "name": {
         "lang:af": "Bathabile Dlamini",
-        "lang:en": "Bathabile Dlamini"
+        "lang:en": "Bathabile Dlamini",
+        "lang:zu": "Bathabile Dlamini"
       },
       "id": "Q4868980",
       "identifiers": [
@@ -6581,7 +6589,8 @@
     {
       "name": {
         "lang:af": "Bheki Cele",
-        "lang:en": "Bheki Cele"
+        "lang:en": "Bheki Cele",
+        "lang:zu": "Bheki Cele"
       },
       "id": "Q4901661",
       "identifiers": [
@@ -6597,7 +6606,8 @@
     {
       "name": {
         "lang:af": "Tina Joemat-Pettersson",
-        "lang:en": "Tina Joemat-Peterson"
+        "lang:en": "Tina Joemat-Peterson",
+        "lang:zu": "Tina Joemat-Peterson"
       },
       "id": "Q4956754",
       "identifiers": [
@@ -6613,7 +6623,8 @@
     {
       "name": {
         "lang:af": "Cassel Mathale",
-        "lang:en": "Cassel Mathale"
+        "lang:en": "Cassel Mathale",
+        "lang:zu": "Cassel Mathale"
       },
       "id": "Q5049285",
       "identifiers": [
@@ -6707,7 +6718,8 @@
     {
       "name": {
         "lang:af": "David Maynier",
-        "lang:en": "David Maynier"
+        "lang:en": "David Maynier",
+        "lang:zu": "David Maynier"
       },
       "id": "Q5237258",
       "identifiers": [
@@ -6723,7 +6735,8 @@
     {
       "name": {
         "lang:af": "Denise Robinson",
-        "lang:en": "Denise Robinson"
+        "lang:en": "Denise Robinson",
+        "lang:zu": "Denise Robinson"
       },
       "id": "Q5257754",
       "identifiers": [
@@ -7740,6 +7753,23 @@
         {
           "scheme": "wikidata",
           "identifier": "Q7786663"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:af": "Tito Mboweni",
+        "lang:en": "Tito Mboweni",
+        "lang:zu": "Tito Mboweni"
+      },
+      "id": "Q7810182",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7810182"
         }
       ],
       "links": [
@@ -9279,6 +9309,7 @@
       "organization_id": "Q240823",
       "area_id": "Q134907",
       "start_date": "2014-05-21",
+      "end_date": "2018-11-30",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -13705,6 +13736,7 @@
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
+      "end_date": "2018-11-11",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
@@ -16637,6 +16669,21 @@
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
       "start_date": "2014-05-21",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7810182-51cf33bd-48e8-4ecc-4dc9-bf90f1844306",
+      "person_id": "Q7810182",
+      "organization_id": "Q240823",
+      "start_date": "2018-10-09",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
         "lang:en": "Member of the Parliament of South Africa"
