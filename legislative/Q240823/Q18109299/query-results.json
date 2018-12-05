@@ -8921,6 +8921,11 @@
         "type" : "literal",
         "value" : "Malusi Motimele"
       },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-11-30T00:00:00Z"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q134907"
@@ -14590,6 +14595,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2014-08-11T00:00:00Z"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Pallo Jordan"
       }
     }, {
       "party" : {
@@ -14771,6 +14781,11 @@
       },
       "name_af" : {
         "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Kenneth Meshoe"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "Kenneth Meshoe"
       }
@@ -15569,6 +15584,11 @@
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Jeremy Cronin"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Jeremy Cronin"
       }
     }, {
       "party" : {
@@ -16155,6 +16175,11 @@
       },
       "name_af" : {
         "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Anchen Dreyer"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "Anchen Dreyer"
       }
@@ -40617,6 +40642,11 @@
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "James Vos"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-11-11T00:00:00Z"
       }
     }, {
       "party" : {
@@ -43349,6 +43379,11 @@
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Angie Motshekga"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Angie Motshekga"
       }
     }, {
       "party" : {
@@ -43431,6 +43466,11 @@
       },
       "name_af" : {
         "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Annelie Lotriet"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "Annelie Lotriet"
       }
@@ -43517,6 +43557,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2016-08-06T00:00:00Z"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Annette Lovemore"
       },
       "district" : {
         "type" : "uri",
@@ -51941,6 +51986,11 @@
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Bathabile Dlamini"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Bathabile Dlamini"
       }
     }, {
       "party" : {
@@ -52038,6 +52088,11 @@
       },
       "name_af" : {
         "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Bheki Cele"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "Bheki Cele"
       },
@@ -52193,6 +52248,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2017-03-31T00:00:00Z"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Tina Joemat-Peterson"
       }
     }, {
       "party" : {
@@ -52290,6 +52350,11 @@
       },
       "name_af" : {
         "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Cassel Mathale"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "Cassel Mathale"
       }
@@ -52935,6 +53000,11 @@
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "David Maynier"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "David Maynier"
       }
     }, {
       "party" : {
@@ -53017,6 +53087,11 @@
       },
       "name_af" : {
         "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Denise Robinson"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
         "type" : "literal",
         "value" : "Denise Robinson"
       }
@@ -59667,6 +59742,81 @@
         "xml:lang" : "af",
         "type" : "literal",
         "value" : "Thoko Didiza"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7810182-51cf33bd-48e8-4ecc-4dc9-bf90f1844306"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6814221"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Parliament of South Africa"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16744266"
+      },
+      "role_ts" : {
+        "xml:lang" : "ts",
+        "type" : "literal",
+        "value" : "Xirho xa Huvo ya rixaka"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the National Assembly of South Africa"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7810182"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tito Mboweni"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q240823"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Assembly of South Africa"
+      },
+      "org_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Nasionale Vergadering van Suid-Afrika"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q258"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "400"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-10-09T00:00:00Z"
+      },
+      "name_af" : {
+        "xml:lang" : "af",
+        "type" : "literal",
+        "value" : "Tito Mboweni"
+      },
+      "name_zu" : {
+        "xml:lang" : "zu",
+        "type" : "literal",
+        "value" : "Tito Mboweni"
       }
     }, {
       "party" : {
