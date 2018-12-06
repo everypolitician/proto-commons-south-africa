@@ -208,8 +208,10 @@
     "position_item_id": "Q57417768",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "2016-2021 Term of the Newcastle Municipal Council",
+        "term_item_id": "Q57417769",
+        "start_date": "2016-08-22",
+        "end_date": "2021-08-22"
       }
     ]
   },
@@ -251,8 +253,10 @@
     "position_item_id": "Q57417745",
     "terms": [
       {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
+        "comment": "2016-2021 Term of the City of Tshwane Municipal Council",
+        "term_item_id": "Q57417747",
+        "start_date": "2016-08-19",
+        "end_date": "2021-08-19"
       }
     ]
   },
