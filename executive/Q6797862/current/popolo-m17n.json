@@ -49,7 +49,85 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1185115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1185115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3278456"
+      ],
+      "type": {
+        "lang:en": "metropolitan municipality of South Africa"
+      },
+      "name": {
+        "lang:en": "City of Cape Town"
+      },
+      "parent_id": "Q127167"
+    },
+    {
+      "id": "Q127167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q127167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q4997324",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Western Cape"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

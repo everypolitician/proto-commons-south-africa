@@ -37,7 +37,85 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1159185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1159185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57414669"
+      ],
+      "type": {
+        "lang:en": "metropolitan municipality of South Africa"
+      },
+      "name": {
+        "lang:en": "Mangaung"
+      },
+      "parent_id": "Q160284"
+    },
+    {
+      "id": "Q160284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q160284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240365",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Free State"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
