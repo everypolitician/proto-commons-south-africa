@@ -1,106 +1,181 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_af", "name_en", "name_nso", "name_ss", "name_st", "name_tn", "name_ts", "name_ve", "name_xh", "name_zu", "party", "party_name_af", "party_name_en", "party_name_nso", "party_name_ss", "party_name_st", "party_name_tn", "party_name_ts", "party_name_ve", "party_name_xh", "party_name_zu", "district", "district_name_af", "district_name_en", "district_name_nso", "district_name_ss", "district_name_st", "district_name_tn", "district_name_ts", "district_name_ve", "district_name_xh", "district_name_zu", "role", "role_af", "role_en", "role_nso", "role_ss", "role_st", "role_tn", "role_ts", "role_ve", "role_xh", "role_zu", "role_superclass", "role_superclass_af", "role_superclass_en", "role_superclass_nso", "role_superclass_ss", "role_superclass_st", "role_superclass_tn", "role_superclass_ts", "role_superclass_ve", "role_superclass_xh", "role_superclass_zu", "start", "end", "facebook", "org", "org_af", "org_en", "org_nso", "org_ss", "org_st", "org_tn", "org_ts", "org_ve", "org_xh", "org_zu", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_af",
+      "name_en",
+      "name_nso",
+      "name_ss",
+      "name_st",
+      "name_tn",
+      "name_ts",
+      "name_ve",
+      "name_xh",
+      "name_zu",
+      "party",
+      "party_name_af",
+      "party_name_en",
+      "party_name_nso",
+      "party_name_ss",
+      "party_name_st",
+      "party_name_tn",
+      "party_name_ts",
+      "party_name_ve",
+      "party_name_xh",
+      "party_name_zu",
+      "district",
+      "district_name_af",
+      "district_name_en",
+      "district_name_nso",
+      "district_name_ss",
+      "district_name_st",
+      "district_name_tn",
+      "district_name_ts",
+      "district_name_ve",
+      "district_name_xh",
+      "district_name_zu",
+      "role",
+      "role_af",
+      "role_en",
+      "role_nso",
+      "role_ss",
+      "role_st",
+      "role_tn",
+      "role_ts",
+      "role_ve",
+      "role_xh",
+      "role_zu",
+      "role_superclass",
+      "role_superclass_af",
+      "role_superclass_en",
+      "role_superclass_nso",
+      "role_superclass_ss",
+      "role_superclass_st",
+      "role_superclass_tn",
+      "role_superclass_ts",
+      "role_superclass_ve",
+      "role_superclass_xh",
+      "role_superclass_zu",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_af",
+      "org_en",
+      "org_nso",
+      "org_ss",
+      "org_st",
+      "org_tn",
+      "org_ts",
+      "org_ve",
+      "org_xh",
+      "org_zu",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q654444"
-      },
-      "party_name_zu" : {
-        "xml:lang" : "zu",
-        "type" : "literal",
-        "value" : "Inkatha Freedom Party"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Inkatha Freedom Party"
-      },
-      "party_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Inkatha-Vryheidsparty"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q57548032-B034B01D-8811-486D-B14B-FD8F64891B5E"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57577017"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "uMhlathuze Ward 33"
-      },
-      "district_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "uMhlathuze Wyk 33"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q708492"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "councillor"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57417779"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Councillor of the uMhlathuze Municipal Council"
-      },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Raadslid van die uMhlatuze Munisipale Raad"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57548032"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Xulu Zakheleni"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57414511"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "uMhlathuze Municipal Council"
-      },
-      "org_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "uMhlatuze Munisipale Raad"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q311800"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "67"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-08-19T00:00:00Z"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q57548032-B034B01D-8811-486D-B14B-FD8F64891B5E"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q57548032"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Xulu Zakheleni"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q654444"
+        },
+        "party_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Inkatha-Vryheidsparty"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Inkatha Freedom Party"
+        },
+        "party_name_zu": {
+          "xml:lang": "zu",
+          "type": "literal",
+          "value": "Inkatha Freedom Party"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q57577017"
+        },
+        "district_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "uMhlathuze Wyk 33"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "uMhlathuze Ward 33"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q57417779"
+        },
+        "role_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Raadslid van die uMhlatuze Munisipale Raad"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Councillor of the uMhlathuze Municipal Council"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q708492"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "councillor"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2016-08-19T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q57414511"
+        },
+        "org_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "uMhlatuze Munisipale Raad"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "uMhlathuze Municipal Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q311800"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "67"
+        }
       }
-    } ]
+    ]
   }
 }

@@ -1,92 +1,166 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_af", "name_en", "name_nso", "name_ss", "name_st", "name_tn", "name_ts", "name_ve", "name_xh", "name_zu", "party", "party_name_af", "party_name_en", "party_name_nso", "party_name_ss", "party_name_st", "party_name_tn", "party_name_ts", "party_name_ve", "party_name_xh", "party_name_zu", "district", "district_name_af", "district_name_en", "district_name_nso", "district_name_ss", "district_name_st", "district_name_tn", "district_name_ts", "district_name_ve", "district_name_xh", "district_name_zu", "role", "role_af", "role_en", "role_nso", "role_ss", "role_st", "role_tn", "role_ts", "role_ve", "role_xh", "role_zu", "start", "end", "facebook", "role_superclass", "role_superclass_af", "role_superclass_en", "role_superclass_nso", "role_superclass_ss", "role_superclass_st", "role_superclass_tn", "role_superclass_ts", "role_superclass_ve", "role_superclass_xh", "role_superclass_zu", "org", "org_af", "org_en", "org_nso", "org_ss", "org_st", "org_tn", "org_ts", "org_ve", "org_xh", "org_zu", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_af",
+      "name_en",
+      "name_nso",
+      "name_ss",
+      "name_st",
+      "name_tn",
+      "name_ts",
+      "name_ve",
+      "name_xh",
+      "name_zu",
+      "party",
+      "party_name_af",
+      "party_name_en",
+      "party_name_nso",
+      "party_name_ss",
+      "party_name_st",
+      "party_name_tn",
+      "party_name_ts",
+      "party_name_ve",
+      "party_name_xh",
+      "party_name_zu",
+      "district",
+      "district_name_af",
+      "district_name_en",
+      "district_name_nso",
+      "district_name_ss",
+      "district_name_st",
+      "district_name_tn",
+      "district_name_ts",
+      "district_name_ve",
+      "district_name_xh",
+      "district_name_zu",
+      "role",
+      "role_af",
+      "role_en",
+      "role_nso",
+      "role_ss",
+      "role_st",
+      "role_tn",
+      "role_ts",
+      "role_ve",
+      "role_xh",
+      "role_zu",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_af",
+      "role_superclass_en",
+      "role_superclass_nso",
+      "role_superclass_ss",
+      "role_superclass_st",
+      "role_superclass_tn",
+      "role_superclass_ts",
+      "role_superclass_ve",
+      "role_superclass_xh",
+      "role_superclass_zu",
+      "org",
+      "org_af",
+      "org_en",
+      "org_nso",
+      "org_ss",
+      "org_st",
+      "org_tn",
+      "org_ts",
+      "org_ve",
+      "org_xh",
+      "org_zu",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q57548022-63DF5CB6-4D80-4716-A375-F90E5A6E576A"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57548022"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nkosinjani Speelman"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1873451"
-      },
-      "district_name_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Matjhabeng Plaaslike Munisipaliteit"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Matjhabeng Local Municipality"
-      },
-      "district_name_nso" : {
-        "xml:lang" : "nso",
-        "type" : "literal",
-        "value" : "Matjhabeng Mmusogae"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57414217"
-      },
-      "role_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Uitvoerende Burgermeester van Matjhabeng Plaaslike Munisipaliteit"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Executive Mayor of Matjhabeng Local Municipality"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2016-08-16T00:00:00Z"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q30185"
-      },
-      "role_superclass_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "burgemeester"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "mayor"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q57414215"
-      },
-      "org_af" : {
-        "xml:lang" : "af",
-        "type" : "literal",
-        "value" : "Burgermeesterskommittee van Matjhabeng"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mayoral Committee of Matjhabeng"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1873451"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q57548022-63DF5CB6-4D80-4716-A375-F90E5A6E576A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q57548022"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nkosinjani Speelman"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1873451"
+        },
+        "district_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Matjhabeng Plaaslike Munisipaliteit"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Matjhabeng Local Municipality"
+        },
+        "district_name_nso": {
+          "xml:lang": "nso",
+          "type": "literal",
+          "value": "Matjhabeng Mmusogae"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q57414217"
+        },
+        "role_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Uitvoerende Burgermeester van Matjhabeng Plaaslike Munisipaliteit"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Executive Mayor of Matjhabeng Local Municipality"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2016-08-16T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "burgemeester"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q57414215"
+        },
+        "org_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Burgermeesterskommittee van Matjhabeng"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayoral Committee of Matjhabeng"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1873451"
+        }
       }
-    } ]
+    ]
   }
 }
