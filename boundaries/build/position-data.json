@@ -237,6 +237,44 @@
     }
   },
   {
+    "role_id": "Q57397572",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Buffalo City Metropolitaanse Munisipaliteit",
+      "lang:en": "Executive Mayor of Buffalo City Metropolitan Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57397570",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van Buffalo City",
+      "lang:en": "Mayoral Committee of Buffalo City"
+    }
+  },
+  {
+    "role_id": "Q57397576",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Stad Tshwane Metropolitaanse Munisipaliteit",
+      "lang:en": "Executive Mayor of City of Tshwane Metropolitan Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57413796",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van die Stad Tshwane",
+      "lang:en": "Mayoral Committee of the City of Tshwane"
+    }
+  },
+  {
     "role_id": "Q57413798",
     "role_name": {
       "lang:af": "Uitvoerende Burgermeester van Ekurhuleni Metropolitaanse Munisipaliteit",
@@ -294,6 +332,44 @@
     }
   },
   {
+    "role_id": "Q57414512",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van uMhlathuze Plaaslike Munisipaliteit",
+      "lang:en": "Executive Mayor of uMhlathuze Local Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57414510",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van uMhlatuze",
+      "lang:en": "Mayoral Committee of uMhlathuze"
+    }
+  },
+  {
+    "role_id": "Q57414514",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Emfuleni Plaaslike Munisipaliteit",
+      "lang:en": "Executive Mayor of Emfuleni Local Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57416692",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van Emfuleni",
+      "lang:en": "Mayoral Committee of Emfuleni"
+    }
+  },
+  {
     "role_id": "Q57414515",
     "role_name": {
       "lang:af": "Uitvoerende Burgermeester van Msunduzi Munisipaliteit",
@@ -313,6 +389,44 @@
     }
   },
   {
+    "role_id": "Q57414666",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Newcastle Plaaslike Munisipaliteit",
+      "lang:en": "Executive Mayor of Newcastle Local Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57414665",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van Newcastle",
+      "lang:en": "Mayoral Committee of Newcastle"
+    }
+  },
+  {
+    "role_id": "Q57414667",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Nelson Mandelabaai Metropolitaanse Munisipaliteit",
+      "lang:en": "Executive Mayor of Nelson Mandela Bay Metropolitan Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57416666",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van Nerlson Mandelabaai",
+      "lang:en": "Mayoral Committee of Nelson Mandela Bay"
+    }
+  },
+  {
     "role_id": "Q57414669",
     "role_name": {
       "lang:af": "Uitvoerende Burgermeester van Mangaung Metropolitaanse Munisipaliteit",
@@ -329,6 +443,44 @@
     "organization_name": {
       "lang:af": "Burgermeesterskommittee van Mangaung",
       "lang:en": "Mayoral Committee of Mangaung"
+    }
+  },
+  {
+    "role_id": "Q57416064",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Mogale City Plaaslike Munisipaliteit",
+      "lang:en": "Executive Mayor of Mogale City Local Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57414220",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van Mogale City",
+      "lang:en": "Mayoral Committee of Mogale City"
+    }
+  },
+  {
+    "role_id": "Q57416120",
+    "role_name": {
+      "lang:af": "Uitvoerende Burgermeester van Emalahleni Plaaslike Munisipaliteit",
+      "lang:en": "Executive Mayor of Emalahleni Local Municipality"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:af": "burgemeester",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57416693",
+    "organization_name": {
+      "lang:af": "Burgermeesterskommittee van Emalahleni",
+      "lang:en": "Mayoral Committee of Emalahleni"
     }
   },
   {
