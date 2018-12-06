@@ -330,13 +330,13 @@
         "type" : "literal",
         "value" : "Cyril Ramaphosa"
       },
-      "name_nso" : {
-        "xml:lang" : "nso",
+      "name_st" : {
+        "xml:lang" : "st",
         "type" : "literal",
         "value" : "Cyril Ramaphosa"
       },
-      "name_st" : {
-        "xml:lang" : "st",
+      "name_nso" : {
+        "xml:lang" : "nso",
         "type" : "literal",
         "value" : "Cyril Ramaphosa"
       },
@@ -14792,7 +14792,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q37993392-88AB28CA-C04B-4801-A261-3FCE9252C461"
+        "value" : "http://www.wikidata.org/entity/statement/Q37993392-4116C46B-1431-405F-A000-EE1F8D4A5B04"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -14916,7 +14916,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q37993392-4116C46B-1431-405F-A000-EE1F8D4A5B04"
+        "value" : "http://www.wikidata.org/entity/statement/Q37993392-88AB28CA-C04B-4801-A261-3FCE9252C461"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -44177,7 +44177,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890555-7F1F37EB-F5A1-4161-8BBB-C2778788AB09"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890555-5AF94D42-25C1-47CE-9A44-8E6B684C0C71"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -44330,7 +44330,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890555-5AF94D42-25C1-47CE-9A44-8E6B684C0C71"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890555-7F1F37EB-F5A1-4161-8BBB-C2778788AB09"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -44794,7 +44794,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890588-B7ED58BF-7E21-44DF-8DCC-7E5D779D24BE"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890588-3BD01920-033C-446B-908C-78999D6D2609"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -44947,7 +44947,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890588-3BD01920-033C-446B-908C-78999D6D2609"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890588-B7ED58BF-7E21-44DF-8DCC-7E5D779D24BE"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -45085,7 +45085,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890596-6C240E09-4685-44EF-9274-994ACCC9B2A4"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890596-39FE6EF8-1D01-44BA-9430-2B57035943C9"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -45169,7 +45169,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890596-39FE6EF8-1D01-44BA-9430-2B57035943C9"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890596-6C240E09-4685-44EF-9274-994ACCC9B2A4"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -45416,7 +45416,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890613-46AC9949-04AA-4E02-B620-4BDEF32E69C0"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890613-1B61AD5F-5445-4766-816C-025390193D41"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -45559,7 +45559,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890613-1B61AD5F-5445-4766-816C-025390193D41"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890613-46AC9949-04AA-4E02-B620-4BDEF32E69C0"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -45702,7 +45702,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890624-D4F0E08B-61CA-42C8-B596-BB83DF7B773A"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890624-D3653ACF-8763-4574-9419-384F2E833A64"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -45840,7 +45840,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890624-D3653ACF-8763-4574-9419-384F2E833A64"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890624-D4F0E08B-61CA-42C8-B596-BB83DF7B773A"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -46121,7 +46121,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890647-8329BD76-07BA-4341-9E8A-F0759DF7849F"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890647-284489AD-9EF3-406D-8071-C3E819042A3B"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -46210,7 +46210,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890647-284489AD-9EF3-406D-8071-C3E819042A3B"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890647-8329BD76-07BA-4341-9E8A-F0759DF7849F"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -47188,7 +47188,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890733-B2A634D6-9BB0-4E66-84B2-DCA0593A4FCC"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890733-560A9DD8-597C-4A9A-8691-DC1A2EA9DACE"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -47326,7 +47326,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890733-560A9DD8-597C-4A9A-8691-DC1A2EA9DACE"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890733-B2A634D6-9BB0-4E66-84B2-DCA0593A4FCC"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -48523,7 +48523,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890869-5D11EDA9-7C39-447C-BF5E-F65D15A2EF22"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890869-081C87E1-74D4-4E8D-B2F0-F3C6CF8D2978"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -48676,7 +48676,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890869-081C87E1-74D4-4E8D-B2F0-F3C6CF8D2978"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890869-5D11EDA9-7C39-447C-BF5E-F65D15A2EF22"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -49017,7 +49017,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890940-A2E8584B-7902-4289-81C7-39A3E4D93574"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890940-9A64B4B7-3D49-493B-889A-1AAE9B8376CB"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -49175,7 +49175,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890940-9A64B4B7-3D49-493B-889A-1AAE9B8376CB"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890940-A2E8584B-7902-4289-81C7-39A3E4D93574"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -50039,7 +50039,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890979-60BB555A-FBA6-4EC4-9ED6-89553CAC3581"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890979-2C2F11B2-C630-4E97-958F-5C69F143FD44"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -50192,7 +50192,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47890979-2C2F11B2-C630-4E97-958F-5C69F143FD44"
+        "value" : "http://www.wikidata.org/entity/statement/Q47890979-60BB555A-FBA6-4EC4-9ED6-89553CAC3581"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -50917,7 +50917,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47891871-49AB8F5D-327A-4830-8DBE-9513763C3CC9"
+        "value" : "http://www.wikidata.org/entity/statement/Q47891871-2DBE35EF-A211-46D4-BDA3-8CCE541CF49A"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -51021,7 +51021,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47891871-2DBE35EF-A211-46D4-BDA3-8CCE541CF49A"
+        "value" : "http://www.wikidata.org/entity/statement/Q47891871-49AB8F5D-327A-4830-8DBE-9513763C3CC9"
       },
       "role_superclass" : {
         "type" : "uri",
