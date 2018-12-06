@@ -14992,7 +14992,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q37993392-88AB28CA-C04B-4801-A261-3FCE9252C461"
+          "value": "http://www.wikidata.org/entity/statement/Q37993392-4116C46B-1431-405F-A000-EE1F8D4A5B04"
         },
         "item": {
           "type": "uri",
@@ -15117,7 +15117,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q37993392-4116C46B-1431-405F-A000-EE1F8D4A5B04"
+          "value": "http://www.wikidata.org/entity/statement/Q37993392-88AB28CA-C04B-4801-A261-3FCE9252C461"
         },
         "item": {
           "type": "uri",
@@ -44594,7 +44594,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890555-7F1F37EB-F5A1-4161-8BBB-C2778788AB09"
+          "value": "http://www.wikidata.org/entity/statement/Q47890555-5AF94D42-25C1-47CE-9A44-8E6B684C0C71"
         },
         "item": {
           "type": "uri",
@@ -44748,7 +44748,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890555-5AF94D42-25C1-47CE-9A44-8E6B684C0C71"
+          "value": "http://www.wikidata.org/entity/statement/Q47890555-7F1F37EB-F5A1-4161-8BBB-C2778788AB09"
         },
         "item": {
           "type": "uri",
@@ -45215,160 +45215,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890588-B7ED58BF-7E21-44DF-8DCC-7E5D779D24BE"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47890588"
-        },
-        "name_af": {
-          "xml:lang": "af",
-          "type": "literal",
-          "value": "Patrick Mabilo"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Solomon Patrick Mabilo"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q83162"
-        },
-        "party_name_af": {
-          "xml:lang": "af",
-          "type": "literal",
-          "value": "African National Congress"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "African National Congress"
-        },
-        "party_name_nso": {
-          "xml:lang": "nso",
-          "type": "literal",
-          "value": "African National Congress"
-        },
-        "party_name_xh": {
-          "xml:lang": "xh",
-          "type": "literal",
-          "value": "I-African National Congress"
-        },
-        "party_name_zu": {
-          "xml:lang": "zu",
-          "type": "literal",
-          "value": "African National Congress"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q132418"
-        },
-        "district_name_af": {
-          "xml:lang": "af",
-          "type": "literal",
-          "value": "Noord-Kaap"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Northern Cape"
-        },
-        "district_name_nso": {
-          "xml:lang": "nso",
-          "type": "literal",
-          "value": "Kapa Leboa"
-        },
-        "district_name_ss": {
-          "xml:lang": "ss",
-          "type": "literal",
-          "value": "Northern Cape"
-        },
-        "district_name_st": {
-          "xml:lang": "st",
-          "type": "literal",
-          "value": "Kapa Leboya"
-        },
-        "district_name_tn": {
-          "xml:lang": "tn",
-          "type": "literal",
-          "value": "Northern Cape"
-        },
-        "district_name_ve": {
-          "xml:lang": "ve",
-          "type": "literal",
-          "value": "Kapa Devhula"
-        },
-        "district_name_xh": {
-          "xml:lang": "xh",
-          "type": "literal",
-          "value": "IPhondo yaseMntla-Koloni"
-        },
-        "district_name_zu": {
-          "xml:lang": "zu",
-          "type": "literal",
-          "value": "IKipi laseNyakatho"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16744266"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "member of the National Assembly of South Africa"
-        },
-        "role_ts": {
-          "xml:lang": "ts",
-          "type": "literal",
-          "value": "Xirho xa Huvo ya rixaka"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q6814221"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Parliament of South Africa"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2014-05-21T00:00:00Z"
-        },
-        "end": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2017-10-17T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q240823"
-        },
-        "org_af": {
-          "xml:lang": "af",
-          "type": "literal",
-          "value": "Nasionale Vergadering van Suid-Afrika"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "National Assembly of South Africa"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q258"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "400"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q47890588-3BD01920-033C-446B-908C-78999D6D2609"
         },
         "item": {
@@ -45523,7 +45369,161 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890596-6C240E09-4685-44EF-9274-994ACCC9B2A4"
+          "value": "http://www.wikidata.org/entity/statement/Q47890588-B7ED58BF-7E21-44DF-8DCC-7E5D779D24BE"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47890588"
+        },
+        "name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Patrick Mabilo"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Solomon Patrick Mabilo"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q83162"
+        },
+        "party_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "African National Congress"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "African National Congress"
+        },
+        "party_name_nso": {
+          "xml:lang": "nso",
+          "type": "literal",
+          "value": "African National Congress"
+        },
+        "party_name_xh": {
+          "xml:lang": "xh",
+          "type": "literal",
+          "value": "I-African National Congress"
+        },
+        "party_name_zu": {
+          "xml:lang": "zu",
+          "type": "literal",
+          "value": "African National Congress"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q132418"
+        },
+        "district_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Noord-Kaap"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Northern Cape"
+        },
+        "district_name_nso": {
+          "xml:lang": "nso",
+          "type": "literal",
+          "value": "Kapa Leboa"
+        },
+        "district_name_ss": {
+          "xml:lang": "ss",
+          "type": "literal",
+          "value": "Northern Cape"
+        },
+        "district_name_st": {
+          "xml:lang": "st",
+          "type": "literal",
+          "value": "Kapa Leboya"
+        },
+        "district_name_tn": {
+          "xml:lang": "tn",
+          "type": "literal",
+          "value": "Northern Cape"
+        },
+        "district_name_ve": {
+          "xml:lang": "ve",
+          "type": "literal",
+          "value": "Kapa Devhula"
+        },
+        "district_name_xh": {
+          "xml:lang": "xh",
+          "type": "literal",
+          "value": "IPhondo yaseMntla-Koloni"
+        },
+        "district_name_zu": {
+          "xml:lang": "zu",
+          "type": "literal",
+          "value": "IKipi laseNyakatho"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16744266"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the National Assembly of South Africa"
+        },
+        "role_ts": {
+          "xml:lang": "ts",
+          "type": "literal",
+          "value": "Xirho xa Huvo ya rixaka"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6814221"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Parliament of South Africa"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2014-05-21T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-10-17T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240823"
+        },
+        "org_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Nasionale Vergadering van Suid-Afrika"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "National Assembly of South Africa"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q258"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "400"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47890596-39FE6EF8-1D01-44BA-9430-2B57035943C9"
         },
         "item": {
           "type": "uri",
@@ -45608,7 +45608,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890596-39FE6EF8-1D01-44BA-9430-2B57035943C9"
+          "value": "http://www.wikidata.org/entity/statement/Q47890596-6C240E09-4685-44EF-9274-994ACCC9B2A4"
         },
         "item": {
           "type": "uri",
@@ -45858,150 +45858,6 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890613-46AC9949-04AA-4E02-B620-4BDEF32E69C0"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q47890613"
-        },
-        "name_af": {
-          "xml:lang": "af",
-          "type": "literal",
-          "value": "Heinrich Volmink"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Heinrich Cyril Volmink"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q761877"
-        },
-        "party_name_af": {
-          "xml:lang": "af",
-          "type": "literal",
-          "value": "Demokratiese Alliansie"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Democratic Alliance"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q133083"
-        },
-        "district_name_af": {
-          "xml:lang": "af",
-          "type": "literal",
-          "value": "Gauteng"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Gauteng"
-        },
-        "district_name_nso": {
-          "xml:lang": "nso",
-          "type": "literal",
-          "value": "Gauteng"
-        },
-        "district_name_ss": {
-          "xml:lang": "ss",
-          "type": "literal",
-          "value": "Gauteng"
-        },
-        "district_name_st": {
-          "xml:lang": "st",
-          "type": "literal",
-          "value": "Gauteng"
-        },
-        "district_name_tn": {
-          "xml:lang": "tn",
-          "type": "literal",
-          "value": "Gauteng"
-        },
-        "district_name_ts": {
-          "xml:lang": "ts",
-          "type": "literal",
-          "value": "Gauteng"
-        },
-        "district_name_ve": {
-          "xml:lang": "ve",
-          "type": "literal",
-          "value": "Gauteng"
-        },
-        "district_name_xh": {
-          "xml:lang": "xh",
-          "type": "literal",
-          "value": "IPhondo yaRhawuti"
-        },
-        "district_name_zu": {
-          "xml:lang": "zu",
-          "type": "literal",
-          "value": "IGauteng"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q16744266"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "member of the National Assembly of South Africa"
-        },
-        "role_ts": {
-          "xml:lang": "ts",
-          "type": "literal",
-          "value": "Xirho xa Huvo ya rixaka"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q6814221"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Parliament of South Africa"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2014-05-21T00:00:00Z"
-        },
-        "end": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2017-03-14T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q240823"
-        },
-        "org_af": {
-          "xml:lang": "af",
-          "type": "literal",
-          "value": "Nasionale Vergadering van Suid-Afrika"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "National Assembly of South Africa"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q258"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "400"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q47890613-1B61AD5F-5445-4766-816C-025390193D41"
         },
         "item": {
@@ -46146,7 +46002,151 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890624-D4F0E08B-61CA-42C8-B596-BB83DF7B773A"
+          "value": "http://www.wikidata.org/entity/statement/Q47890613-46AC9949-04AA-4E02-B620-4BDEF32E69C0"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q47890613"
+        },
+        "name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Heinrich Volmink"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Heinrich Cyril Volmink"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q761877"
+        },
+        "party_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Demokratiese Alliansie"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Democratic Alliance"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q133083"
+        },
+        "district_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Gauteng"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gauteng"
+        },
+        "district_name_nso": {
+          "xml:lang": "nso",
+          "type": "literal",
+          "value": "Gauteng"
+        },
+        "district_name_ss": {
+          "xml:lang": "ss",
+          "type": "literal",
+          "value": "Gauteng"
+        },
+        "district_name_st": {
+          "xml:lang": "st",
+          "type": "literal",
+          "value": "Gauteng"
+        },
+        "district_name_tn": {
+          "xml:lang": "tn",
+          "type": "literal",
+          "value": "Gauteng"
+        },
+        "district_name_ts": {
+          "xml:lang": "ts",
+          "type": "literal",
+          "value": "Gauteng"
+        },
+        "district_name_ve": {
+          "xml:lang": "ve",
+          "type": "literal",
+          "value": "Gauteng"
+        },
+        "district_name_xh": {
+          "xml:lang": "xh",
+          "type": "literal",
+          "value": "IPhondo yaRhawuti"
+        },
+        "district_name_zu": {
+          "xml:lang": "zu",
+          "type": "literal",
+          "value": "IGauteng"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16744266"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the National Assembly of South Africa"
+        },
+        "role_ts": {
+          "xml:lang": "ts",
+          "type": "literal",
+          "value": "Xirho xa Huvo ya rixaka"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q6814221"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Parliament of South Africa"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2014-05-21T00:00:00Z"
+        },
+        "end": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-03-14T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q240823"
+        },
+        "org_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Nasionale Vergadering van Suid-Afrika"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "National Assembly of South Africa"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q258"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "400"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q47890624-D3653ACF-8763-4574-9419-384F2E833A64"
         },
         "item": {
           "type": "uri",
@@ -46285,7 +46285,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890624-D3653ACF-8763-4574-9419-384F2E833A64"
+          "value": "http://www.wikidata.org/entity/statement/Q47890624-D4F0E08B-61CA-42C8-B596-BB83DF7B773A"
         },
         "item": {
           "type": "uri",
@@ -46568,7 +46568,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890647-8329BD76-07BA-4341-9E8A-F0759DF7849F"
+          "value": "http://www.wikidata.org/entity/statement/Q47890647-284489AD-9EF3-406D-8071-C3E819042A3B"
         },
         "item": {
           "type": "uri",
@@ -46658,7 +46658,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890647-284489AD-9EF3-406D-8071-C3E819042A3B"
+          "value": "http://www.wikidata.org/entity/statement/Q47890647-8329BD76-07BA-4341-9E8A-F0759DF7849F"
         },
         "item": {
           "type": "uri",
@@ -47645,7 +47645,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890733-B2A634D6-9BB0-4E66-84B2-DCA0593A4FCC"
+          "value": "http://www.wikidata.org/entity/statement/Q47890733-560A9DD8-597C-4A9A-8691-DC1A2EA9DACE"
         },
         "item": {
           "type": "uri",
@@ -47784,7 +47784,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890733-560A9DD8-597C-4A9A-8691-DC1A2EA9DACE"
+          "value": "http://www.wikidata.org/entity/statement/Q47890733-B2A634D6-9BB0-4E66-84B2-DCA0593A4FCC"
         },
         "item": {
           "type": "uri",
@@ -48977,7 +48977,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890869-5D11EDA9-7C39-447C-BF5E-F65D15A2EF22"
+          "value": "http://www.wikidata.org/entity/statement/Q47890869-081C87E1-74D4-4E8D-B2F0-F3C6CF8D2978"
         },
         "item": {
           "type": "uri",
@@ -49131,7 +49131,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890869-081C87E1-74D4-4E8D-B2F0-F3C6CF8D2978"
+          "value": "http://www.wikidata.org/entity/statement/Q47890869-5D11EDA9-7C39-447C-BF5E-F65D15A2EF22"
         },
         "item": {
           "type": "uri",
@@ -49475,7 +49475,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890940-A2E8584B-7902-4289-81C7-39A3E4D93574"
+          "value": "http://www.wikidata.org/entity/statement/Q47890940-9A64B4B7-3D49-493B-889A-1AAE9B8376CB"
         },
         "item": {
           "type": "uri",
@@ -49634,7 +49634,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890940-9A64B4B7-3D49-493B-889A-1AAE9B8376CB"
+          "value": "http://www.wikidata.org/entity/statement/Q47890940-A2E8584B-7902-4289-81C7-39A3E4D93574"
         },
         "item": {
           "type": "uri",
@@ -50504,7 +50504,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890979-60BB555A-FBA6-4EC4-9ED6-89553CAC3581"
+          "value": "http://www.wikidata.org/entity/statement/Q47890979-2C2F11B2-C630-4E97-958F-5C69F143FD44"
         },
         "item": {
           "type": "uri",
@@ -50658,7 +50658,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47890979-2C2F11B2-C630-4E97-958F-5C69F143FD44"
+          "value": "http://www.wikidata.org/entity/statement/Q47890979-60BB555A-FBA6-4EC4-9ED6-89553CAC3581"
         },
         "item": {
           "type": "uri",
@@ -51389,7 +51389,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47891871-49AB8F5D-327A-4830-8DBE-9513763C3CC9"
+          "value": "http://www.wikidata.org/entity/statement/Q47891871-2DBE35EF-A211-46D4-BDA3-8CCE541CF49A"
         },
         "item": {
           "type": "uri",
@@ -51494,7 +51494,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q47891871-2DBE35EF-A211-46D4-BDA3-8CCE541CF49A"
+          "value": "http://www.wikidata.org/entity/statement/Q47891871-49AB8F5D-327A-4830-8DBE-9513763C3CC9"
         },
         "item": {
           "type": "uri",
