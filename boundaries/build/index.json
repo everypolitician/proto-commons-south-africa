@@ -200,5 +200,260 @@
       "match": "country:za/province:wc",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1500352",
+    "associations": [
+      {
+        "comment": "executive mayor of matjhabeng local municipality",
+        "position_item_id": "Q57414217"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:fs/local-municipality:matjhabeng",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1500352",
+    "associations": [
+      {
+        "comment": "executive mayor of mogale city local municipality",
+        "position_item_id": "Q57416064"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:gt/local-municipality:mogale-city",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1530824",
+    "associations": [
+      {
+        "comment": "executive mayor of city of tshwane metropolitan municipality",
+        "position_item_id": "Q57397576"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1500352",
+    "associations": [
+      {
+        "comment": "executive mayor of newcastle local municipality",
+        "position_item_id": "Q57414666"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:nl/local-municipality:newcastle",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1530824",
+    "associations": [
+      {
+        "comment": "executive mayor of ethekwini metropolitan municipality",
+        "position_item_id": "Q57413801"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1500352",
+    "associations": [
+      {
+        "comment": "executive mayor of msunduzi local municipality",
+        "position_item_id": "Q57414515"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:nl/local-municipality:the-msunduzi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1500352",
+    "associations": [
+      {
+        "comment": "executive mayor of umhlathuze local municipality",
+        "position_item_id": "Q57414512"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:nl/local-municipality:umhlathuze",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1530824",
+    "associations": [
+      {
+        "comment": "executive mayor of nelson mandela bay metropolitan municipality",
+        "position_item_id": "Q57414667"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1530824",
+    "associations": [
+      {
+        "comment": "executive mayor of buffalo city metropolitan municipality",
+        "position_item_id": "Q57397572"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1530824",
+    "associations": [
+      {
+        "comment": "mayor of cape town",
+        "position_item_id": "Q3278456"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1530824",
+    "associations": [
+      {
+        "comment": "executive mayor of mangaung metropolitan municipality",
+        "position_item_id": "Q57414669"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1500352",
+    "associations": [
+      {
+        "comment": "executive mayor of emfuleni local municipality",
+        "position_item_id": "Q57414514"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:gt/local-municipality:emfuleni",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1530824",
+    "associations": [
+      {
+        "comment": "mayor of johannesburg",
+        "position_item_id": "Q6797727"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1530824",
+    "associations": [
+      {
+        "comment": "executive mayor of city of ekurhuleni metropolitan municipality",
+        "position_item_id": "Q57413798"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1500352",
+    "associations": [
+      {
+        "comment": "executive mayor of emalahleni local municipality",
+        "position_item_id": "Q57416120"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MUNICNAME"
+    },
+    "filter": {
+      "match": "country:za/province:mp/local-municipality:emalahleni",
+      "column": "MS_FB"
+    }
   }
 ]

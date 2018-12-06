@@ -63,7 +63,85 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q133083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q133083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240351",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Gauteng"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q2346838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2346838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6797727"
+      ],
+      "type": {
+        "lang:en": "metropolitan municipality of South Africa"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg"
+      },
+      "parent_id": "Q133083"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
