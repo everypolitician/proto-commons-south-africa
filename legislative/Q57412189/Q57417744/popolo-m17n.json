@@ -54,7 +54,3325 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q133083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q133083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240351",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Gauteng"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q2346838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2346838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6797727"
+      ],
+      "type": {
+        "lang:en": "metropolitan municipality of South Africa"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg"
+      },
+      "parent_id": "Q133083"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q57576120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 1"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 2"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 3"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 4"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576126",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576126"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 5"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 6"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 7"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 8"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576132",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576132"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 9"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 10"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 11"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 12"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 13"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 14"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 15"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 16"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 17"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 18"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 19"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 20"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 21"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 22"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 23"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 24"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576156",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576156"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 25"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 26"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576161"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 27"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 28"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 29"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 30"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 31"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 32"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576173",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576173"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 33"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 34"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 35"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 36"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 37"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576182",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576182"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 38"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 39"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 40"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 41"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 42"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 43"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 44"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 45"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576200",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576200"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 46"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 47"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 48"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 49"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 50"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 51"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576212",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576212"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 52"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 53"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576214",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576214"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 54"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 55"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 56"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 57"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 58"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 59"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 60"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 61"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 62"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 63"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 64"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576237",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576237"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 65"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576240",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576240"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 66"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 67"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 68"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 69"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 70"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 71"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 72"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576253",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576253"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 73"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576254",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576254"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 74"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 75"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576257",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576257"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 76"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 77"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 78"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 79"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 80"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 81"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576266",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576266"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 82"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576268",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576268"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 83"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576270",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576270"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 84"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 85"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 86"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 87"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 88"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 89"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 90"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 91"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 92"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 93"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576290",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576290"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 94"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576292"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 95"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576295",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576295"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 96"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576297",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576297"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 97"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 98"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576302",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576302"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 99"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 100"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576305",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576305"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 101"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 102"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 103"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576309",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576309"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 104"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576310",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576310"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 105"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 106"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 107"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 108"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 109"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576318",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576318"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 110"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 111"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576322",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576322"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 112"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576324",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576324"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 113"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 114"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 115"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576329",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576329"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 116"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 117"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 118"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 119"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576336",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576336"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 120"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 121"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576341",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576341"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 122"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576343",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576343"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 123"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 124"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 125"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 126"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 127"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 128"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 129"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 130"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 131"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 132"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 133"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576364",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576364"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 134"
+      },
+      "parent_id": "Q2346838"
+    },
+    {
+      "id": "Q57576366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-johanne/ward:135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417743"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Johannesburg Municipal Council",
+        "lang:en": "ward of the City of Johannesburg Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Johannesburg Ward 135"
+      },
+      "parent_id": "Q2346838"
+    }
   ],
   "memberships": [
     {

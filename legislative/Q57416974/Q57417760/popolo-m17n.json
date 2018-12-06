@@ -23,7 +23,1525 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q130840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q130840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240363",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Eastern Cape"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q1856565",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1856565"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57414667"
+      ],
+      "type": {
+        "lang:en": "metropolitan municipality of South Africa"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay"
+      },
+      "parent_id": "Q130840"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q57575768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 1"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 2"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575771",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575771"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 3"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575772",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575772"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 4"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575774",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575774"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 5"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575775",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575775"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 6"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 7"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575779",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575779"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 8"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575780",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575780"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 9"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575782",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575782"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 10"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 11"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 12"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575786",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575786"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 13"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575787"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 14"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575789"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 15"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575790",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575790"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 16"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575792",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575792"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 17"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 18"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575796"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 19"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575798",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575798"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 20"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 21"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 22"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575802",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575802"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 23"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575803",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575803"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 24"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 25"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 26"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575807",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575807"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 27"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 28"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575811"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 29"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575815",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575815"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 30"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 31"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 32"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575818",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575818"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 33"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 34"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 35"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575822",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575822"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 36"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 37"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575827",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575827"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 38"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575828",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575828"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 39"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 40"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 41"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 42"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 43"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575835",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575835"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 44"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 45"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 46"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 47"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575842",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575842"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 48"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 49"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 50"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 51"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 52"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575849",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575849"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 53"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 54"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575852",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575852"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 55"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575854",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575854"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 56"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575856",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575856"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 57"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 58"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 59"
+      },
+      "parent_id": "Q1856565"
+    },
+    {
+      "id": "Q57575860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:nelson-mandela-/ward:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417753"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Nelson Mandela Bay Municipal Council",
+        "lang:en": "ward of the Nelson Mandela Bay Municipal Council"
+      },
+      "name": {
+        "lang:en": "Nelson Mandela Bay Ward 60"
+      },
+      "parent_id": "Q1856565"
+    }
   ],
   "memberships": [
 

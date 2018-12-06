@@ -58,7 +58,2773 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q133083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q133083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240351",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Gauteng"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q326891",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q326891"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57413798"
+      ],
+      "type": {
+        "lang:en": "metropolitan municipality of South Africa"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni"
+      },
+      "parent_id": "Q133083"
+    },
+    {
+      "id": "Q57577215",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577215"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 1"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 2"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 3"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 4"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577223",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577223"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 5"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 6"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 7"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 8"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 9"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 10"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 11"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 12"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577238",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577238"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 13"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 14"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 15"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 16"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 17"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 18"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 19"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 20"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 21"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 22"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577254",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577254"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 23"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 24"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577257",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577257"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 25"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 26"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 27"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 28"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 29"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 30"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577267",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577267"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 31"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577268",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577268"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 32"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 33"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577270",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577270"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 34"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577271",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577271"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 35"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 36"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 37"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577275",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577275"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 38"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 39"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 40"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 41"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 42"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 43"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 44"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 45"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 46"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 47"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577287",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577287"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 48"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 49"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577290",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577290"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 50"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577291",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577291"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 51"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577292"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 52"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577293",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577293"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 53"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577294",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577294"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 54"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577296",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577296"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 55"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 56"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 57"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577300",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577300"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 58"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 59"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577303",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577303"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 60"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 61"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577305",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577305"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 62"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 63"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 64"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 65"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577309",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577309"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 66"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577310",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577310"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 67"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 68"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 69"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577313",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577313"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 70"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577314",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577314"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 71"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 72"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 73"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577317",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577317"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 74"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577318",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577318"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 75"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 76"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 77"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 78"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577322",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577322"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 79"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 80"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577324",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577324"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 81"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577325"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 82"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 83"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 84"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577329",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577329"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 85"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 86"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577332",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577332"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 87"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 88"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 89"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577336",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577336"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 90"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577337",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577337"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 91"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 92"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 93"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577341",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577341"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 94"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 95"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577343",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577343"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 96"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 97"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 98"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 99"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577347",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577347"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 100"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 101"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 102"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 103"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577352",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577352"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 104"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 105"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 106"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 107"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 108"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577358",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577358"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 109"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 110"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 111"
+      },
+      "parent_id": "Q326891"
+    },
+    {
+      "id": "Q57577361",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:ekurhuleni/ward:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577361"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417656"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Ekurhuleni Municipal Council",
+        "lang:en": "ward of the Ekurhuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Ekurhuleni Ward 112"
+      },
+      "parent_id": "Q326891"
+    }
   ],
   "memberships": [
     {

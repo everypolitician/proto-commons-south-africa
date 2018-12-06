@@ -57,7 +57,1285 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1002006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1002006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57397572"
+      ],
+      "type": {
+        "lang:en": "metropolitan municipality of South Africa"
+      },
+      "name": {
+        "lang:en": "Buffalo City"
+      },
+      "parent_id": "Q130840"
+    },
+    {
+      "id": "Q130840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q130840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240363",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Eastern Cape"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q57573648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57573648"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 1"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 2"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575427",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575427"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 3"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 4"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575429",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575429"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 5"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 6"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 7"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 8"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 9"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 10"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 11"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575441",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575441"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 12"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575442"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 13"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 14"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575446",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575446"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 15"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575448"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 16"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 17"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 18"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575453",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575453"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 19"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 20"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 21"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575459",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575459"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 22"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 23"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 24"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 25"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 26"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575467"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 27"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 28"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 29"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 30"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 31"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575479",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575479"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 32"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 33"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 34"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 35"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575485",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575485"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 36"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 37"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 38"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 39"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575491",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575491"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 40"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575493",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575493"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 41"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 42"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575498"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 43"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 44"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 45"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 46"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575506",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575506"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 47"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 48"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 49"
+      },
+      "parent_id": "Q1002006"
+    },
+    {
+      "id": "Q57575512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:ec/metropolitan-municipality-of-south-africa:buffalo-city/ward:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417738"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Buffalo City Municipal Council",
+        "lang:en": "ward of the Buffalo City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Buffalo City Ward 50"
+      },
+      "parent_id": "Q1002006"
+    }
   ],
   "memberships": [
     {

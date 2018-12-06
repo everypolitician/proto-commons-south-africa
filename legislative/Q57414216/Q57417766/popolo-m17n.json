@@ -54,7 +54,950 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q160284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q160284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240365",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Free State"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q1873451",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1873451"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57414217"
+      ],
+      "type": {
+        "lang:af": "plaaslike munisipaliteit",
+        "lang:en": "local municipality"
+      },
+      "name": {
+        "lang:en": "Matjhabeng"
+      },
+      "parent_id": "Q160284"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q57575861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 1"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575863",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575863"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 2"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575864",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575864"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 4"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 5"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 6"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575869",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575869"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 7"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 8"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575871",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575871"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 9"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575873",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575873"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 10"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575874",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575874"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 11"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575876",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575876"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 12"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575877",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575877"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 13"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575879",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575879"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 14"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 15"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575882",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575882"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 16"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575883"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 17"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 18"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575886",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575886"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 19"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 20"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575888"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 21"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575891",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575891"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 22"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575892",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575892"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 23"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575894",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575894"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 24"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575897",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575897"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 25"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 26"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575900",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575900"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 27"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 28"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 29"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575907",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575907"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 30"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 31"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 32"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 33"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575914",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575914"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 34"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57575915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 35"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57576115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 3"
+      },
+      "parent_id": "Q1873451"
+    },
+    {
+      "id": "Q57576116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/local-municipality:matjhabeng/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417765"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Matjhabeng Municipal Council",
+        "lang:en": "ward of the Matjhabeng Municipal Council"
+      },
+      "name": {
+        "lang:en": "Matjhabeng Ward 36"
+      },
+      "parent_id": "Q1873451"
+    }
   ],
   "memberships": [
     {

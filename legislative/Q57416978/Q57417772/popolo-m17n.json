@@ -54,7 +54,1022 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q127787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q127787"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57416064"
+      ],
+      "type": {
+        "lang:af": "plaaslike munisipaliteit",
+        "lang:en": "local municipality"
+      },
+      "name": {
+        "lang:en": "Mogale City"
+      },
+      "parent_id": "Q133083"
+    },
+    {
+      "id": "Q133083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q133083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240351",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Gauteng"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q57577082",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577082"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 27"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 28"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577084",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577084"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 29"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 30"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 31"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 32"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577093",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577093"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 33"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577094",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577094"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 34"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 35"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577098",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577098"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 36"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 37"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577101",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577101"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 38"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577103",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577103"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 39"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577106",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577106"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 1"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 2"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577108",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577108"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 3"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 4"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577111",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577111"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 5"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 6"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 7"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 8"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 9"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577119"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 10"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 11"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 12"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577124",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577124"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 13"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 14"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577127",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577127"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 15"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577129",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577129"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 16"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 17"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577132",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577132"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 18"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 19"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 20"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 21"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 22"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 23"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 24"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 25"
+      },
+      "parent_id": "Q127787"
+    },
+    {
+      "id": "Q57577145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:mogale-city/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417770"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mogale City Municipal Council",
+        "lang:en": "ward of the Mogale City Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mogale City Ward 26"
+      },
+      "parent_id": "Q127787"
+    }
   ],
   "memberships": [
     {

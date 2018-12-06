@@ -23,7 +23,2869 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1185115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1185115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q3278456"
+      ],
+      "type": {
+        "lang:en": "metropolitan municipality of South Africa"
+      },
+      "name": {
+        "lang:en": "City of Cape Town"
+      },
+      "parent_id": "Q127167"
+    },
+    {
+      "id": "Q127167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q127167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q4997324",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Western Cape"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q57573392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57573392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 1"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 70"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575919",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575919"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 71"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 72"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 73"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 74"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 75"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 76"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 77"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 78"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 79"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 80"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 81"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575935",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575935"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 82"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 83"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 84"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575940",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575940"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 85"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575944",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575944"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 86"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575945",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575945"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 87"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575946",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575946"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 88"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 89"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 90"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 91"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 92"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575954",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575954"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 93"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 94"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 95"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575960",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575960"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 96"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575963",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575963"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 97"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 98"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 99"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 100"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575972",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575972"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 2"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 3"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 4"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575976",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575976"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 5"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575977",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575977"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 6"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 7"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 8"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 9"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 10"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 11"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 12"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575988",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575988"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 13"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 14"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 15"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 16"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 17"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 18"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 19"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57575999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57575999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 20"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 21"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 22"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 23"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576004",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576004"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 24"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 25"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 26"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 27"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 28"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 29"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 30"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 31"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 32"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 33"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 34"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 35"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 36"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 37"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 38"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 39"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 40"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 41"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 42"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576040",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576040"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 43"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 44"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576043",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576043"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 45"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 46"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 47"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 48"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576049",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576049"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 49"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 50"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576053",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576053"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 51"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 52"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576055",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576055"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 53"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 55"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576058",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576058"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 56"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 57"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 58"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 59"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576064",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576064"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 60"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 61"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576067",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576067"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 62"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 63"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 64"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576072",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576072"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 65"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 66"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576075",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576075"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 67"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576077",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576077"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 68"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 69"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576081",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576081"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 101"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576082",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576082"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 102"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576084",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576084"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 103"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576086",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576086"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 104"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 105"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 106"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576097",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576097"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 107"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 108"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576100",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576100"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 109"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576102",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576102"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 110"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 111"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576106",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576106"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 112"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576108",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576108"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 113"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 114"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 115"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 116"
+      },
+      "parent_id": "Q1185115"
+    },
+    {
+      "id": "Q57576118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:wc/metropolitan-municipality-of-south-africa:city-of-cape-to/ward:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417740"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Cape Town Municipal Council",
+        "lang:en": "ward of the City of Cape Town Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Cape Town Ward 54"
+      },
+      "parent_id": "Q1185115"
+    }
   ],
   "memberships": [
 

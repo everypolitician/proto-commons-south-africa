@@ -57,7 +57,1285 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1159185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1159185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57414669"
+      ],
+      "type": {
+        "lang:en": "metropolitan municipality of South Africa"
+      },
+      "name": {
+        "lang:en": "Mangaung"
+      },
+      "parent_id": "Q160284"
+    },
+    {
+      "id": "Q160284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q160284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240365",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Free State"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q57577362",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577362"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 1"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 2"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577364",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577364"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 3"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577365",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577365"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 4"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 5"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 6"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577368",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577368"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 7"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577369",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577369"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 8"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 9"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577371",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577371"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 10"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 11"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577373",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577373"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 12"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 13"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 14"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577378"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 15"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 16"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 17"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 18"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577382",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577382"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 19"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 20"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 21"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 22"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 23"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 24"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 25"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 26"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 27"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 28"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 29"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577394",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577394"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 30"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 31"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 32"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 33"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 34"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 35"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 36"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 37"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 38"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 39"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 40"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 41"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 42"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 43"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 44"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577414",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577414"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 45"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577416",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577416"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 46"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 47"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 48"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 49"
+      },
+      "parent_id": "Q1159185"
+    },
+    {
+      "id": "Q57577421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:fs/metropolitan-municipality-of-south-africa:mangaung/ward:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417751"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Mangaung Municipal Council",
+        "lang:en": "ward of the Mangaung Municipal Council"
+      },
+      "name": {
+        "lang:en": "Mangaung Ward 50"
+      },
+      "parent_id": "Q1159185"
+    }
   ],
   "memberships": [
     {

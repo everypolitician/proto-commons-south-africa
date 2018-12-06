@@ -23,7 +23,2653 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1094207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1094207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57397576"
+      ],
+      "type": {
+        "lang:en": "metropolitan municipality of South Africa"
+      },
+      "name": {
+        "lang:en": "City of Tshwane"
+      },
+      "parent_id": "Q133083"
+    },
+    {
+      "id": "Q133083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q133083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240351",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Gauteng"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q57576367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 1"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576368",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576368"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 2"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 3"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576371",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576371"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 4"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576374",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576374"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 5"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 6"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 7"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 8"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 9"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 10"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 11"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 12"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 13"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 14"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 15"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 16"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 17"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 18"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 19"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 20"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 21"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 22"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 23"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576414",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576414"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 24"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 25"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 26"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 27"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 28"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 29"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 30"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 31"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 32"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 33"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 34"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 35"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 36"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 37"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 39"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 40"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576448"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 41"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 42"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576454",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576454"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 43"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 44"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 45"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576459",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576459"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 46"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 47"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576463",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576463"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 48"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 49"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 50"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 51"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 52"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 53"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 54"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576476",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576476"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 55"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 56"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 57"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 58"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 59"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 60"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 61"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576493",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576493"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 62"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 63"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 64"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576499",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576499"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 65"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 66"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 68"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 69"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 70"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576511",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576511"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 71"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 72"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 73"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 74"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 75"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576522",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576522"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 76"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 77"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576527",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576527"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 78"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576530",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576530"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 79"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576532",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576532"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 80"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576535",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576535"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 81"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576537",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576537"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 82"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 83"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 84"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 85"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576546",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576546"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 86"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576547",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576547"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 87"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 88"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576554",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576554"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 89"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576558",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576558"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 90"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 91"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576562",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576562"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 92"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 93"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 94"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 95"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576575",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576575"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 96"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576577"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 97"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576580",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576580"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 98"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576583",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576583"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 99"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 100"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 101"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 102"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576590",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576590"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 103"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 104"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 105"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576595",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576595"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 106"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57576598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 107"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57577078",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577078"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 38"
+      },
+      "parent_id": "Q1094207"
+    },
+    {
+      "id": "Q57577079",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/metropolitan-municipality-of-south-africa:city-of-tshwane/ward:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577079"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417745"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die City of Tshwane Municipal Council",
+        "lang:en": "ward of the City of Tshwane Municipal Council"
+      },
+      "name": {
+        "lang:en": "City of Tshwane Ward 67"
+      },
+      "parent_id": "Q1094207"
+    }
   ],
   "memberships": [
 

@@ -57,7 +57,2725 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q311544",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q311544"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57413801"
+      ],
+      "type": {
+        "lang:en": "metropolitan municipality of South Africa"
+      },
+      "name": {
+        "lang:en": "eThekwini"
+      },
+      "parent_id": "Q81725"
+    },
+    {
+      "id": "Q57576599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 1"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 2"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 3"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 4"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 5"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 6"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576611"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 7"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 8"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 9"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576618",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576618"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 10"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576620",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576620"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 11"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 12"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 13"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 14"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576627",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576627"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 15"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 16"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 17"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 18"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 19"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 20"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576638",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576638"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 21"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576640",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576640"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 22"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 23"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 24"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 25"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576648"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 26"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 27"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576653",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576653"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 28"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 29"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 30"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576659",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576659"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 31"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 32"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 33"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 34"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 35"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 36"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 37"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576674",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576674"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 38"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 39"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 40"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 41"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576682",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576682"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 42"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576685",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576685"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 43"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 44"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 45"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 46"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 47"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 48"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 49"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576699",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576699"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 50"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 51"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576703",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576703"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 52"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 53"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576708",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576708"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 54"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576710",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576710"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 55"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 56"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 57"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 58"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576719",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576719"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 59"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 60"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576724",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576724"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 61"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 62"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 63"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576730",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576730"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 64"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576732",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576732"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 65"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576734",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576734"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 66"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 67"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576738",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576738"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 68"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576740",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576740"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 69"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576741",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576741"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 70"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 71"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576749",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576749"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 72"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576752",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576752"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 73"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576753",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576753"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 74"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576755",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576755"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 75"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576758",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576758"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 76"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 77"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 78"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576764",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576764"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 79"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576765",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576765"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 80"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 81"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 82"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576774",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576774"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 83"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576775",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576775"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 84"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576779",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576779"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 85"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576780",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576780"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 86"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 87"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576786",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576786"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 88"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576788",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576788"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 89"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576791",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576791"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 90"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576792",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576792"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 91"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576796"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 92"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 93"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 94"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 95"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576802",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576802"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 96"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 97"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 98"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576809"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 99"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 100"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576811"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 101"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 102"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576815",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576815"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 103"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 104"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 105"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576818",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576818"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 106"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 107"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576822",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576822"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 108"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 109"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q57576826",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/metropolitan-municipality-of-south-africa:ethekwini/ward:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576826"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417748"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die eThekwini Municipal Council",
+        "lang:en": "ward of the eThekwini Municipal Council"
+      },
+      "name": {
+        "lang:en": "eThekwini Ward 110"
+      },
+      "parent_id": "Q311544"
+    },
+    {
+      "id": "Q81725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q81725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240352",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "KwaZulu-Natal"
+      },
+      "parent_id": "Q258"
+    }
   ],
   "memberships": [
     {

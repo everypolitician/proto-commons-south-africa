@@ -7,29 +7,9 @@ WARNING: Position Lid van die Noord-Wes Provinsiale Wetgewer (Q57313175) not in 
 WARNING: Position Lid van die Provinsiale Parlement van die Wes-Kaap (Q6814209) not in boundary associated_wikidata_positions
 WARNING: the district Western Cape (Q59136539) wasn't found in the boundary data for position Lid van die Provinsiale Parlement van die Wes-Kaap (Q6814209)
 WARNING: Position member of the National Council of Provinces (Q20079916) not in boundary associated_wikidata_positions
-WARNING: Position Raadslid van die Stad Kaapstad Munisipale Raad (Q57417740) not in boundary associated_wikidata_positions
 WARNING: Position Lid van die Oos-Kaap Provinsiale Wetgewer (Q57312980) not in boundary associated_wikidata_positions
 WARNING: the district Eastern Cape (Q59136540) wasn't found in the boundary data for position Lid van die Oos-Kaap Provinsiale Wetgewer (Q57312980)
 WARNING: Position Lid van die Gauteng Provinsiale Wetgewer (Q57313165) not in boundary associated_wikidata_positions
-WARNING: Position Raadslid van die Buffalo City Munisipale Raad (Q57417738) not in boundary associated_wikidata_positions
-WARNING: the district Buffalo City Wyk 1 (Q57573648) wasn't found in the boundary data for position Raadslid van die Buffalo City Munisipale Raad (Q57417738)
-WARNING: Position Raadslid van die Stad Johannesburg Munisipale Raad (Q57417743) not in boundary associated_wikidata_positions
-WARNING: the district City of Johannesburg Wyk 35 (Q57576175) wasn't found in the boundary data for position Raadslid van die Stad Johannesburg Munisipale Raad (Q57417743)
-WARNING: Position Raadslid van die Ekurhuleni Munisipale Raad (Q57417656) not in boundary associated_wikidata_positions
-WARNING: Position Raadslid van die Matjhabeng Munisipale Raad (Q57417765) not in boundary associated_wikidata_positions
-WARNING: Position Raadslid van die Newcastle Munisipale Raad (Q57417768) not in boundary associated_wikidata_positions
-WARNING: Position Raadslid van die uMhlatuze Munisipale Raad (Q57417779) not in boundary associated_wikidata_positions
-WARNING: the district uMhlathuze Wyk 33 (Q57577017) wasn't found in the boundary data for position Raadslid van die uMhlatuze Munisipale Raad (Q57417779)
-WARNING: Position Raadslid van die eThekwini Munisipale Raad (Q57417748) not in boundary associated_wikidata_positions
-WARNING: Position Raadslid van die Stad Tshwane Munisipale Raad (Q57417745) not in boundary associated_wikidata_positions
-WARNING: Position Raadslid van die Mangaung Munisipale Raad (Q57417751) not in boundary associated_wikidata_positions
-WARNING: Position Raadslid van die Nerlson Mandelabaai Munisipale Raad (Q57417753) not in boundary associated_wikidata_positions
-WARNING: Position Raadslid van die Msunduzi Munisipale Raad (Q57417761) not in boundary associated_wikidata_positions
-WARNING: Position Raadslid van die Emfuleni Munisipale Raad (Q57417763) not in boundary associated_wikidata_positions
-WARNING: Position Raadslid van die Mogale City Munisipale Raad (Q57417770) not in boundary associated_wikidata_positions
-WARNING: the district Mogale City Wyk 13 (Q57577124) wasn't found in the boundary data for position Raadslid van die Mogale City Munisipale Raad (Q57417770)
-WARNING: Position Raadslid van die Emalahleni Munisipale Raad (Q57417773) not in boundary associated_wikidata_positions
-WARNING: the district Emalahleni Wyk 26 (Q57577062) wasn't found in the boundary data for position Raadslid van die Emalahleni Munisipale Raad (Q57417773)
 WARNING: Position Lid van die KwaZulu-Natal Provinsiale Wetgewer (Q57313167) not in boundary associated_wikidata_positions
 WARNING: the district KwaZulu-Natal (Q59136538) wasn't found in the boundary data for position Lid van die KwaZulu-Natal Provinsiale Wetgewer (Q57313167)
 WARNING: Position Lid van die Limpopo Provinsiale Wetgewer (Q57313170) not in boundary associated_wikidata_positions

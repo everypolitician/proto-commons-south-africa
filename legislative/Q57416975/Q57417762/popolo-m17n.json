@@ -57,7 +57,1022 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1815510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1815510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57414515"
+      ],
+      "type": {
+        "lang:af": "plaaslike munisipaliteit",
+        "lang:en": "local municipality"
+      },
+      "name": {
+        "lang:en": "The Msunduzi"
+      },
+      "parent_id": "Q81725"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q57576827",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576827"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 1"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 2"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 3"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 4"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 5"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576836",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576836"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 6"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 7"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576839",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576839"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 8"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576840",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576840"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 9"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576841",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576841"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 10"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 11"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 12"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 13"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 14"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576848",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576848"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 15"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 16"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576851",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576851"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 17"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576853",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576853"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 18"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576854",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576854"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 19"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 20"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 21"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 22"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 23"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576862",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576862"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 24"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576864",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576864"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 25"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 26"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576867",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576867"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 27"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 28"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 29"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576871",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576871"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 30"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 31"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576873",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576873"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 32"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576875",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576875"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 33"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576877",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576877"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 34"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576878",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576878"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 35"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 36"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576881",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576881"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 37"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576883"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 38"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q57576885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:the-msunduzi/ward:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417761"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die The Msunduzi Municipal Council",
+        "lang:en": "ward of the The Msunduzi Municipal Council"
+      },
+      "name": {
+        "lang:en": "Msunduzi Ward 39"
+      },
+      "parent_id": "Q1815510"
+    },
+    {
+      "id": "Q81725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q81725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240352",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "KwaZulu-Natal"
+      },
+      "parent_id": "Q258"
+    }
   ],
   "memberships": [
     {

@@ -52,7 +52,902 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q311800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q311800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57414512"
+      ],
+      "type": {
+        "lang:af": "plaaslike munisipaliteit",
+        "lang:en": "local municipality"
+      },
+      "name": {
+        "lang:en": "uMhlathuze"
+      },
+      "parent_id": "Q81725"
+    },
+    {
+      "id": "Q57576950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 1"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 2"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 3"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 4"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 5"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576961",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576961"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 6"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576962"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 7"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576963",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576963"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 8"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 9"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 10"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 11"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 12"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576977",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576977"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 13"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 14"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 15"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576984",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576984"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 16"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 17"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576988",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576988"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 18"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 19"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 20"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 21"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 22"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57576998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57576998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 23"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57577000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 24"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57577002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 25"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57577003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 26"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57577005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 27"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57577007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 28"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57577009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 29"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57577011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 30"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57577014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 31"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57577015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 32"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57577017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 33"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q57577019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl/local-municipality:umhlathuze/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417779"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die uMhlathuze Municipal Council",
+        "lang:en": "ward of the uMhlathuze Municipal Council"
+      },
+      "name": {
+        "lang:en": "uMhlathuze Ward 34"
+      },
+      "parent_id": "Q311800"
+    },
+    {
+      "id": "Q81725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:nl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q81725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240352",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "KwaZulu-Natal"
+      },
+      "parent_id": "Q258"
+    }
   ],
   "memberships": [
     {

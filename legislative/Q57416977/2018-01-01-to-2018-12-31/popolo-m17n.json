@@ -23,7 +23,1166 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q133083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q133083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240351",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Gauteng"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q1335678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1335678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57414514"
+      ],
+      "type": {
+        "lang:af": "plaaslike munisipaliteit",
+        "lang:en": "local municipality"
+      },
+      "name": {
+        "lang:en": "Emfuleni"
+      },
+      "parent_id": "Q133083"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q57577146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 1"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 2"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 3"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 4"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 5"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 6"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 7"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 8"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 9"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 10"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 11"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 12"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 13"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 14"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 15"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 16"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 17"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 18"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577171",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577171"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 19"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 20"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 21"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 22"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577178",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577178"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 23"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 24"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577182",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577182"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 25"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 26"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 27"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577187",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577187"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 28"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 29"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 30"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577192",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577192"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 31"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 32"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 33"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 34"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 35"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577200",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577200"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 36"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 37"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577203",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577203"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 38"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 39"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 40"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 41"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 42"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 43"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 44"
+      },
+      "parent_id": "Q1335678"
+    },
+    {
+      "id": "Q57577214",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:gt/local-municipality:emfuleni/ward:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577214"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417763"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emfuleni Municipal Council",
+        "lang:en": "ward of the Emfuleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emfuleni Ward 45"
+      },
+      "parent_id": "Q1335678"
+    }
   ],
   "memberships": [
 

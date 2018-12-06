@@ -48,7 +48,902 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q132410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q132410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q7240354",
+        "Q16744266"
+      ],
+      "type": {
+        "lang:af": "Provinsies van Suid-Afrika",
+        "lang:en": "province of South Africa",
+        "lang:st": "Diporofensi tsa Afrika Borwa",
+        "lang:tn": "Diprofense tsa Afrika Borwa",
+        "lang:ve": "Phurovinsi ya Afurika Tshipembe",
+        "lang:xh": "Uluhlu lweendawo eMzantsi Afrika",
+        "lang:zu": "Izifundazwe zaseNingizimu Afrika"
+      },
+      "name": {
+        "lang:en": "Mpumalanga"
+      },
+      "parent_id": "Q258"
+    },
+    {
+      "id": "Q2347801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2347801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57416120"
+      ],
+      "type": {
+        "lang:af": "plaaslike munisipaliteit",
+        "lang:en": "local municipality"
+      },
+      "name": {
+        "lang:en": "Emalahleni"
+      },
+      "parent_id": "Q132410"
+    },
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q57577022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 1"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 2"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 3"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 4"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 5"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 6"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 7"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 8"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 9"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 10"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 11"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 12"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577041"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 13"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577043",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577043"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 14"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577045",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577045"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 15"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 16"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 17"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 18"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 19"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 20"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577053",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577053"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 21"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 22"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 23"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 24"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 25"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 26"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 27"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 28"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577067",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577067"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 29"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 30"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 31"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577072",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577072"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 32"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 33"
+      },
+      "parent_id": "Q2347801"
+    },
+    {
+      "id": "Q57577076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/province:mp/local-municipality:emalahleni/ward:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57577076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57417773"
+      ],
+      "type": {
+        "lang:af": "kieswyk van die Emalahleni Municipal Council",
+        "lang:en": "ward of the Emalahleni Municipal Council"
+      },
+      "name": {
+        "lang:en": "Emalahleni Ward 34"
+      },
+      "parent_id": "Q2347801"
+    }
   ],
   "memberships": [
     {
