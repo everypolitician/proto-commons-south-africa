@@ -6,7 +6,7 @@ WARNING: the district Mpumalanga (Q59136541) wasn't found in the boundary data f
 WARNING: Position Lid van die Noord-Wes Provinsiale Wetgewer (Q57313175) not in boundary associated_wikidata_positions
 WARNING: Position Lid van die Provinsiale Parlement van die Wes-Kaap (Q6814209) not in boundary associated_wikidata_positions
 WARNING: the district Western Cape (Q59136539) wasn't found in the boundary data for position Lid van die Provinsiale Parlement van die Wes-Kaap (Q6814209)
-WARNING: Position member of the National Council of Provinces (Q20079916) not in boundary associated_wikidata_positions
+WARNING: Position lid van die Nasionale Raad van Provinsies (Q20079916) not in boundary associated_wikidata_positions
 WARNING: Position Lid van die Oos-Kaap Provinsiale Wetgewer (Q57312980) not in boundary associated_wikidata_positions
 WARNING: the district Eastern Cape (Q59136540) wasn't found in the boundary data for position Lid van die Oos-Kaap Provinsiale Wetgewer (Q57312980)
 WARNING: Position Lid van die Gauteng Provinsiale Wetgewer (Q57313165) not in boundary associated_wikidata_positions
