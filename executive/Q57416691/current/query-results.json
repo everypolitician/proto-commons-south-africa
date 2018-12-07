@@ -90,6 +90,35 @@
           "type": "literal",
           "value": "Olly Mlamleli"
         },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q83162"
+        },
+        "party_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "African National Congress"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "African National Congress"
+        },
+        "party_name_nso": {
+          "xml:lang": "nso",
+          "type": "literal",
+          "value": "African National Congress"
+        },
+        "party_name_xh": {
+          "xml:lang": "xh",
+          "type": "literal",
+          "value": "I-African National Congress"
+        },
+        "party_name_zu": {
+          "xml:lang": "zu",
+          "type": "literal",
+          "value": "African National Congress"
+        },
         "district": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q1159185"
