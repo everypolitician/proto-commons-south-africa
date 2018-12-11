@@ -54,7 +54,55 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q273884"
+      ],
+      "type": {
+        "lang:af": "land",
+        "lang:en": "country",
+        "lang:nso": "Naga",
+        "lang:st": "naha"
+      },
+      "name": {
+        "lang:en": "Republic of South Africa"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q59136541",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/provincial-assembly-constituency:mpumalanga"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59136541"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q57313172"
+      ],
+      "type": {
+        "lang:en": "constituency of a provincial legislature in South Africa"
+      },
+      "name": {
+        "lang:en": "Mpumalanga"
+      },
+      "parent_id": "Q258"
+    }
   ],
   "memberships": [
     {
