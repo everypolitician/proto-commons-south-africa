@@ -8366,6 +8366,29 @@
       "parent_id": null
     },
     {
+      "id": "Q59654381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:za/national-list-constituency"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59654381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16744266"
+      ],
+      "type": {
+        "lang:en": "constituency"
+      },
+      "name": {
+        "lang:en": "National List members"
+      },
+      "parent_id": "Q258"
+    },
+    {
       "id": "Q81725",
       "identifiers": [
         {
