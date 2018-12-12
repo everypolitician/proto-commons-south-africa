@@ -191,6 +191,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q57388461"
         },
+        "role_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Premier van 'n Suid-Afrikaanse provinsie"
+        },
         "role_superclass_en": {
           "xml:lang": "en",
           "type": "literal",

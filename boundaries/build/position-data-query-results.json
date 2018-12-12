@@ -56,6 +56,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q16744266"
         },
+        "position_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van die Nasionale Vergadering van Suid-Afrika"
+        },
         "position_name_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -156,6 +161,11 @@
         "position": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q16744266"
+        },
+        "position_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van die Nasionale Vergadering van Suid-Afrika"
         },
         "position_name_en": {
           "xml:lang": "en",
@@ -258,6 +268,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q20079916"
         },
+        "position_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van die Nasionale Raad van Provinsies"
+        },
         "position_name_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -353,6 +368,11 @@
         "position": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q20079916"
+        },
+        "position_name_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van die Nasionale Raad van Provinsies"
         },
         "position_name_en": {
           "xml:lang": "en",
@@ -808,6 +828,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q57388461"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Premier van 'n Suid-Afrikaanse provinsie"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -904,6 +929,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q5230427"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van 'n wetgewende vergadering"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -999,6 +1029,11 @@
         "positionSuperclass": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van 'n wetgewende vergadering"
         },
         "position_superclass_en": {
           "xml:lang": "en",
@@ -1101,6 +1136,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q5230427"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van 'n wetgewende vergadering"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -1196,6 +1236,11 @@
         "positionSuperclass": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van 'n wetgewende vergadering"
         },
         "position_superclass_en": {
           "xml:lang": "en",
@@ -1298,6 +1343,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q5230427"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van 'n wetgewende vergadering"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -1399,6 +1449,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q5230427"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van 'n wetgewende vergadering"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -1495,6 +1550,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q5230427"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van 'n wetgewende vergadering"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -1590,6 +1650,11 @@
         "positionSuperclass": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q5230427"
+        },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van 'n wetgewende vergadering"
         },
         "position_superclass_en": {
           "xml:lang": "en",
@@ -3645,6 +3710,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q5230427"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van 'n wetgewende vergadering"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -3838,6 +3908,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q57388461"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Premier van 'n Suid-Afrikaanse provinsie"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -3929,6 +4004,11 @@
         "positionSuperclass": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q57388461"
+        },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Premier van 'n Suid-Afrikaanse provinsie"
         },
         "position_superclass_en": {
           "xml:lang": "en",
@@ -4027,6 +4107,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q57388461"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Premier van 'n Suid-Afrikaanse provinsie"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -4124,6 +4209,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q57388461"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Premier van 'n Suid-Afrikaanse provinsie"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -4215,6 +4305,11 @@
         "positionSuperclass": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q57388461"
+        },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Premier van 'n Suid-Afrikaanse provinsie"
         },
         "position_superclass_en": {
           "xml:lang": "en",
@@ -4308,6 +4403,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q57388461"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Premier van 'n Suid-Afrikaanse provinsie"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -4400,6 +4500,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q57388461"
         },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Premier van 'n Suid-Afrikaanse provinsie"
+        },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
@@ -4491,6 +4596,11 @@
         "positionSuperclass": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q57388461"
+        },
+        "position_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "Premier van 'n Suid-Afrikaanse provinsie"
         },
         "position_superclass_en": {
           "xml:lang": "en",
