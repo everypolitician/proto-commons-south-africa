@@ -414,6 +414,21 @@
     },
     {
       "name": {
+        "lang:en": "Beauty Dambuza"
+      },
+      "id": "Q16744388",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16744388"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:af": "Cheryllyn Dudley",
         "lang:en": "Cheryllyn Dudley"
       },
@@ -4928,21 +4943,6 @@
     },
     {
       "name": {
-        "lang:en": "Beauty Nomhle Dambuza"
-      },
-      "id": "Q47529972",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q47529972"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:af": "Thandeka Mbabama",
         "lang:en": "Thandeka Moloko Mbabama"
       },
@@ -8432,6 +8432,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8449,6 +8450,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8466,6 +8468,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8482,6 +8485,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8498,6 +8502,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8514,6 +8519,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8531,6 +8537,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8547,6 +8554,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8563,6 +8571,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8580,6 +8589,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8597,6 +8607,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8614,6 +8625,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8630,6 +8642,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8646,6 +8659,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8662,6 +8676,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8678,6 +8693,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8695,6 +8711,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8711,6 +8728,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8728,6 +8746,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8745,6 +8764,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8762,6 +8782,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8778,6 +8799,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8795,6 +8817,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8811,6 +8834,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8828,6 +8852,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8845,6 +8870,25 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
+        "lang:en": "member of the National Assembly of South Africa",
+        "lang:ts": "Xirho xa Huvo ya rixaka"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16744388-206C28DF-9F88-47D7-98DD-E2EF36418439",
+      "person_id": "Q16744388",
+      "on_behalf_of_id": "Q83162",
+      "organization_id": "Q240823",
+      "area_id": "Q130840",
+      "start_date": "2016-10-14",
+      "role_superclass_code": "Q6814221",
+      "role_superclass": {
+        "lang:en": "Member of the Parliament of South Africa"
+      },
+      "role_code": "Q16744266",
+      "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8861,6 +8905,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8878,6 +8923,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8896,6 +8942,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8913,6 +8960,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8930,6 +8978,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8947,6 +8996,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8963,6 +9013,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8980,6 +9031,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -8996,6 +9048,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9013,6 +9066,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9030,6 +9084,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9047,6 +9102,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9064,6 +9120,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9081,6 +9138,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9098,6 +9156,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9114,6 +9173,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9130,6 +9190,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9146,6 +9207,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9163,6 +9225,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9180,6 +9243,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9196,6 +9260,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9212,6 +9277,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9229,6 +9295,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9245,6 +9312,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9262,6 +9330,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9279,6 +9348,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9296,6 +9366,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9313,6 +9384,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9330,6 +9402,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9347,6 +9420,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9364,6 +9438,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9381,6 +9456,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9398,6 +9474,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9415,6 +9492,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9431,6 +9509,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9448,6 +9527,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9464,6 +9544,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9481,6 +9562,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9498,6 +9580,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9515,6 +9598,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9532,6 +9616,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9549,6 +9634,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9565,6 +9651,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9582,6 +9669,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9599,6 +9687,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9616,6 +9705,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9634,6 +9724,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9651,6 +9742,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9667,6 +9759,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9683,6 +9776,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9699,6 +9793,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9715,6 +9810,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9731,6 +9827,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9748,6 +9845,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9766,6 +9864,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9783,6 +9882,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9799,6 +9899,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9816,6 +9917,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9833,6 +9935,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9851,6 +9954,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9867,6 +9971,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9883,6 +9988,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9899,6 +10005,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9915,6 +10022,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9931,6 +10039,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9949,6 +10058,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9966,6 +10076,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9983,6 +10094,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -9999,6 +10111,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10015,6 +10128,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10031,6 +10145,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10047,6 +10162,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10063,6 +10179,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10079,6 +10196,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10096,6 +10214,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10113,6 +10232,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10131,6 +10251,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10147,6 +10268,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10164,6 +10286,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10180,6 +10303,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10196,6 +10320,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10212,6 +10337,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10228,6 +10354,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10244,6 +10371,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10261,6 +10389,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10278,6 +10407,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10294,6 +10424,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10310,6 +10441,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10326,6 +10458,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10342,6 +10475,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10358,6 +10492,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10374,6 +10509,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10390,6 +10526,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10408,6 +10545,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10424,6 +10562,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10440,6 +10579,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10457,6 +10597,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10474,6 +10615,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10490,6 +10632,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10506,6 +10649,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10523,6 +10667,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10540,6 +10685,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10556,6 +10702,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10573,6 +10720,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10590,6 +10738,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10607,6 +10756,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10623,6 +10773,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10639,6 +10790,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10656,6 +10808,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10673,6 +10826,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10690,6 +10844,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10706,6 +10861,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10723,6 +10879,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10740,6 +10897,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10757,6 +10915,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10774,6 +10933,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10791,6 +10951,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10808,6 +10969,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10824,6 +10986,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10841,6 +11004,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10858,6 +11022,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10874,6 +11039,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10890,6 +11056,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10907,6 +11074,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10923,6 +11091,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10940,6 +11109,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10956,6 +11126,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10972,6 +11143,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -10988,6 +11160,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11004,6 +11177,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11020,6 +11194,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11036,6 +11211,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11052,6 +11228,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11068,6 +11245,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11084,6 +11262,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11101,6 +11280,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11117,6 +11297,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11133,6 +11314,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11150,6 +11332,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11167,6 +11350,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11184,6 +11368,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11201,6 +11386,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11217,6 +11403,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11234,6 +11421,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11251,6 +11439,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11267,6 +11456,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11284,6 +11474,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11301,6 +11492,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11317,6 +11509,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11334,6 +11527,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11350,6 +11544,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11366,6 +11561,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11383,6 +11579,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11400,6 +11597,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11417,6 +11615,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11434,6 +11633,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11451,6 +11651,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11468,6 +11669,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11485,6 +11687,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11502,6 +11705,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11519,6 +11723,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11536,6 +11741,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11553,6 +11759,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11570,6 +11777,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11587,6 +11795,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11604,6 +11813,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11621,6 +11831,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11638,6 +11849,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11655,6 +11867,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11672,6 +11885,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11688,6 +11902,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11697,6 +11912,7 @@
       "person_id": "Q47529709",
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
+      "area_id": "Q59654381",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -11704,6 +11920,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11720,6 +11937,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11737,6 +11955,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11754,6 +11973,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11770,6 +11990,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11787,6 +12008,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11796,6 +12018,7 @@
       "person_id": "Q47529720",
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
+      "area_id": "Q59654381",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -11803,6 +12026,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11819,6 +12043,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11835,6 +12060,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11844,6 +12070,7 @@
       "person_id": "Q47529725",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
+      "area_id": "Q59654381",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -11851,6 +12078,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11867,6 +12095,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11883,6 +12112,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11900,6 +12130,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11909,6 +12140,7 @@
       "person_id": "Q47529736",
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
+      "area_id": "Q59654381",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -11916,6 +12148,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11933,6 +12166,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11950,6 +12184,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11967,6 +12202,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -11985,6 +12221,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12001,6 +12238,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12018,6 +12256,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12035,6 +12274,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12052,6 +12292,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12069,6 +12310,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12078,6 +12320,7 @@
       "person_id": "Q47529765",
       "on_behalf_of_id": "Q761877",
       "organization_id": "Q240823",
+      "area_id": "Q59654381",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -12085,6 +12328,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12101,6 +12345,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12118,6 +12363,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12127,6 +12373,7 @@
       "person_id": "Q47529770",
       "on_behalf_of_id": "Q654444",
       "organization_id": "Q240823",
+      "area_id": "Q59654381",
       "start_date": "2014-05-21",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -12134,6 +12381,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12143,6 +12391,7 @@
       "person_id": "Q47529773",
       "on_behalf_of_id": "Q83162",
       "organization_id": "Q240823",
+      "area_id": "Q59654381",
       "start_date": "2014-05-07",
       "role_superclass_code": "Q6814221",
       "role_superclass": {
@@ -12150,6 +12399,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12167,6 +12417,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12185,6 +12436,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12201,6 +12453,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12217,6 +12470,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12233,6 +12487,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12249,6 +12504,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12266,6 +12522,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12282,6 +12539,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12298,6 +12556,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12314,6 +12573,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12330,6 +12590,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12346,6 +12607,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12363,6 +12625,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12381,6 +12644,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12397,6 +12661,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12414,6 +12679,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12431,6 +12697,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12448,6 +12715,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12466,6 +12734,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12483,6 +12752,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12499,6 +12769,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12515,6 +12786,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12531,6 +12803,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12548,6 +12821,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12564,6 +12838,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12581,6 +12856,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12597,6 +12873,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12614,6 +12891,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12631,6 +12909,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12647,6 +12926,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12664,6 +12944,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12681,6 +12962,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12698,6 +12980,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12715,6 +12998,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12732,6 +13016,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12748,6 +13033,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12764,6 +13050,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12781,6 +13068,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12798,6 +13086,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12815,6 +13104,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12831,6 +13121,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12848,6 +13139,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12865,6 +13157,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12882,6 +13175,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12899,6 +13193,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12916,6 +13211,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12932,6 +13228,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12949,6 +13246,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12966,6 +13264,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -12983,6 +13282,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13000,6 +13300,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13017,6 +13318,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13033,6 +13335,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13049,6 +13352,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13066,6 +13370,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13083,6 +13388,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13100,6 +13406,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13116,6 +13423,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13132,6 +13440,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13149,6 +13458,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13166,6 +13476,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13183,6 +13494,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13199,6 +13511,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13215,6 +13528,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13231,6 +13545,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13247,6 +13562,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13263,6 +13579,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13279,6 +13596,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13296,6 +13614,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13312,6 +13631,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13329,6 +13649,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13346,6 +13667,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13363,6 +13685,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13379,6 +13702,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13396,6 +13720,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13413,6 +13738,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13429,6 +13755,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13446,6 +13773,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13462,6 +13790,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13479,6 +13808,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13495,6 +13825,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13512,6 +13843,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13529,6 +13861,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13545,6 +13878,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13561,6 +13895,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13578,6 +13913,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13595,23 +13931,7 @@
       },
       "role_code": "Q16744266",
       "role": {
-        "lang:en": "member of the National Assembly of South Africa",
-        "lang:ts": "Xirho xa Huvo ya rixaka"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47529972-4C0F8DB2-8A56-49B7-8BB3-A4B7F457CC44",
-      "person_id": "Q47529972",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q240823",
-      "area_id": "Q130840",
-      "start_date": "2016-10-14",
-      "role_superclass_code": "Q6814221",
-      "role_superclass": {
-        "lang:en": "Member of the Parliament of South Africa"
-      },
-      "role_code": "Q16744266",
-      "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13629,6 +13949,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13646,6 +13967,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13662,6 +13984,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13678,6 +14001,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13694,6 +14018,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13711,6 +14036,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13728,6 +14054,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13744,6 +14071,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13761,6 +14089,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13778,6 +14107,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13795,6 +14125,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13811,6 +14142,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13827,6 +14159,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13844,6 +14177,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13861,6 +14195,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13878,6 +14213,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13896,6 +14232,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13912,6 +14249,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13928,6 +14266,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13944,6 +14283,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13961,6 +14301,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13977,6 +14318,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -13994,6 +14336,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14010,6 +14353,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14027,6 +14371,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14044,6 +14389,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14061,6 +14407,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14077,6 +14424,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14093,6 +14441,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14110,6 +14459,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14127,6 +14477,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14144,6 +14495,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14160,6 +14512,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14177,6 +14530,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14194,6 +14548,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14211,6 +14566,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14228,6 +14584,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14244,6 +14601,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14260,6 +14618,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14276,6 +14635,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14292,6 +14652,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14309,6 +14670,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14325,6 +14687,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14341,6 +14704,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14357,6 +14721,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14373,6 +14738,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14390,6 +14756,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14408,6 +14775,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14425,6 +14793,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14442,6 +14811,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14458,6 +14828,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14474,6 +14845,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14490,6 +14862,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14506,6 +14879,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14524,6 +14898,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14541,6 +14916,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14559,6 +14935,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14577,6 +14954,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14595,6 +14973,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14613,6 +14992,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14631,6 +15011,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14649,6 +15030,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14667,6 +15049,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14685,6 +15068,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14703,6 +15087,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14720,6 +15105,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14737,6 +15123,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14754,6 +15141,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14770,6 +15158,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14788,6 +15177,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14806,6 +15196,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14824,6 +15215,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14842,6 +15234,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14860,6 +15253,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14877,6 +15271,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14894,6 +15289,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14912,6 +15308,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14930,6 +15327,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14947,6 +15345,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14964,6 +15363,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14982,6 +15382,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -14999,6 +15400,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15016,6 +15418,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15033,6 +15436,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15051,6 +15455,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15069,6 +15474,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15086,6 +15492,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15103,6 +15510,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15120,6 +15528,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15137,6 +15546,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15155,6 +15565,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15173,6 +15584,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15190,6 +15602,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15207,6 +15620,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15223,6 +15637,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15240,6 +15655,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15258,6 +15674,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15276,6 +15693,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15293,6 +15711,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15310,6 +15729,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15328,6 +15748,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15346,6 +15767,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15363,6 +15785,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15381,6 +15804,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15399,6 +15823,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15417,6 +15842,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15435,6 +15861,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15453,6 +15880,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15471,6 +15899,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15488,6 +15917,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15506,6 +15936,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15524,6 +15955,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15541,6 +15973,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15558,6 +15991,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15575,6 +16009,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15592,6 +16027,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15608,6 +16044,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15624,6 +16061,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15641,6 +16079,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15657,6 +16096,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15673,6 +16113,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15689,6 +16130,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15706,6 +16148,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15722,6 +16165,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15738,6 +16182,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15754,6 +16199,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15771,6 +16217,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15788,6 +16235,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15804,6 +16252,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15821,6 +16270,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15838,6 +16288,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15854,6 +16305,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15869,6 +16321,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15886,6 +16339,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15902,6 +16356,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15918,6 +16373,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15935,6 +16391,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15952,6 +16409,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15969,6 +16427,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -15985,6 +16444,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16002,6 +16462,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16019,6 +16480,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16036,6 +16498,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16053,6 +16516,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16070,6 +16534,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16086,6 +16551,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16102,6 +16568,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16118,6 +16585,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16135,6 +16603,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16151,6 +16620,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16167,6 +16637,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16183,6 +16654,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16199,6 +16671,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16215,6 +16688,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16231,6 +16705,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16247,6 +16722,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16263,6 +16739,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16279,6 +16756,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16295,6 +16773,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16312,6 +16791,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16329,6 +16809,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16345,6 +16826,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16361,6 +16843,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16377,6 +16860,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16393,6 +16877,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16410,6 +16895,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16426,6 +16912,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16442,6 +16929,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16459,6 +16947,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16476,6 +16965,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16493,6 +16983,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16511,6 +17002,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16527,6 +17019,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16544,6 +17037,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16561,6 +17055,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16578,6 +17073,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16595,6 +17091,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16612,6 +17109,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16628,6 +17126,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16645,6 +17144,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16662,6 +17162,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16679,6 +17180,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16695,6 +17197,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16711,6 +17214,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16729,6 +17233,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16745,6 +17250,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16762,6 +17268,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16778,6 +17285,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16796,6 +17304,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16812,6 +17321,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16828,6 +17338,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16845,6 +17356,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16862,6 +17374,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16879,6 +17392,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16895,6 +17409,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16912,6 +17427,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16928,6 +17444,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16944,6 +17461,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16961,6 +17479,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16977,6 +17496,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -16993,6 +17513,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -17008,6 +17529,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -17024,6 +17546,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -17042,6 +17565,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -17058,6 +17582,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -17074,6 +17599,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -17090,6 +17616,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -17106,6 +17633,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
@@ -17122,6 +17650,7 @@
       },
       "role_code": "Q16744266",
       "role": {
+        "lang:af": "lid van die Nasionale Vergadering van Suid-Afrika",
         "lang:en": "member of the National Assembly of South Africa",
         "lang:ts": "Xirho xa Huvo ya rixaka"
       }
