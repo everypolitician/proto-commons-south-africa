@@ -1,23 +1,6 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:en": "Themba Njilo"
-      },
-      "id": "Q57548021",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q57548021"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/Themba-Jerome-Mduduzi-Mayor-msunduszi-NJILO-656965114479442"
-        }
-      ]
-    }
+
   ],
   "organizations": [
     {
@@ -37,23 +20,6 @@
       "seat_counts": {
         "Q57417761": "78"
       }
-    },
-    {
-      "name": {
-        "lang:af": "African National Congress",
-        "lang:en": "African National Congress",
-        "lang:nso": "African National Congress",
-        "lang:xh": "I-African National Congress",
-        "lang:zu": "African National Congress"
-      },
-      "id": "Q83162",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q83162"
-        }
-      ]
     }
   ],
   "areas": [
@@ -1075,21 +1041,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q57548021-D3400076-CAF5-4B51-BAB7-3058409D87A9",
-      "person_id": "Q57548021",
-      "on_behalf_of_id": "Q83162",
-      "organization_id": "Q57416975",
-      "start_date": "2016-08-19",
-      "role_superclass_code": "Q708492",
-      "role_superclass": {
-        "lang:en": "councillor"
-      },
-      "role_code": "Q57417761",
-      "role": {
-        "lang:af": "Raadslid van die Msunduzi Munisipale Raad",
-        "lang:en": "Councillor of the Msunduzi Municipal Council"
-      }
-    }
+
   ]
 }

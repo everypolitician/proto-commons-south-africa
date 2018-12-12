@@ -147,6 +147,11 @@
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q5230427"
         },
+        "role_superclass_af": {
+          "xml:lang": "af",
+          "type": "literal",
+          "value": "lid van 'n wetgewende vergadering"
+        },
         "role_superclass_en": {
           "xml:lang": "en",
           "type": "literal",

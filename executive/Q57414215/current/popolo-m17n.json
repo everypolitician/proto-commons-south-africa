@@ -31,6 +31,23 @@
         }
       ],
       "area_id": "Q1873451"
+    },
+    {
+      "name": {
+        "lang:af": "African National Congress",
+        "lang:en": "African National Congress",
+        "lang:nso": "African National Congress",
+        "lang:xh": "I-African National Congress",
+        "lang:zu": "African National Congress"
+      },
+      "id": "Q83162",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q83162"
+        }
+      ]
     }
   ],
   "areas": [
@@ -119,6 +136,7 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q57548022-63DF5CB6-4D80-4716-A375-F90E5A6E576A",
       "person_id": "Q57548022",
+      "on_behalf_of_id": "Q83162",
       "organization_id": "Q57414215",
       "area_id": "Q1873451",
       "start_date": "2016-08-16",
