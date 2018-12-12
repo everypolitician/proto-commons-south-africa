@@ -9260,7 +9260,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q16765139-9EFFB62C-DE96-4E1E-9FAE-617E166B26F3"
+          "value": "http://www.wikidata.org/entity/statement/Q16765139-F858E14B-1230-4D91-9410-9DD6BD838E66"
         },
         "item": {
           "type": "uri",
@@ -9370,7 +9370,7 @@
       {
         "statement": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q16765139-F858E14B-1230-4D91-9410-9DD6BD838E66"
+          "value": "http://www.wikidata.org/entity/statement/Q16765139-9EFFB62C-DE96-4E1E-9FAE-617E166B26F3"
         },
         "item": {
           "type": "uri",
