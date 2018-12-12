@@ -202,6 +202,19 @@
     }
   },
   {
+    "directory": "national-list-constituency",
+    "area_type_wikidata_item_id": "Q192611",
+    "associations": [
+      {
+        "comment": "member of the National Assembly of South Africa",
+        "position_item_id": "Q16744266"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    }
+  },
+  {
     "directory": "municipalities",
     "area_type_wikidata_item_id": "Q1500352",
     "associations": [
